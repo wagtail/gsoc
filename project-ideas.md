@@ -93,8 +93,10 @@ This project is suitable with a wide range of skillsets, we can adjust tasks acc
 
 Mentoring line-up TBC between Chris, Thibaud, Sage, performance team members
 
-- Lead: TBC
-- Support: TBC
+- Lead: Thibaud Colas
+- Support: Chris Adams
+- Support 2: Fershad Irani (TBC)
+- Support 3: Sage Abdullah (TBC)
 
 #### Size
 
@@ -117,11 +119,11 @@ You can also propose your own idea. Your proposal should:
 - Provide a schedule, including a detailed work breakdown and major milestones.
 - Contain your motivation and curriculum vitae.
 
-Here is an example of [an accepted proposal](https://gist.github.com/chrismedrela/82cbda8d2a78a280a129).
+Here is an example of [an accepted proposal](https://gist.github.com/chrismedrela/82cbda8d2a78a280a129) on Django.
 
 Note:
 
-- The project ideas below are starting points for your submission, but aren’t enough by themselves. You’ll need to come up with a more complete project plan, and use your own words.
+- The project ideas above are starting points for your submission, but aren’t enough by themselves. You’ll need to come up with a more complete project plan, and use your own words.
 - Do not feel limited to the project ideas below.
 - If you have a project idea not listed, please direct message the [organisation admins](#organisation-admins). They can test the project eligibility and pair you with a mentor for initial feedback.
 
