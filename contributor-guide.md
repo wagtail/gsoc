@@ -10,7 +10,7 @@ Wagtail is a popular content management system. It's built on Python and Django,
 
 ## GSoC eligibility criteria
 
-Our eligibility criteria
+We use the same [eligibility criteria](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation) as every other GSoC participating organization. In particular
 
 ## Contributor tasks
 
@@ -28,16 +28,24 @@ No matter which specific project idea you’re interested in, we expect all part
 
 The best thing you can do to improve your chances of being accepted as a Wagtail GSoC contributor is to start being involved now. Make yourself known to the community. Go through our checklists, recommended tutorials, and help fellow contributors who are going through the same process. Try to contribute to an area related to your proposal. When the time comes to evaluate applications, you will be a known individual.
 
-We're here to help, but we can't watch you every step of the way. We need to see motivation from you. Your activities before the submissions process are the best way to demonstrate this.
+We're here to help, but we can't watch you every step of the way. We need to see motivation from you. Your activities before the submissions process are the best way to demonstrate this. Any application submitted late, from people we haven’t heard from before, will be considered with a lot of skepticism.
 
-### Checklist: Google Summer of Code
+### Checklists
 
-This is the first checklist for candidates to go through, at their own pace. It’s a good idea to start early, so you can get to know the community and the project.
+We use checklists so all candidates demonstrate their interest and skills with the same process. They will help you get started and make sure you’re on the right track.
 
-The following checklists will help you get started and make sure you’re on the right track.
+#### Checklist: Google Summer of Code
+
+This is the first checklist for candidates to go through. It’s a good idea to start early, so you can get to know the community and the project.
 
 - [ ] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
+- [ ] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
 - [ ] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
+- [ ] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
+
+You’ve done the hardest bits! Now all that’s left is for you to:
+
+- [ ] Introduce yourself on our [Welcome to Wagtail! Introductions](https://github.com/wagtail/gsoc/discussions/1) discussion thread.
 
 ### Checklist: open source contributions
 
