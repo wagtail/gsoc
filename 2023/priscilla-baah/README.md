@@ -1,5 +1,4 @@
 ## **Introduction**
----
 
 Hello everyone ! 👋
 
@@ -11,10 +10,10 @@ I am passionate about continuous learning and knowledge sharing through communit
 In my work I am always looking for ways to improve efficiency and make things easier for others. This, combined with my experience in Django is why I am heavily interested in working on the background workers project for Wagtail. 
 Going through slack conversations and comments here, I love the effort that Wagtail puts into creating a very diverse and welcoming community for all contributors, and I am very happy to be a part of the community.
 
+---
 
 
 ## **Socials**
----
 
 | Social      | Link                                                            |
 | ----------- | ----------------------------------------------------------------|
@@ -22,10 +21,10 @@ Going through slack conversations and comments here, I love the effort that Wagt
 | Twitter     | [ofosua_x](https://twitter.com/ofosua_x)                        |
 | LinkedIn    | [Priscilla Baah](https://www.linkedin.com/in/priscillabaah/)    |
 
+---
 
 
 ## **Tasks**
----
 
 ### Checklist: Google Summer of Code
 - [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
