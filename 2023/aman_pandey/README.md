@@ -51,6 +51,10 @@ in few small startups, stacks of my experience involves **django, django-restfra
 | wagtail github repositories |  https://github.com/wagtail |
 | django documentation | https://docs.djangoproject.com/en/4.1/ |
 | django github repository | https://github.com/django/django |
+| celery | https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html |
+| celery-django | https://pypi.org/project/django-celery/ |
+| rq | https://github.com/rq/rq |
+| Drupal's background_process module | https://www.drupal.org/project/background_process |
 
 ### Interested GSoC project
 [RFC 72: Background workers](https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2023#rfc-72-background-workers)
