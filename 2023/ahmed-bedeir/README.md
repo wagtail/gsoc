@@ -1,3 +1,5 @@
+## Introduction
+
 Hello everyone! 👋
 My name is [Ahmed Bedeir](https://github.com/AhmedBedeir), and I'm a passionate software engineer based in Egypt. I have a deep appreciation for the power of open-source software, and I'm eager to contribute my skills to the open-source community.
 
@@ -8,4 +10,9 @@ With my technical skills in Python, Django, and JavaScript, attention to detail,
 Thank you for taking the time to read my introduction. I look forward to connecting with you all and expanding my knowledge in open-source communities.
 If you need help, feel free to message [me](https://www.linkedin.com/in/ahmed-bedeir/)🙌.
 
+## Social Media
 
+| social media |                   link                    |
+| ------------ | :---------------------------------------: |
+| Github       |      https://github.com/AhmedBedeir       |
+| Linkedin     | https://www.linkedin.com/in/ahmed-bedeir/ |
