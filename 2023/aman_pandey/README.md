@@ -38,7 +38,7 @@ in few small startups, stacks of my experience involves **django, django-restfra
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description).
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
 - [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 - [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
@@ -59,6 +59,9 @@ in few small startups, stacks of my experience involves **django, django-restfra
 ### Interested GSoC project
 [RFC 72: Background workers](https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2023#rfc-72-background-workers)
 
-### Related wagtail repositories to the project of my interest
+### Related wagtail repositories i would be working on
 1. [Main wagtail repository](https://github.com/wagtail/wagtail)
 2. [Bakerydemo](https://github.com/wagtail/wagtail-bakery)
+
+## Blog
+https://saltyivylearning.hashnode.dev/hidden-gems-i-acquired-from-open-source-projects
