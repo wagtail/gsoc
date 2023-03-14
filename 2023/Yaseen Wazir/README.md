@@ -11,3 +11,4 @@ I am weary of going through W3Schools articles, HackerRank, and HackerEarth prob
 | --- | --- |
 | Github | [https://github.com/yaseen2](https://github.com/yaseen2) |
 | Website | [https://www.wazir.codes](https://www.wazir.codes) |
+| YouTube | [https://www.youtube.com/@yaseensuniverse139](https://www.youtube.com/@yaseensuniverse139) |
