@@ -38,10 +38,10 @@ We use checklists so all candidates demonstrate their interest and skills with t
 
 This is the first checklist for candidates to go through. It’s a good idea to start early, so you can get to know the community and the project.
 
-- [ ] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
-- [ ] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
-- [ ] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
-- [ ] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
+- [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
+- [x] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
+- [x] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
+- [x] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
 
 You’ve done the hardest bits! Now all that’s left is for you to:
 
