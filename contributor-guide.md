@@ -38,21 +38,21 @@ We use checklists so all candidates demonstrate their interest and skills with t
 
 This is the first checklist for candidates to go through. It’s a good idea to start early, so you can get to know the community and the project.
 
-- [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
-- [x] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
-- [x] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
-- [x] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
+- [ ] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
+- [ ] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
+- [ ] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
+- [ ] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
 
 You’ve done the hardest bits! Now all that’s left is for you to:
 
-- [x] Introduce yourself on our [Welcome to Wagtail! Introductions](https://github.com/wagtail/gsoc/discussions/1) discussion thread.
+- [ ] Introduce yourself on our [Welcome to Wagtail! Introductions](https://github.com/wagtail/gsoc/discussions/1) discussion thread.
 
 ### Checklist: open source contributions
 
 This checklist helps you demonstrate your understanding of how people use GitHub to collaborate.
 
-- [x] Read through [How to contribute to open source](https://opensource.guide/how-to-contribute/)
-- [x] Read [Open source etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
+- [ ] Read through [How to contribute to open source](https://opensource.guide/how-to-contribute/)
+- [ ] Read [Open source etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette)
 - [ ] Make your first [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with us! Add your name to the list of participants in [2023/README.md](2023/README.md).
 - [ ] Clone this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
 - [ ] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
