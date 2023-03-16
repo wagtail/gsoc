@@ -7,6 +7,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aman Gupta
 - Aman Pandey
 - Bhavya Soni
+- Chinonso Ani
 - Priscilla Baah
 - Gaurav Sarkar
 - Sage Abdullah
