@@ -54,8 +54,8 @@ I hope to connect with you all, mentors and contributors alike, and I wish every
 
 ### Checklist: Django and Wagtail
 
-- [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
-- [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+- [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
+- [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 ## Research
 List of Resources:
