@@ -16,6 +16,7 @@ I hope to connect with you all, mentors and contributors alike, and I wish every
 | Website | [https://allenvtran.github.io/Allen.github.io/index.html](https://allenvtran.github.io/Allen.github.io/index.html) |
 
 ## Tasks
+
 ### Checklist: Google Summer of Code
 
 - [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
@@ -44,16 +45,14 @@ I hope to connect with you all, mentors and contributors alike, and I wish every
 
  - [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
  - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description).
+ 
 ### Checklist: interest in learning
 
-- With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within this gsoc repository in the 2023/ folder.
+- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+- [ ] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
+- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
- - [ ] Create a new ## Research section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
- - [ ] Go through our projects under the wagtail organisation in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
- - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on https://hemingwayapp.com/. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
-###Checklist: Django and Wagtail
+### Checklist: Django and Wagtail
 
-- Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit both projects you will have created as a pull request on this gsoc repository.
-
- - [ ] Go through Django’s Getting started documentation and tutorial, until part 7.
- - [ ] Go through Wagtail’s Getting started tutorial: Your first Wagtail site
+- [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
+- [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
