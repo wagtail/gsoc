@@ -48,11 +48,26 @@ I hope to connect with you all, mentors and contributors alike, and I wish every
  
 ### Checklist: interest in learning
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-- [ ] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+- [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Django and Wagtail
 
 - [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+
+## Research
+List of Resources:
+- [Codebase setup](https://docs.wagtail.org/en/stable/contributing/index.html)
+- [Getting Started](https://docs.wagtail.org/en/stable/getting_started/index.html)
+- [(NEW)Issues](https://github.com/wagtail/wagtail/issues/10070)
+
+List of Interesting Issues:
+- [React task: dismissible menu item bug fix](https://github.com/orgs/wagtail/projects/19/views/12?pane=issue&itemId=21499138)
+- [https://github.com/wagtail/wagtail/issues/10141](https://github.com/wagtail/wagtail/issues/10141)
+- [https://github.com/wagtail/wagtail/issues/6944](https://github.com/wagtail/wagtail/issues/6944)
+
+Blog:
+-
+
