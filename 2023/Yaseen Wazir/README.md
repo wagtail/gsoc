@@ -81,7 +81,9 @@ Here, we expect you to go through two tutorials to demonstrate your understandin
 |documentation|[Issue tracking](https://docs.wagtail.org/en/latest/contributing/issue_tracking.html)|
 |Documentation|[Wagtail Documentation - Development](https://docs.wagtail.org/en/stable/contributing/developing.html)|
 
-## Interesting Contribution
+## Repositories I'm Excited to Contribute
+|Title|Link|
+| ---| ---|
 |repository|[wagtail/wagtail.org](https://github.com/wagtail/wagtail.org)|
 |repository|[wagtail/wagtail](https://github.com/wagtail/wagtail)|
 
