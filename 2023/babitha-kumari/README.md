@@ -79,15 +79,15 @@ Here, we expect you to go through two tutorials to demonstrate your understandin
 ## Research
 
 ### Useful Links:
- [Getting started](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
-[bakerydemo Github link](https://github.com/wagtail/bakerydemo)
-[Issues](https://github.com/wagtail/wagtail/issues)
-[codebase setup](https://docs.wagtail.org/en/stable/contributing/index.html)
+1. [Getting started](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+2. [bakerydemo Github link](https://github.com/wagtail/bakerydemo)
+3. [Issues](https://github.com/wagtail/wagtail/issues)
+4. [codebase setup](https://docs.wagtail.org/en/stable/contributing/index.html)
 
 
 ### Interested GSoC projects
-[RFC 72: Background workers](https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2023#rfc-72-background-workers)
-[climate impact of Wagtail](https://github.com/wagtail/wagtail/discussions/8843)
+1. [RFC 72: Background workers](https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2023#rfc-72-background-workers)
+2. [climate impact of Wagtail](https://github.com/wagtail/wagtail/discussions/8843)
 
 ### Interested Repositories
 1. [Main wagtail repository](https://github.com/wagtail/wagtail)
