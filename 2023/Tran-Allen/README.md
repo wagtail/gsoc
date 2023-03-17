@@ -68,6 +68,8 @@ List of Interesting Issues:
 - [https://github.com/wagtail/wagtail/issues/10141](https://github.com/wagtail/wagtail/issues/10141)
 - [https://github.com/wagtail/wagtail/issues/6944](https://github.com/wagtail/wagtail/issues/6944)
 
+Overall, I hope to contribute to the UI design and styleguide as I am familiar with a lot of the languages already(HTML/CSS, javascript). I'm also planning on diving deeper into Django as well.
+
 Blog:
--
+- [WagTail Blog](https://dev.to/allenvtran/wagtail-17a8)
 
