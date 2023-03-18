@@ -6,6 +6,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Ahmed Bedeir
 - Aman Gupta
 - Aman Pandey
+- Amey Shinde
 - Bhavya Soni
 - Chinonso Ani
 - Elton Omwega
