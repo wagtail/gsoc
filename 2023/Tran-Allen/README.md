@@ -64,6 +64,7 @@ List of Resources:
 - [(NEW)Issues](https://github.com/wagtail/wagtail/issues/10070)
 
 List of Interesting Issues:
+- (**Finished**) [https://github.com/wagtail/wagtail/issues/10233](https://github.com/wagtail/wagtail/issues/10233) 
 - [React task: dismissible menu item bug fix](https://github.com/orgs/wagtail/projects/19/views/12?pane=issue&itemId=21499138)
   -[https://github.com/wagtail/wagtail/pull/10107](https://github.com/wagtail/wagtail/pull/10107)
 - [https://github.com/wagtail/wagtail/issues/10141](https://github.com/wagtail/wagtail/issues/10141)
