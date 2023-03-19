@@ -10,47 +10,42 @@
  
 Here is my tech stack details 
    
--Python 
-    Core
-    Intermediate 
-    Advanced 
+- Python 
 
--Django 
+- Django 
 
--Django REST , Flask 
+- Django REST , Flask 
 
--Python Request 
+- Python Request , Asyncio
 
--Python asyncio
+- Queued task Celery , Redis , RebbitMQ , celery - beat 
 
--Queued task Celery , Redis , RebbitMQ , celery - beat 
+- Numpy , pandas , collection 
 
--Numpy , pandas , collection 
+- Pgsql , git version control , 
 
--Pgsql , git version control , 
+- Docker  , Linux distributions , Heroku 
 
--Docker  , Linux distributions , Heroku 
+- Object Oriented Programming 
 
--Javascript , React 
+- Software development life cycle  and  methodologies
+  Test Driven Develpment , Behavior-driven development (BDD) , SOLID principle of software devlopment
 
--Object Oriented Programming 
+- Multithreading , multiprocessing 
 
--Software development life cycle  and  methodologies
-Test Driven Develpment , Behavior-driven development (BDD) , SOLID principle of software devlopment
-
--Multithreading , multiprocessing 
+- Javascript , React 
 
 
 
-- project i want to contribute 
- I want to contribute to the project idea `RFC 72: Background workers` , 
+- Project i want to contribute 
+  I want to contribute to the project idea `RFC 72: Background workers` , 
    - here we can use task queueing with Celery ,and message broker with Redis or RebbitmQ 
      the task can be schedulled and assiged to celery-beat worker and can also be distributted in worker pool
-    - Asyncio also be useful here for creating and assigning task 
+   - Asyncio also be useful here for creating and assigning task 
    
   
 
--Here are my social link
+- Here are my social link
 
 | Social              | Link                                                            |
 | -----------         | ----------------------------------------------------------------|
