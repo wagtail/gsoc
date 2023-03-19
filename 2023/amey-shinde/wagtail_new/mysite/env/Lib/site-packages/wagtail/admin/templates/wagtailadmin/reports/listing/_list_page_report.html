@@ -1,0 +1,36 @@
+{% extends "wagtailadmin/pages/listing/_list.html" %}
+
+{% load i18n wagtailadmin_tags %}
+
+{% block post_parent_page_headers %}
+    <tr class="table-headers">
+        <th class="title">
+            {% trans 'Title' %}
+        </th>
+        <th class="updated">
+            {% trans 'Updated' %}
+        </th>
+        <th class="type">
+            {% trans 'Type' %}
+        </th>
+        <th class="status">
+            {% trans 'Status' %}
+        </th>
+        {% block extra_columns %}
+        {% endblock %}
+    </tr>
+{% endblock %}
+
+{% block page_title %}
+    {% i18n_enabled as show_locale_labels %}
+    {% include "wagtailadmin/pages/listing/_page_title_explore.html" with show_locale_labels=show_locale_labels %}
+{% endblock %}
+
+{% block page_navigation %}
+    {% block extra_page_data %}
+    {% endblock %}
+{% endblock %}
+
+{% block no_results %}
+    <p>{% trans "No pages found." %}</p>
+{% endblock %}

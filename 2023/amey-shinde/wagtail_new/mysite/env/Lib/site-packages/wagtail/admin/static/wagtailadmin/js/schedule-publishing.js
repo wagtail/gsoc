@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{document.getElementById("schedule-publishing-dialog").addEventListener("hide",(()=>{const e=document.getElementById("id_go_live_at"),t=document.getElementById("id_expire_at");e.value=e.defaultValue,t.value=t.defaultValue}))}));
