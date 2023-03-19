@@ -1,0 +1,37 @@
+{% extends "wagtailadmin/admin_base.html" %}
+{% load wagtailadmin_tags wagtailcore_tags i18n %}
+
+{% block furniture %}
+    <template data-wagtail-sidebar-branding-logo>{% block branding_logo %}{% endblock %}</template>
+    {% sidebar_props %}
+    <aside id="wagtail-sidebar" class="sidebar-loading" data-wagtail-sidebar aria-label="{% trans 'Sidebar' %}"></aside>
+    <main class="content-wrapper w-overflow-x-hidden" id="main">
+        <div class="content">
+            {# Always show messages div so it can be appended to by JS #}
+            <div class="messages" role="status">
+                {% if messages %}
+                    <ul>
+                        {% for message in messages %}
+                            {% message_level_tag message as level_tag %}
+                            <li class="{% message_tags message %}">
+                                {% if level_tag == "error" %}
+                                    {# There is no error icon, use warning icon instead #}
+                                    {% icon name="warning" classname="messages-icon" %}
+                                {% elif message.extra_tags == "lock" %}
+                                    {% icon name="lock" classname="messages-icon" %}
+                                {% elif message.extra_tags == "unlock" %}
+                                    {% icon name="lock-open" classname="messages-icon" %}
+                                {% else %}
+                                    {% icon name=level_tag classname="messages-icon" %}
+                                {% endif %}
+                                {{ message|safe }}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+{% endblock %}
