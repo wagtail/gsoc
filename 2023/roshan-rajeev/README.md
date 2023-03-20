@@ -10,3 +10,9 @@ When I created my first blog, I searched for the best CMS integration with Gatsb
 
 I'm eager to collaborate with the Wagtail community, and you can find me on Github at https://github.com/roshanrajeev and on LinkedIn at https://www.linkedin.com/in/roshanrjv.
 
+## Social
+
+* [GitHub](https://github.com/roshanrajeev)
+* [Twitter](https://twitter.com/roshanrjv)
+* [Linkedin](https://www.linkedin.com/in/roshanrjv)
+* [Website](http://roshanrajeev.com/)
