@@ -59,7 +59,7 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 - [ ] Now make another pull request to your own README file, adding a Markdown table with links to:
   - [ ] Your GitHub profile
   - [ ] Your Twitter profile if any
-  - [ ] Your Mastodown profile if any
+  - [ ] Your Mastodon profile if any
   - [ ] Your LinkedIn profile if any
   - [ ] Your personal website
 - [ ] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
