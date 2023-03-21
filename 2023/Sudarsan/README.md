@@ -18,7 +18,7 @@ Overall, I'm just a curious and motivated developer who loves to tackle new chal
 | LinkedIn    | [Sudarsan R LinkedIn](https://www.linkedin.com/in/sudarsan-r-47440924a/)   |
 
 
-## Checklists
+## Tasks
 
 #### Checklist: Google Summer of Code
 
