@@ -55,8 +55,6 @@ This is the first checklist for candidates to go through. It’s a good idea to 
 - [x] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
 - [x] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
 
-You’ve done the hardest bits! Now all that’s left is for you to:
-
 - [x] Introduce yourself on our [Welcome to Wagtail! Introductions](https://github.com/wagtail/gsoc/discussions/1) discussion thread.
 
 ### Checklist: open source contributions
@@ -103,6 +101,7 @@ Here, we expect you to go through two tutorials to demonstrate your understandin
 Links I have found useful 
 - [The Wagtail Organization Github](https://github.com/wagtail)
 - [The Wagtail Documentation](https://docs.wagtail.org/en/stable/releases/4.2.1.html)
+- [An Introduction to Scaling Distributed Python Applications](https://www.educative.io/blog/scaling-in-python) - pointer to RFC 72
 - 
 
 ### Contributions 
