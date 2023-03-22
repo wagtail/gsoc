@@ -102,7 +102,12 @@ Links I have found useful
 - [The Wagtail Organization Github](https://github.com/wagtail)
 - [The Wagtail Documentation](https://docs.wagtail.org/en/stable/releases/4.2.1.html)
 - [An Introduction to Scaling Distributed Python Applications](https://www.educative.io/blog/scaling-in-python) - pointer to RFC 72
-- 
+
+- [Python Long-Running Background Task using Threads](https://superfastpython.com/thread-long-running-background-task/)
+- [Python Triggered Threads Background Task](https://superfastpython.com/thread-triggered-background-task/)
+- [Book: Effective Python, 2nd Edition - Chapter 7: Concurrency and Parallelism](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/ch07.xhtml#ch7)
+- [Book: Fluent Python, 2nd Edition - Chapter 19. Concurrency Models in Python](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/ch19.html)
+
 
 ### Contributions 
 During GSOC, here are possible contributions I hope to make to the wagtail project.
