@@ -12,6 +12,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chinonso Ani
 - Elton Omwega
 - Priscilla Baah
+- Rohit Yadav
 - Gaurav Sarkar
 - Sage Abdullah
 - Satvik Vashisht
