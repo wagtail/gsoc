@@ -21,9 +21,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Sage Abdullah
 - Satvik Vashisht
 - Suyash Srivastava
-- Sudarsan 
 - Thibaud Colas
 - Vallabh Tiwari
 - Yaseen Wazir
 - Yuntao Xie
-- Sudarsan
