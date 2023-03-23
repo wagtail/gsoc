@@ -1,65 +1,5 @@
 ## Project ideas
 
-### RFC 72: Background workers
-
-#### Summary
-
-See [RFC 72: Background workers](https://github.com/RealOrangeOne/wagtail-rfcs/blob/wagtail-background-workers/text/072-background-workers.md)
-
-Wagtail currently doesn't have a first-party solution for long-running tasks. Other CMSs in the ecosystem such as WordPress and Drupal have background workers, allowing them to push tasks into the background to be processed at a later date, without requiring the end user to wait for them to occur.
-
-One of the key goals for this project is removing the requirement for the user to wait for tasks they don't need to.
-
-#### Background
-
-Some tasks done as part of certain Wagtail requests don't need to block the user, and could instead be pushed to the background, improving the perceived responsiveness of the application. Having a first-party solution would also remove the need for downstream users to build a background worker pipeline themselves.
-
-A prime example of this kind of improvement is re-indexing pages. Currently, when a user publishes a page, the "Publish" action also re-indexes the page, which slows down the request unnecessarily. The user doesn't need to wait for the indexes to be updated, meaning they could continue with whatever they need to do next faster. By moving tasks into the background, it also means longer tasks don't tie up the application server, meaning it should be able to handle more editor traffic.
-
-Other CMSs such as WordPress and Drupal have background workers to accelerate these kinds of non-blocking tasks. These APIs allow both for the tools themselves to push tasks to the background, but also for users to submit tasks themselves.
-
-#### Requirements
-
-- Wagtail's background tasks should be opt-in, and Wagtail should function as it does now without it.
-- Users should be able to choose from either running a persistent background process, or periodic execution with cron
-- Users should have multiple options for task backends, depending on their scale and hosting environment. By default, Redis and Django's ORM should be supported.
-- Users should be able to easily add their own tasks to be executed, whether through Wagtail hooks or entirely manually.
-- Tasks should be able to specify a priority, so they can be executed sooner, regardless of when they were submitted.
-- Users should need to neither know nor care about the specific implementation details. This includes both the implementation details, and which backend is being used (mostly applicable to library authors)
-
-#### Implementation plan
-
-- Create the basic plumbing and base classes required
-- Implement ImmediateBackend
-- Enable creating wagtail hooks as tasks
-- Implement an ORM backend
-- Begin migrating background-compatible bits of Wagtail to tasks
-- Documentation
-- Initial release?
-- Complete migrating background-compatible bits of Wagtail to tasks
-
-#### Skills
-
-- Python
-- Django
-- Performance
-- DevOps
-
-#### Mentors
-
-Final list TBC
-
-- Lead: TBC Jake Howard https://github.com/RealOrangeOne
-- Support: TBC either Thibaud, Sage, or other core team member
-
-#### Size
-
-175 hours
-
-#### Difficulty rating
-
-Medium
-
 ### Greener coding: Wagtail’s climate impact
 
 #### Summary
@@ -106,7 +46,7 @@ Mentoring line-up TBC between Chris, Thibaud, Sage, performance team members
 
 Medium
 
-### Project proposal
+### Project proposal: your own idea
 
 You can also propose your own idea. Your proposal should:
 
