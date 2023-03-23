@@ -12,13 +12,14 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chinonso Ani
 - Damilare
 - Elton Omwega
+- Gaurav Sarkar
 - Krishna Dhakad
 - Manish Dhakal
 - Priscilla Baah
 - Rohit Yadav
-- Gaurav Sarkar
 - Sachin Kumar
 - Sage Abdullah
+- Sangmeshwar Mahajan
 - Satvik Vashisht
 - Suyash Srivastava
 - Thibaud Colas
