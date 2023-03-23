@@ -35,7 +35,7 @@ More about me is [**here**](https://sobhanbera.github.io) 🧑‍💻
 | ------------ | ------------------------------------------------------- |
 | GitHub       | [sobhanbera](https://github.com/sobhanbera)             |
 | LinkedIn     | [sobhanbera](https://www.linkedin.com/in/sobhanbera)    |
-| Twitter      | [sobhanbera\_](https://www.linkedin.com/in/sobhanbera_) |
+| Twitter      | [sobhanbera\_](https://twitter.com/sobhanbera_) |
 | Portfolio    | [Sobhan Bera](https://sobhanbera.github.io)             |
 
 ---
