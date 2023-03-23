@@ -7,6 +7,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Allen Tran
 - Aman Gupta
 - Aman Pandey
+- Babitha Kumari
 - Bhavya Soni
 - Chinonso Ani
 - Elton Omwega
