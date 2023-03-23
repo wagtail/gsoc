@@ -11,6 +11,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Babitha Kumari
 - Bhavya Soni
 - Chinonso Ani
+- Damilare
 - Elton Omwega
 - Priscilla Baah
 - Rohit Yadav
