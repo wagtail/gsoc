@@ -8,7 +8,6 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Aman Gupta
 - Aman Pandey
 - Amey Shinde
-- Babitha Kumari
 - Bhavya Soni
 - Chinonso Ani
 - Damilare
