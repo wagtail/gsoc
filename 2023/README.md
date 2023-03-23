@@ -13,6 +13,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chinonso Ani
 - Damilare
 - Elton Omwega
+- Krishna Dhakad
 - Manish Dhakal
 - Priscilla Baah
 - Rohit Yadav
