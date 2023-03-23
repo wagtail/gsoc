@@ -12,7 +12,7 @@ The climate impact of Wagtail sites will be measurable with agreed-upon methodol
 
 #### Implementation
 
-We’re wondering if we should consider greater theme-ability as part of this – delivering not just a dark theme but also potentially support for lots of different themes ("dark high contrast", "light high c0ontrast"). Aside from this decision, we can already:
+We’re wondering if we should consider greater theme-ability as part of this – delivering not just a dark theme but also potentially support for lots of different themes ("dark high contrast", "light high contrast"). Aside from this decision, we can already:
 
 1. Research how leading CMS projects are doing this.
 2. Produce a report on the climate impact of Wagtail sites at this point in time.

@@ -3,6 +3,7 @@
 Welcome! Add your name to this list, keeping the list in alphabetical order:
 
 - Abdul Samad Ansari (Sam)
+- Abinash Satapathy
 - Ahmed Bedeir
 - Allen Tran
 - Aman Gupta
