@@ -15,6 +15,20 @@ I am also eager to learn more about Wagtail's architecture and best practices, a
 I will be glad to connect with you guys on [**Linkedin**](https://www.linkedin.com/in/sobhanbera) ✨
 More about me is [**here**](https://sobhanbera.github.io) 🧑‍💻
 
+## My Tech Stack
+- Python
+- Flask
+- JS, TS, ReactJS, NextJS
+- ExpressJS
+- React-Native
+- Rust
+- Golang
+- MySQL
+- Docker
+- Google Cloud Platform
+- Azure Web Services
+- Firebase
+
 ## **Socials**
 
 | Social Media | URL                                                     |
