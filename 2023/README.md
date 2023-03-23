@@ -20,6 +20,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Sachin Kumar
 - Sage Abdullah
 - Satvik Vashisht
+- Sobhan Bera
 - Suyash Srivastava
 - Thibaud Colas
 - Vallabh Tiwari
