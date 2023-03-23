@@ -13,6 +13,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chinonso Ani
 - Damilare
 - Elton Omwega
+- Manish Dhakal
 - Priscilla Baah
 - Rohit Yadav
 - Gaurav Sarkar
@@ -21,4 +22,4 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Suyash Srivastava
 - Thibaud Colas
 - Yaseen Wazir
-- Manish Dhakal
+- Yuntao Xie
