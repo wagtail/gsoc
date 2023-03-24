@@ -40,11 +40,7 @@ Mentoring line-up TBC between Chris, Thibaud, Sage, performance team members
 
 #### Size
 
-175 hours
-
-#### Difficulty rating
-
-Medium
+350 hours
 
 ### Project proposal: your own idea
 
