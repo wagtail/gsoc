@@ -27,6 +27,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Suyash Srivastava
 - Thibaud Colas
 - Vallabh Tiwari
+- Vibhakar Solanki
 - Yaseen Wazir
 - Yuntao Xie
 
