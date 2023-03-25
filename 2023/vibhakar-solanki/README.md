@@ -7,6 +7,9 @@ Hoping to contribute to the project one way or the other :)
 
 # Checklists 
 
+<details>
+    <summary>Click to expand</summary>
+
 - ### Google Summer of Code
     - [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
     - [x] Read [Advice for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
@@ -43,6 +46,9 @@ Hoping to contribute to the project one way or the other :)
 
     - [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
     - [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+
+</details>
+
 
 ## Socials
 |Platform|Link|
