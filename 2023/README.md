@@ -21,6 +21,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Sachin Kumar
 - Sage Abdullah
 - Sangmeshwar Mahajan
+- Adama Boubacar Oumarou
 - Satvik Vashisht
 - Sobhan Bera
 - Suyash Srivastava
