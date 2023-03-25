@@ -19,7 +19,7 @@ Hoping to contribute to the project one way or the other :)
     - [x] Make your first [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with us! Add your name to the list of participants in [2023/README.md](2023/README.md).
     - [x] Clone this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
     - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-    - [ ] Now make another pull request to your own README file, adding a Markdown table with links to:
+    - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
     - [ ] Your GitHub profile
     - [ ] Your Twitter profile if any
     - [ ] Your Mastodon profile if any
