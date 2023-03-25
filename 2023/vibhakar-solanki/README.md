@@ -20,9 +20,17 @@ Hoping to contribute to the project one way or the other :)
     - [x] Clone this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
     - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
-    - [ ] Your GitHub profile
-    - [ ] Your Twitter profile if any
-    - [ ] Your Mastodon profile if any
-    - [ ] Your LinkedIn profile if any
-    - [ ] Your personal website
+    - [x] Your GitHub profile
+    - [x] Your Twitter profile if any
+    - ~~[ ] Your Mastodon profile if any~~
+    - [x] Your LinkedIn profile if any
+    - [x] Your personal website
     - [ ] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
+
+# Socials
+|Platform|Link|
+|-----|-----|
+|GitHub| [p0lygun](https://github.com/p0lygun)|
+|Twitter| [gala_vs](https://twitter.com/gala_vs/)|
+|LinkedIn| [Vibhakar Solanki](linkedin.com/in/vibhakarsolanki)|
+| Personal Website | [stilllearning.tech](https://stilllearning.tech)|
