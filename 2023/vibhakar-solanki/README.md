@@ -51,9 +51,9 @@ Hoping to contribute to the project one way or the other :)
 
 
 ## Socials
-|Platform|Link|
-|-----|-----|
-|GitHub| [p0lygun](https://github.com/p0lygun)|
-|Twitter| [gala_vs](https://twitter.com/gala_vs/)|
-|LinkedIn| [Vibhakar Solanki](linkedin.com/in/vibhakarsolanki)|
-| Personal Website | [stilllearning.tech](https://stilllearning.tech)|
+|Links|
+|:-----:|
+|[![image](https://img.shields.io/badge/p0lygun-black?style=for-the-badge&logo=github)](https://github.com/p0lygun)|
+| [![image](https://img.shields.io/badge/gala__vs-black?style=for-the-badge&logo=twitter)](https://twitter.com/gala_vs/) |
+| [![image](https://img.shields.io/badge/Vibhakar_Solanki-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vibhakarsolanki/) |
+| [![image](https://img.shields.io/badge/stilllearning.tech-black?style=for-the-badge)](https://stilllearning.tech/)|
