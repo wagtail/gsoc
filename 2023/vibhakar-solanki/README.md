@@ -40,7 +40,7 @@ Hoping to contribute to the project one way or the other :)
 
     - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
     - [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
-    - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+    - [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 - ### Django and Wagtail
 
@@ -83,3 +83,21 @@ Hoping to contribute to the project one way or the other :)
             - todo:
                 - make a list of modules that need headless support
         - [Telepath](https://github.com/wagtail/telepath)
+
+## Blog
+- link :- https://stilllearning.tech/blog/ll-q1-2023.html
+- ### Write up
+    - <details>
+        <summary>Click to show</summary>
+
+        At the start of the year, I decided that I will be learning `Rust`. For, the next month I was learning the basics of Rust. The borrow checker in rust was a new concept for me. The last static language that I used was C++ and I was not familiar with the concept of ownership. I was able to learn the basics of Rust in a month. I was able to build a simple CLI application in Rust. Currently, I am in the last chapter of the book about building a `web server in Rust`. Then as January came to a close, I was very interested in ChatGPT. The more I looked into it, the more I got interested in `data science` and machine learning. I spent most of my time completing the course "Deep Learning A-Z™ 2023: Neural Networks" on udemy. I learned concepts like ANN, CNN, and Boltzmann Machine. During this time I also played with `Wagtail API` for bfportal.gg.  
+        
+        I wanted to expose the creator of an experience in the API. But as the creator is a nested user field it can't be in the API as a field of its own. So I made use of `@property` so that a function can resolve the nested property into a single value. 
+        
+        Then google shared accepted GSOC orgs with us. I am excited as both Wagtail and Django got selected. Then came march and I wanted to get selected as a GSOC contributor this year. I started contributing to Django and got my first PR in the project approved and merged 😁 . 
+        
+        During this month bfportal had two major events. Its userbase crossed 2k users and migrating the project to use Python 3.11. I was also using `runserver` in production but now the project uses `gunicorn`. 
+        
+        That gave the project a very very good performance boost (I've attached the usage graph). Currently, I'm preparing for my Maths exam (is on the 28th of march) and drafting my proposal for GSOC.
+
+        </details>
