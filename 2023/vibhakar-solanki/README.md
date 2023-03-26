@@ -71,6 +71,8 @@ Hoping to contribute to the project one way or the other :)
         - [RFC 81: StreamField-based rich text](https://github.com/wagtail/rfcs/pull/81) Although currently not accepted, I would also love this to be in wagtail admin, the current editor has broken for me on more than one occasion.
         - [RFC 53: Swappable Page model](https://github.com/sonnybaker/rfcs/blob/master/text/053-swappable-page-model.md)
     - **Exploring Organization**
+        - [wagtail](https://github.com/wagtail/wagtail), :)
+        
         - [bakerydemo](https://github.com/wagtail/bakerydemo)
             - [ Make the demo more suitable for Wagtail testing #175 ](https://github.com/wagtail/bakerydemo/issues/175)
             - [ Add Site Setting to the demo #395 ](https://github.com/wagtail/bakerydemo/issues/395) ( should be fairly simple, will do this one regardless )
@@ -80,3 +82,4 @@ Hoping to contribute to the project one way or the other :)
             - A lot of modules are still not headless in wagtail, I think it would be a great project to make more parts on wagtail headless. 
             - todo:
                 - make a list of modules that need headless support
+        - [Telepath](https://github.com/wagtail/telepath)
