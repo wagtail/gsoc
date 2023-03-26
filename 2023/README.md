@@ -16,6 +16,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Gaurav Sarkar
 - Krishna Dhakad
 - Manish Dhakal
+- Piyush Srivastava
 - Priscilla Baah
 - Rohit Yadav
 - Sachin Kumar
