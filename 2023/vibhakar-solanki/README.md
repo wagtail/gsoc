@@ -5,7 +5,7 @@ I have been using wagtail for over 4 years now and have a pretty good understand
 I have been developing [bfportal.gg](https://github.com/battlefield-portal-community/bfportal.gg) for quite some time now it just recently crossed 2k users :), so big thanks to the team for creating and maintaining this project ,
 Hoping to contribute to the project one way or the other :)
 
-# Checklists 
+## Tasks
 
 <details>
     <summary>Click to expand</summary>
@@ -23,11 +23,11 @@ Hoping to contribute to the project one way or the other :)
     - [x] Clone this repository, then add a new folder inside `2023/` with your name as the folder name. Inside that folder, add a `README.md` file, and copy-paste the introduction you posted earlier. Submit this to our project as a pull request.
     - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
-    - [x] Your GitHub profile
-    - [x] Your Twitter profile if any
-    - ~~[ ] Your Mastodon profile if any~~
-    - [x] Your LinkedIn profile if any
-    - [x] Your personal website
+        - [x] Your GitHub profile
+        - [x] Your Twitter profile if any
+        - ~~[ ] Your Mastodon profile if any~~
+        - [x] Your LinkedIn profile if any
+        - [x] Your personal website
     - [ ] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
 - ### Helping
