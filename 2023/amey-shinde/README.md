@@ -1,24 +1,26 @@
-## **My Intro**
-Hi Everyone!
+# Introduction:
 
-I am Yaseen, hailing from Pakistan and currently pursuing my bachelor's degree in economics as a freshman at NUST, Islamabad. I am obsessed with coding, and I possess strong skills in HTML, CSS, Bootstrap, JavaScript, and Python. For the past ten months, I have been acquainted with GSOC and after researching various organizations, I decided to work with Wagtail due to its compatibility with my existing skill set. However, I needed to learn Django and Git/Github to work on Wagtail, and for the past four months, I have been learning them along with SQL, CI/CD, and other important concepts. I've been learning them at a fast pace with ChatGPT!
+Hello everybody,
 
-Apart from the languages mentioned above, I also have basic knowledge of Java, Kotlin and Android development, but later, I found web development more intriguing, and hence, shifted my focus. I have a decent experience with Linux, having used Backtrack 5, Kali Linux, and Ubuntu, along with Windows, in dual boot mode for an extended period. Currently, I am using Ubuntu and Windows 10.
+Myself Amey Shinde. I am a CS Junior from the University of Texas at Arlington, US and I am currently working as a Research Assistant with the CS department at our university. I have been using wagtail for quite some time now and am excited to participate in wagtail's GSoC this year.
 
-I am weary of going through W3Schools articles, HackerRank, and HackerEarth problems and watching CS50 videos. I crave to work on a substantial project and not be confined to the basics any longer.
+I had applied to GSoC organization last year however, I had no luck getting selected. This year I have more knowledge and am confident about making a contribution.
 
+Also a fun fact about me. My hobbies are producing music and djing.
 
-| Name | Link |
-| --- | --- |
-| Github | [https://github.com/yaseen2](https://github.com/yaseen2) |
-| Website | [https://www.wazir.codes](https://www.wazir.codes) |
-| YouTube | [https://www.youtube.com/@yaseensuniverse139](https://www.youtube.com/@yaseensuniverse139) |
+Here is a link to my Spotify channel : https://open.spotify.com/artist/4qalTgFtFHAmPbXdFJdHhq?si=SNitNXTzT5yF1BKeefaSiQ
 
----
+| Media Platform | Links |
+| -------------- | ----- |
+| Github         | https://github.com/pistonamey |
+| Portfolio Website | https://pistonamey.github.io |
+| Twitter | https://twitter.com/ameys2525 |
+| LinkedIn | https://linkedin.com/in/amey-shinde-cs |
 
-## **Checklists**
-
+## Tasks:
 #### Checklist: Google Summer of Code
+
+This is the first checklist for candidates to go through. It’s a good idea to start early, so you can get to know the community and the project.
 
 - [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
 - [x] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
@@ -40,9 +42,9 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
   - [x] Your GitHub profile
-  - [ ] Your Twitter profile if any
-  - [ ] Your Mastodown profile if any
-  - [ ] Your LinkedIn profile if any
+  - [x] Your Twitter profile if any
+  - [x] Your Mastodown profile if any
+  - [x] Your LinkedIn profile if any
   - [x] Your personal website
 - [x] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
@@ -65,25 +67,23 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit both projects you will have created as a pull request on this `gsoc` repository.
 
-- [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
+- [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
-
 ## Research
+#### Understanding Wagtail Resources:
+1. https://docs.wagtail.org/en/stable/getting_started/index.html
+2. https://docs.wagtail.org/en/stable/contributing/index.html
+3. https://www.youtube.com/watch?v=mbUFWkZAm8w
+4. https://docs.wagtail.org/en/stable/topics/index.html
+5. https://medium.com/@dencomac/getting-started-with-wagtail-a-beginners-installation-guide-a5671da1eccc
 
-|Title|Link|
-| ---| ---|
-|Wagtail Github - #10070|[Guide for your first contribution #10070](https://github.com/wagtail/wagtail/issues/10070)|
-|Documentation|[Wagtail Documentation - Getting started](https://docs.wagtail.org/en/stable/getting_started/index.html)|
-|Wagtail.org|[Wagtail on the gitpod - Faster way](https://gitpod.io/#https://github.com/wagtail/wagtail-gitpod)|
-|Documentation|[The Zen of Wagtail](https://docs.wagtail.org/en/latest/getting_started/the_zen_of_wagtail.html)|
-|Wagtail.org|[wagtail vs Wordpress](https://wagtail.org/wagtail-vs-wordpress/)|
-|documentation|[Issue tracking](https://docs.wagtail.org/en/latest/contributing/issue_tracking.html)|
-|Documentation|[Wagtail Documentation - Development](https://docs.wagtail.org/en/stable/contributing/developing.html)|
+#### Issues and repositories that I would like to contribute to:
+I will be submitting a proposal for Greener coding. Below are some 
+repositories that can be helpful. 1. 
+1. https://github.com/wagtail/wagtail/issues/8834 2. Discussion - 
+2. https://github.com/wagtail/wagtail/discussions/8843
+3. https://github.com/wagtail/wagtail/issues/6563
 
-## Repositories I'm Excited to Contribute
-|Title|Link|
-| ---| ---|
-|repository|[wagtail/wagtail.org](https://github.com/wagtail/wagtail.org)|
-|repository|[wagtail/wagtail](https://github.com/wagtail/wagtail)|
-
+Some other helpful links:
+1. https://medium.com/geekculture/system-design-basics-caching-46b1614915f8
