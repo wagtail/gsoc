@@ -38,14 +38,14 @@ Hoping to contribute to the project one way or the other :)
 - ### Interest in learning
 
 
-    - [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-    - [ ] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
+    - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+    - [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
     - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 - ### Django and Wagtail
 
-    - [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
-    - [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+    - [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
+    - [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 </details>
 
@@ -57,3 +57,26 @@ Hoping to contribute to the project one way or the other :)
 | [![image](https://img.shields.io/badge/gala__vs-black?style=for-the-badge&logo=twitter)](https://twitter.com/gala_vs/) |
 | [![image](https://img.shields.io/badge/Vibhakar_Solanki-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vibhakarsolanki/) |
 | [![image](https://img.shields.io/badge/stilllearning.tech-black?style=for-the-badge)](https://stilllearning.tech/)|
+
+
+## Research
+
+- ### Resources
+    - **Helping Material**
+        - [Wagtail's official docs](https://docs.wagtail.org/en/stable/)
+        - [Wagtail's Source Code](https://github.com/wagtail/wagtail) Especially to understand how wagtail API works
+        - [StackOverFlow](https://stackoverflow.com/) Best place to get usual questions answered.
+    - **Projects I'm interested in**
+        - [RFC 72: Background workers](https://github.com/RealOrangeOne/wagtail-rfcs/blob/wagtail-background-workers/text/072-background-workers.md)
+        - [RFC 81: StreamField-based rich text](https://github.com/wagtail/rfcs/pull/81) Although currently not accepted, I would also love this to be in wagtail admin, the current editor has broken for me on more than one occasion.
+        - [RFC 53: Swappable Page model](https://github.com/sonnybaker/rfcs/blob/master/text/053-swappable-page-model.md)
+    - **Exploring Organization**
+        - [bakerydemo](https://github.com/wagtail/bakerydemo)
+            - [ Make the demo more suitable for Wagtail testing #175 ](https://github.com/wagtail/bakerydemo/issues/175)
+            - [ Add Site Setting to the demo #395 ](https://github.com/wagtail/bakerydemo/issues/395) ( should be fairly simple, will do this one regardless )
+        - [Wagtail Autocomplete](https://github.com/wagtail/wagtail-autocomplete)
+            - [ Autocomplete Manager #50 ](https://github.com/wagtail/wagtail-autocomplete/issues/50)
+        - [Wagtail Headless]
+            - A lot of modules are still not headless in wagtail, I think it would be a great project to make more parts on wagtail headless. 
+            - todo:
+                - make a list of modules that need headless support
