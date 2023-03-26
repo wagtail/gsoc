@@ -4,4 +4,8 @@ I am enthusiastic about applying to the Google Summer of Code program and contri
 
 I look forward to learning more about Wagtail and the opportunity working with the community may offer me.
 
-Here is my LinkedIn profile I would be happy to connect with you! 
+Here is my LinkedIn profile I would be happy to connect with you!
+
+[My LinkedIn](https://www.linkedin.com/in/adama-b-584b30100/)
+[My Twitter ](https://twitter.com/adama_boubacar)
+
