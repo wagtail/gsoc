@@ -12,6 +12,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Bhavya Soni
 - Chinonso Ani
 - Damilare
+- Debapriya Jha
 - Elton Omwega
 - Gaurav Sarkar
 - Krishna Dhakad
