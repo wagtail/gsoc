@@ -18,6 +18,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Manish Dhakal
 - Priscilla Baah
 - Rohit Yadav
+- Roshan R
 - Sachin Kumar
 - Sage Abdullah
 - Sangmeshwar Mahajan
