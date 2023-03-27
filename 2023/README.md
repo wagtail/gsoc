@@ -23,6 +23,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Sangmeshwar Mahajan
 - Satvik Vashisht
 - Sobhan Bera
+- Suyash Singh
 - Suyash Srivastava
 - Thibaud Colas
 - Vallabh Tiwari
