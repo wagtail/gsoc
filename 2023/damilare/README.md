@@ -66,7 +66,8 @@ Here, we expect you to go through two tutorials to demonstrate your understandin
 
 - [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
-- [x] [A gitpod snaphsot of my wagtail project](https://gitpod.io#snapshot/dd3103c0-dba1-48a7-8568-cfecc7ae71e4)
+- [x] [My project repostitory](https://github.com/themilar/wagtail-gitpod)
+- [x] [A gitpod snaphsot of my wagtail project](https://gitpod.io#snapshot/4bedcb28-4a8e-4bbe-aecb-3b97f363fb2a)
 
 ### Research
 - [How to Use the Wagtail CMS for Django: An Overview](https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-for-django-an-overview/)
