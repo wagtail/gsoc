@@ -1,28 +1,23 @@
-# Introduction:
+## **Introduction**
+Hi Everyone!
 
-Hello everybody,
+I am Mansi Gundre, a pre-final computer engineering student at the [Pune Institute of Computer Technology](https://pict.edu/), Pune, India. 
+I am a hard-working and driven individual who isn't afraid to face a challenge. 
+Being active, vast community and having exciting projects to work on with interesting issues, I am excited to make contribution at Wagtail Community and address interesting issues. 
+I have more than 2 years of experience in web development and have also worked on different open source projects. 
+I'm looking forward to engaging with and contributing to the wagtail community.
 
-Myself Amey Shinde. I am a CS Junior from the University of Texas at Arlington, US and I am currently working as a Research Assistant with the CS department at our university. I have been using wagtail for quite some time now and am excited to participate in wagtail's GSoC this year.
+| Name | Link |
+| --- | --- |
+| Github | [https://github.com/mansi0829](https://github.com/mansi0829) |
+| LinkedIn | [https://www.linkedin.com/in/mansi-gundre/](https://www.linkedin.com/in/mansi-gundre/) |
+| Portfolio | [https://www.mansigundre.xyz](https://portfolio-mansi0829.vercel.app/) |
 
-I had applied to GSoC organization last year however, I had no luck getting selected. This year I have more knowledge and am confident about making a contribution.
+---
 
-Also a fun fact about me. My hobbies are producing music and djing.
+## **Checklists**
 
-Here is a link to my Spotify channel : https://open.spotify.com/artist/4qalTgFtFHAmPbXdFJdHhq?si=SNitNXTzT5yF1BKeefaSiQ
-
-| Media Platform | Links |
-| -------------- | ----- |
-| Github         | https://github.com/pistonamey |
-| Portfolio Website | https://pistonamey.github.io |
-| Twitter | https://twitter.com/ameys2525 |
-| LinkedIn | https://linkedin.com/in/amey-shinde-cs |
-| Medium Blog (checklist requirement) | https://medium.com/@ameyshinde11111/learning-to-manipulate-audio-wow-872b76b53e78 |
-
-
-## Tasks:
 #### Checklist: Google Summer of Code
-
-This is the first checklist for candidates to go through. It’s a good idea to start early, so you can get to know the community and the project.
 
 - [x] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
 - [x] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
@@ -44,7 +39,7 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 - [x] Read through GitHub’s [Markdown formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [x] Now make another pull request to your own README file, adding a Markdown table with links to:
   - [x] Your GitHub profile
-  - [x] Your Twitter profile if any
+  - [ ] Your Twitter profile if any
   - [ ] Your Mastodown profile if any
   - [x] Your LinkedIn profile if any
   - [x] Your personal website
@@ -63,29 +58,31 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
 - [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
-- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Django and Wagtail
 
 Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit both projects you will have created as a pull request on this `gsoc` repository.
 
-- [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
+- [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
+
 ## Research
-#### Understanding Wagtail Resources:
-1. https://docs.wagtail.org/en/stable/getting_started/index.html
-2. https://docs.wagtail.org/en/stable/contributing/index.html
-3. https://www.youtube.com/watch?v=mbUFWkZAm8w
-4. https://docs.wagtail.org/en/stable/topics/index.html
-5. https://medium.com/@dencomac/getting-started-with-wagtail-a-beginners-installation-guide-a5671da1eccc
 
-#### Issues and repositories that I would like to contribute to:
-I will be submitting a proposal for Greener coding. Below are some 
-repositories that can be helpful. 1. 
-1. https://github.com/wagtail/wagtail/issues/8834 2. Discussion - 
-2. https://github.com/wagtail/wagtail/discussions/8843
-3. https://github.com/wagtail/wagtail/issues/6563
+|Title|Link|
+| ---| ---|
+|Wagtail Github - #10070|[Guide for your first contribution #10070](https://github.com/wagtail/wagtail/issues/10070)|
+|Documentation|[Wagtail Documentation - Getting started](https://docs.wagtail.org/en/stable/getting_started/index.html)|
+|Wagtail.org|[Wagtail on the gitpod - Faster way](https://gitpod.io/#https://github.com/wagtail/wagtail-gitpod)|
+|Documentation|[The Zen of Wagtail](https://docs.wagtail.org/en/latest/getting_started/the_zen_of_wagtail.html)|
+|Wagtail.org|[wagtail vs Wordpress](https://wagtail.org/wagtail-vs-wordpress/)|
+|documentation|[Issue tracking](https://docs.wagtail.org/en/latest/contributing/issue_tracking.html)|
+|Documentation|[Wagtail Documentation - Development](https://docs.wagtail.org/en/stable/contributing/developing.html)|
 
-Some other helpful links:
-1. https://medium.com/geekculture/system-design-basics-caching-46b1614915f8
+## Repositories I'm Excited to Contribute
+|Title|Link|
+| ---| ---|
+|repository|[wagtail/wagtail.org](https://github.com/wagtail/wagtail.org)|
+|repository|[wagtail/wagtail](https://github.com/wagtail/wagtail)|
+|repository|[wagtail/bakerydemo](https://github.com/wagtail/bakerydemo)|

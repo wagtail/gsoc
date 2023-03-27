@@ -8,8 +8,10 @@
 /wagtail.egg-info/
 /docs/_build/
 /.tox/
-/.venv
-/venv
+.venv
+venv
+env
+*.sqlite3
 node_modules
 npm-debug.log*
 *.idea/
