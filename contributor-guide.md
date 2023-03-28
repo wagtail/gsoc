@@ -81,7 +81,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Checklist: Django and Wagtail
 
-Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit the code from both projects you will have created as a pull request on this `gsoc` repository, in your named folder under `2023/`.
+Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit the code from both projects you will have created either by adding links to GitHub repositories with your mention, or directly in this `gsoc` repository, in your named folder under `2023/`.
 
 - [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
