@@ -67,6 +67,7 @@ Hoping to contribute to the project one way or the other :)
         - [Wagtail's Source Code](https://github.com/wagtail/wagtail) Especially to understand how wagtail API works
         - [StackOverFlow](https://stackoverflow.com/) Best place to get usual questions answered.
     - **Projects I'm interested in**
+        - [Greener coding: Wagtail’s climate impact](https://github.com/wagtail/gsoc/blob/main/project-ideas.md#greener-coding-wagtails-climate-impact)
         - [RFC 72: Background workers](https://github.com/RealOrangeOne/wagtail-rfcs/blob/wagtail-background-workers/text/072-background-workers.md)
         - [RFC 81: StreamField-based rich text](https://github.com/wagtail/rfcs/pull/81) Although currently not accepted, I would also love this to be in wagtail admin, the current editor has broken for me on more than one occasion.
         - [RFC 53: Swappable Page model](https://github.com/sonnybaker/rfcs/blob/master/text/053-swappable-page-model.md)
@@ -78,7 +79,7 @@ Hoping to contribute to the project one way or the other :)
             - [ Add Site Setting to the demo #395 ](https://github.com/wagtail/bakerydemo/issues/395) ( should be fairly simple, will do this one regardless )
         - [Wagtail Autocomplete](https://github.com/wagtail/wagtail-autocomplete)
             - [ Autocomplete Manager #50 ](https://github.com/wagtail/wagtail-autocomplete/issues/50)
-        - [Wagtail Headless]
+        - [Wagtail Headless](https://areweheadlessyet.wagtail.org/)
             - A lot of modules are still not headless in wagtail, I think it would be a great project to make more parts on wagtail headless. 
             - todo:
                 - make a list of modules that need headless support
