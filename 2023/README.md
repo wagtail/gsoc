@@ -14,6 +14,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Damilare
 - Elton Omwega
 - Gaurav Sarkar
+- Kliiu
 - Krishna Dhakad
 - Manish Dhakal
 - Priscilla Baah
