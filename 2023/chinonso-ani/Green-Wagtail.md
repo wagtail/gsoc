@@ -13,6 +13,8 @@ This involves reading through the green coding project from a couple of sources 
 I think it is important to follow a test driven approach here. To make sure we know when we have done it right. 
 >What does it mean to have done right? (how would done right look like?)
 
+GOLD - Green Open Lean Distributed
+Our design must be golden. (I love this phrase, because I'm the Goldsmith.)
 
 1. Qualitative: 
 2. Quantitative: Ideas discussed [here](https://www.cloudcarbonfootprint.org/docs/methodology/) follow a qualitative measure. Provides a good startup pad.
@@ -61,7 +63,7 @@ Also a report on objectivity of the output is also required to answer the questi
 
 A breakthrough would be highlighting how people could save more on billing if they did one more thing right - which is what we hope to discover.
 
-A well (or better) architected wagtail might be the end result.
+A well (or better) architected wagtail might be the end result. The GOLD standard for python projects maybe 
 
 
 # Schedule and milestones
