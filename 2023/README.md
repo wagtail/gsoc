@@ -21,6 +21,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Priscilla Baah
 - Ritik Raj
 - Rohit Yadav
+- Roshan R
 - Sachin Kumar
 - Sage Abdullah
 - Sangmeshwar Mahajan
