@@ -12,13 +12,17 @@ The climate impact of Wagtail sites will be measurable with agreed-upon methodol
 
 #### Implementation
 
-We’re wondering if we should consider greater theme-ability as part of this – delivering not just a dark theme but also potentially support for lots of different themes ("dark high contrast", "light high contrast"). Aside from this decision, we can already:
+We can:
 
 1. Research how leading CMS projects are doing this.
 2. Produce a report on the climate impact of Wagtail sites at this point in time.
 3. Update our tooling to make it easier to evaluate energy efficiency on a regular basis.
 4. Plan 5-10 sustainability-related changes to Wagtail
 5. Implement 3-5 of these changes
+
+An example of such a change would be support for [responsive image optimisations](https://github.com/wagtail/rfcs/pull/71) in Wagtail.
+
+Another example would be [themes for the admin interface](https://github.com/wagtail/wagtail/issues/10056) – a dark theme is under way, which could be extended with a "high contrast" version if there are energy consumption benefits. The themes could display fewer images, and make use of advanced browser features such as [prefers-reduced-data](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data) to further reduce the impact of browsing the CMS for users who choose to change their experience.
 
 #### Skills
 
