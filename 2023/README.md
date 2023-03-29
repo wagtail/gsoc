@@ -32,6 +32,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Adama Boubacar Oumarou
 - Satvik Vashisht
 - Sobhan Bera
+- Suyash Singh
 - Sudarsan
 - Suyash Srivastava
 - Thibaud Colas
