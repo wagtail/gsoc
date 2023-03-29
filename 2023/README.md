@@ -24,9 +24,11 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Sangmeshwar Mahajan
 - Satvik Vashisht
 - Sobhan Bera
+- Sudarsan
 - Suyash Srivastava
 - Thibaud Colas
 - Vallabh Tiwari
+- Vibhakar Solanki
 - Yaseen Wazir
 - Yuntao Xie
-- Sudarsan
+
