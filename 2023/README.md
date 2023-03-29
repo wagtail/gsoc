@@ -19,6 +19,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Gaurav Sarkar
 - Krishna Dhakad
 - Manish Dhakal
+- Mehul Aggarwal
 - Piyush Srivastava
 - Priscilla Baah
 - Ritik Raj
