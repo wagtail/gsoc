@@ -16,6 +16,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Damilare
 - Debapriya Jha
 - Elton Omwega
+- Ezad Zamily
 - Gaurav Sarkar
 - Kliiu
 - Krishna Dhakad
