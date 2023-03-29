@@ -39,7 +39,7 @@ We use checklists so all candidates demonstrate their interest and skills with t
 This is the first checklist for candidates to go through. It’s a good idea to start early, so you can get to know the community and the project.
 
 - [ ] Watch the official [‘Introduction to GSoC’ video](https://www.youtube.com/watch?v=7jD2tChhrWM&feature=youtu.be).
-- [ ] Read [Advise for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
+- [ ] Read [Advice for People Applying for GSoC](https://developers.google.com/open-source/gsoc/help/student-advice).
 - [ ] Read all of Google’s [contributor guide](https://google.github.io/gsocguides/student/)
 - [ ] Read the official [timeline](https://developers.google.com/open-source/gsoc/timeline) and add the most important dates as reminders on your calendar.
 
@@ -59,7 +59,7 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 - [ ] Now make another pull request to your own README file, adding a Markdown table with links to:
   - [ ] Your GitHub profile
   - [ ] Your Twitter profile if any
-  - [ ] Your Mastodown profile if any
+  - [ ] Your Mastodon profile if any
   - [ ] Your LinkedIn profile if any
   - [ ] Your personal website
 - [ ] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
@@ -81,7 +81,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Checklist: Django and Wagtail
 
-Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit both projects you will have created as a pull request on this `gsoc` repository.
+Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit the code from both projects you will have created either by adding links to GitHub repositories with your mention, or directly in this `gsoc` repository, in your named folder under `2023/`.
 
 - [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)

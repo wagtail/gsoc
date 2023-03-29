@@ -4,6 +4,7 @@ I'm **Damilare** a web developer and technical writer based in Lagos, Nigeria. I
 This is first foray into open source contribution and I look forward to learning and making meaningful contributions to the organization. :handshake:  
 
 ## Links
+
 | Profile |
 | --- |
 | [Github]( https://github.com/themilar)|
@@ -66,9 +67,11 @@ Here, we expect you to go through two tutorials to demonstrate your understandin
 
 - [x] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [x] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+
 - [x] [My project repostitory](https://github.com/themilar/wagtail-gitpod)
 - [x] [A gitpod snaphsot of my wagtail project](https://gitpod.io#snapshot/4bedcb28-4a8e-4bbe-aecb-3b97f363fb2a)
 
 ### Research
+
 - [How to Use the Wagtail CMS for Django: An Overview](https://steelkiwi.com/blog/how-to-use-the-wagtail-cms-for-django-an-overview/)
--[Django Wagtail CMS | Building A Blog In 20 Minutes | Code with Stein](https://www.youtube.com/watch?v=mbUFWkZAm8w)
+- [Django Wagtail CMS | Building A Blog In 20 Minutes | Code with Stein](https://www.youtube.com/watch?v=mbUFWkZAm8w)
