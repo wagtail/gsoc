@@ -75,8 +75,8 @@ Greetings Everyone! <br>
     - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description).
 
 - ## Interest in Learning
-    - [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-    - [ ] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
+    - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+    - [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
     - [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 - ## Django and Wagtail 
@@ -86,6 +86,47 @@ Greetings Everyone! <br>
     
     
 <hr>
+
+## Project I'm interested: 
+### Greener coding: Wagtail’s climate impact
+
+<hr>
+
+## Research
+
+* Here's my understanding of Green Coding : <br>
+Green Coding aims to reduce the Carbon footprint(in simple terms the greenhouse gases) and work towards environmental sustainability.Very simple ways of achieving green coding is through efficiently using processors and managing memory hence optimising energy consumption.Hence by achieving green coding Wagtail can play a huge role in today's scenario of climate change as a CMS.
+
+<br>
+
+### Implementations required
+As mentioned in the [Green Coding Project](https://github.com/wagtail/gsoc/blob/main/project-ideas.md), the issues that needs to be addressed:
+
+* <b>Dark Theme for Admin Panel</b>: Mentioned in [Issue 10056](https://github.com/wagtail/wagtail/issues/10056), the admin panel has to be implemented into dark theme.
+
+* <b>Responsive Image Optimisation</b>: Mentioned in [Issue 71](https://github.com/wagtail/rfcs/blob/main/text/071-responsive-images-support.md), the idea behind the image optimisation is reducing the usage of multiple `{% image %}`  tag so as to reducing unnecessary code lines.
+
+Other implementation would be optimising code,eliminating dead code and using methods like 'prefers-reduced-motion' to reduce the CPU usage and 'prefers-reduced-data' to reduce the internet traffic.
+
+
+<hr>
+
+## Resources:
+* [Wagtail Documentation](https://docs.wagtail.org/en/stable/)
+* [Django Documentation](https://docs.djangoproject.com/en/4.1/)
+* [Green Coding - Measuring energy use of arbitrary applications and software stacks (EN)](https://youtu.be/Ga_kNyptkqI)
+* [Elena Morettini on Green IT and green coding](https://www.youtube.com/watch?v=ko3anphVQlM)
+* [Prefers-Reduced-Data](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data)
+
+* ### Repositories:
+    * [Wagtail](https://github.com/wagtail/wagtail)
+    * [Wagtail RFCS](https://github.com/wagtail/rfcs)
+    * [Wagtail-GSOC](https://github.com/wagtail/gsoc)
+    * [BakeryDemo](https://github.com/wagtail/bakerydemo)
+
+<hr>
+
+
 
 ## My Blog:
 [My Experiences with Open Source: A Journey through Wagtail](https://acehunter.hashnode.dev/my-bizzare-adventures-with-wagtail-a-dive-into-open-source)
