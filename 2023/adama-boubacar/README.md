@@ -1,3 +1,16 @@
+Hello, I am Adama Boubacar Oumarou from Niger. I am currently studying computer science bachelor's degree at the African Leadership University Rwanda. I am passionate about data analysis, UI/UX design, and front-end development.
+
+I am enthusiastic about applying to the Google Summer of Code program and contributing to the Wagtail CMS community. I am new to open-source contributions, but as an eager learner, and I want to challenge myself to learn new things and experience new approaches. I am excited to help to improve Wagtail CMS. It will allow me to practice my skills and learn new ones.
+
+I look forward to learning more about Wagtail and the opportunity working with the community may offer me.
+
+Here is my LinkedIn profile I would be happy to connect with you!
+
+[My LinkedIn](https://www.linkedin.com/in/adama-b-584b30100/)
+[My Twitter ](https://twitter.com/adama_boubacar)
+
+## Tasks
+
 # Contributor guide
 
 👋 This guide is our main resource for contributors interested in working on Wagtail as part of the Google Summer of Code programme. Please read through it all, top to bottom.
@@ -81,7 +94,8 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 ### Checklist: Django and Wagtail
 
-Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit the code from both projects you will have created either by adding links to GitHub repositories with your mention, or directly in this `gsoc` repository, in your named folder under `2023/`.
+Here, we expect you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit both projects you will have created as a pull request on this `gsoc` repository.
 
 - [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/4.1/intro/), until part 7.
 - [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+
