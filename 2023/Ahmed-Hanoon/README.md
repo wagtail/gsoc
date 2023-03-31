@@ -15,7 +15,10 @@ I'm excited to be part of this community and I believe GSoC will provide me an e
 | <a href="https://twitter.com/ahmedhanoon02" target="blank">Twitter</a>                    |
 | <a href="https://mastodon.social/@hanoon02" target="blank">Mastodon</a>                  |
 | <a href="https://www.linkedin.com/in/ahmed-hanoon-464922221" target="blank">LinkedIn</a> |
+| <a href="https://hanoon-dev.netlify.app" target="blank">Personal Website</a> |
 
+### Blogs
+Here is my recent <a href="https://dev.to/hanoon02/first-year-of-coding-200o">blog </a> discussing my journey in programming so far!
 
 ## Tasks
 
@@ -33,7 +36,7 @@ This checklist helps you demonstrate your understanding of how people use GitHub
     - [x] Your Twitter profile if any
     - [x] Your Mastodown profile if any
     - [x] Your LinkedIn profile if any
-    - [ ] Your personal website
+    - [x] Your personal website
 - [x] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed or not according to your progress.
 
 For participants already experienced with GitHub and Markdown, feel free to make all of the above changes in a single pull request.
@@ -49,7 +52,7 @@ With this checklist, we expect you to demonstrate an ability to do research and 
 
 - [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
 - [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
-- [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
+- [x] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Django and Wagtail
 
