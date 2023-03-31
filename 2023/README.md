@@ -22,6 +22,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Manish Dhakal
 - Mehul Aggarwal
 - Piyush Srivastava
+- Pratik Nimje
 - Priscilla Baah
 - Ritik Raj
 - Rohit Yadav
