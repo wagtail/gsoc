@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% load wagtailcore_tags wagtailimages_tags%}
+
+{% block body_class %}template-blogindexpage{% endblock %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+<div class="intro">{{ page.intro|richtext }}</div>
+
+{% for post in blogpages %}
+{% with post=post.specific %}
+<h2><a href="{% pageurl post %}">{{ post.title }}</a></h2>
+
+{% with post.main_image as main_image %}
+{% if main_image %}{% image main_image fill-160x100 %}{% endif %}
+{% endwith %}
+
+<p>{{ post.intro }}</p>
+{{ post.body|richtext }}
+{% endwith %}
+{% endfor %}
+
+{% endblock %}
