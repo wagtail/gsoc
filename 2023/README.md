@@ -16,6 +16,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chinonso Ani
 - Damilare
 - Debapriya Jha
+- Debdeep Pal
 - Elton Omwega
 - Ezad Zamily
 - Gaurav Sarkar
