@@ -26,6 +26,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Nathaniel Soriano
 - Mehul Aggarwal
 - Piyush Srivastava
+- Pratik Nimje
 - Priscilla Baah
 - Ritik Raj
 - Rohit Yadav
