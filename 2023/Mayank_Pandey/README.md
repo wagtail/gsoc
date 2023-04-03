@@ -20,6 +20,18 @@ Looking forward to making new connections and achieving goals through collaborat
 
 ### To start your contribution to Wagtail complete this test to help improve wagtail.org:- [Click here](https://7dw5nddg.optimalworkshop.com/treejack/5bb2s033)
 
+### Projects or Specific RFCs/Issues I would love to work on.
+#### Greener Coding Project:-
+
+1. RFC 77: Support for SVG images #77:- [Click here](https://github.com/wagtail/rfcs/pull/77)
+2. RFC 71: support for responsive images & picture element #71:- [Click here](https://github.com/wagtail/rfcs/pull/71)
+3. Dark mode for the admin interface #10056:- [Click here](https://github.com/wagtail/wagtail/issues/10056)
+
+#### Wagtail.org :-
+
+1. Add page links to Blog pagination #349:- [Click here](https://github.com/wagtail/wagtail.org/issues/349).
+2. font-size definitions should use relative units #322:- [Click here](https://github.com/wagtail/wagtail.org/issues/322).
+
 ### Resources to learn Django and Python.
 
 1. Python Documentation :- [Click here](https://docs.python.org/3/contents.html)
