@@ -45,4 +45,5 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Vibhakar Solanki
 - Yaseen Wazir
 - Yuntao Xie
+- Dharmendra Solanki
 
