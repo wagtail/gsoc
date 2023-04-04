@@ -46,3 +46,4 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Yaseen Wazir
 - Yuntao Xie
 - Ayoub Mnafeg
+- Dharmendra Solanki
