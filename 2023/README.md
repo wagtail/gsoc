@@ -5,6 +5,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Abdul Samad Ansari (Sam)
 - Abinash Satapathy
 - Ahmed Bedeir
+- Ahmed Hanoon
 - Allen Tran
 - Alwin T Varghese
 - Aman Gupta
@@ -15,13 +16,17 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Chinonso Ani
 - Damilare
 - Debapriya Jha
+- Debdeep Pal
 - Elton Omwega
+- Ezad Zamily
 - Gaurav Sarkar
 - Kliiu
 - Krishna Dhakad
 - Manish Dhakal
+- Nathaniel Soriano
 - Mehul Aggarwal
 - Piyush Srivastava
+- Pratik Nimje
 - Priscilla Baah
 - Ritik Raj
 - Rohit Yadav
@@ -40,4 +45,5 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Vibhakar Solanki
 - Yaseen Wazir
 - Yuntao Xie
-
+- Ayoub Mnafeg
+- Dharmendra Solanki

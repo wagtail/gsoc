@@ -39,8 +39,8 @@ Mentoring line-up TBC between Chris, Thibaud, Sage, performance team members
 
 - Lead: Thibaud Colas
 - Support: Chris Adams
-- Support 2: Fershad Irani (TBC)
-- Support 3: Sage Abdullah (TBC)
+- Support 2: Sage Abdullah
+- Support 3: Fershad Irani (TBC)
 
 #### Size
 
