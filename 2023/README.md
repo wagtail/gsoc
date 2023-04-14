@@ -23,6 +23,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kliiu
 - Krishna Dhakad
 - Manish Dhakal
+- Mohit Kumar
 - Nathaniel Soriano
 - Mehul Aggarwal
 - Piyush Srivastava
