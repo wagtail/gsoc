@@ -16,6 +16,50 @@ Looking forward to making new connections and achieving goals through collaborat
 | GitHub      | [Click here](https://github.com/MAYANKpandey14)        |
 | Twitter     | [Click here](https://twitter.com/reallyMayankP)        |
 
+## Research 
+
+### To start your contribution to Wagtail complete this test to help improve wagtail.org:- [Click here](https://7dw5nddg.optimalworkshop.com/treejack/5bb2s033)
+
+### Projects or Specific RFCs/Issues I would love to work on.
+#### Greener Coding Project:-
+
+1. RFC 77: Support for SVG images #77:- [Click here](https://github.com/wagtail/rfcs/pull/77)
+2. RFC 71: support for responsive images & picture element #71:- [Click here](https://github.com/wagtail/rfcs/pull/71)
+3. Dark mode for the admin interface #10056:- [Click here](https://github.com/wagtail/wagtail/issues/10056)
+
+#### Wagtail.org :-
+
+1. Add page links to Blog pagination #349:- [Click here](https://github.com/wagtail/wagtail.org/issues/349).
+2. font-size definitions should use relative units #322:- [Click here](https://github.com/wagtail/wagtail.org/issues/322).
+
+### Resources to learn Django and Python.
+
+1. Python Documentation :- [Click here](https://docs.python.org/3/contents.html)
+2. W3school Python tutorial :- [Click here](https://www.w3schools.com/python/)
+3. Freecodecamp's Youtube Django Playlist :- [Click here](https://youtu.be/o0XbHvKxw7Y)
+4. Django Documentaion :- [Click here](https://docs.djangoproject.com/en/4.2/)
+5. Django Project (Social Media App) :- [Click here](https://youtu.be/xSUm6iMtREA)
+
+### Resources about Green Coding and its Impact.
+
+1. Why Green Coding is a Powerful Catalyst for Sustainability Initiatives:- [Click here](https://www.ibm.com/cloud/blog/green-coding)
+2. Green Foundation Official Website :- [Click here](https://www.thegreenwebfoundation.org/)
+3. Green Coding: What is it and Why should you Care? :- [Click here](https://geekflare.com/green-coding/)
+4. Quantifying "Greenness" of FaaS by Lukasz Mastalerz :-[Click here](https://www.linkedin.com/pulse/quantifying-greenness-faas-lukasz-mastalerz/)
+5. Chris Adams on Greener Coding :- [Click here](https://youtu.be/upiK4du5vUI)
+6. Github's Discussion you should read :- [Click here](https://github.com/wagtail/wagtail/discussions/8843)
+7. Green Coding : Wagtails Climate Impact :- [Click here](https://github.com/wagtail/gsoc/blob/main/project-ideas.md)
+8. Green Coding Berlin Blogs :- [Click here](https://www.green-coding.berlin/blog/)
+
+### Must read Blogs and README files.
+
+1. GSOC contributor's guide:- [Click here](https://github.com/wagtail/gsoc#readme)
+2. How the wagtial.org was created:-[Click here](https://wagtail.org/blog/how-we-created-the-new-wagtailorg/)
+3. RFC process :- [Click here](https://github.com/wagtail/rfcs#readme)
+4. GSOC projects list 2023 :- [Click here](https://wagtail.org/blog/wagtail-cms-projects-for-google-summer-of-code-2023/)
+5. Ten Tasty ingredients for a delicious pull request :-[Click here](https://wagtail.org/blog/ten-tasty-ingredients-for-a-delicious-pull-request/)
+6. Simple ways to contribute to Wagtail :- [Click here](https://wagtail.org/blog/5-simple-ways-anyone-can-contribute-to-wagtail/)
+
 ## Tasks
 
 ### Checklists
@@ -63,8 +107,8 @@ To stand out as an applicant,
 
 With this checklist, we expect you to demonstrate an ability to do research and learn new things. All tasks here will require updating your participant file within this `gsoc` repository in the `2023/` folder.
 
-- [ ] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-- [ ] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
+- [x] Create a new `## Research` section in your personal file, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+- [x] Go through our projects under the [wagtail organisation](https://github.com/wagtail) in GitHub. Create a new list with links to repositories or specific issues you would be interested in contributing to during the internship.
 - [ ] Write a short blog post describing things you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website), and you must also add it as a new section in your personal file in this repository (so we can provide feedback on the contents).
 
 ### Checklist: Django and Wagtail
