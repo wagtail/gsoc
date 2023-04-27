@@ -2,6 +2,9 @@
 
 🚧 we have split our one "Greener coding" project idea in two separate projects: _front-end_, and _back-end_, as there are a high number of tasks involved. Both projects can be delivered successfully completely independently, and we expect them both to be equally interesting.
 
+- [Greener coding: Wagtail’s climate impact - front-end development](#greener-coding-wagtails-climate-impact---front-end-development)
+- [Greener coding: Wagtail’s climate impact - back-end development](#greener-coding-wagtails-climate-impact---back-end-development)
+
 ### Greener coding: Wagtail’s climate impact - front-end development
 
 #### Summary
@@ -45,7 +48,7 @@ This project is suitable with a wide range of skillsets, we can adjust tasks acc
 
 175 hours or 350 hours
 
-### Greener coding: Wagtail’s climate impact - backend development
+### Greener coding: Wagtail’s climate impact - back-end development
 
 #### Summary
 
