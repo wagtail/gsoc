@@ -1,7 +1,7 @@
 ## **Introduction**
 - Hello there, I'm Abdul Samad Ansari, you can call me Sam for short. I've been programming with Python language for the 4+ years now. I was first introduced to programming back in 8th grade and I'm in love ever since. I first learned about making basic webpages using HTML and CSS and, then shifted to Python to explore more. I started getting more involved in Open Source after coming to college. Last month (February), I learned about Django ORM, Redis and setting up a wagtail project or integrate wagtail to a django project. Currently, I'm looking into django and wagtail in order to learn more about the codebase and contribute more. Contributing by solving issues has really helped me understand the codebase better.
 - I wanted to work on the project `RFC 72: Background workers`, but now that it has been cancelled, I'm planning to work on `Greener coding: Wagtail’s climate impact`, the skillset required for it macthes mine, and the idea really interests me.
-- To be an active Open Source developer and remain a part of the community, I will continue contributing to Wagtail even after GSoC. GSoC is a great a great opportunity to get a head start in my Open Source journey.
+- To be an active Open Source developer and remain a part of the community, I will continue contributing to Wagtail even after GSoC. GSoC is a great opportunity to get a head start in my Open Source journey.
 
 | Social              | Link                                                            |
 | -----------         | ----------------------------------------------------------------|
@@ -55,5 +55,5 @@
 - [Green coding](https://geekflare.com/green-coding/) - To learn about green coding
 - [Chris Adams Greening Django](https://www.youtube.com/watch?v=upiK4du5vUI0) - A video I found by doing some digging about Green coding.
 - [Green Metric Tool](https://github.com/green-coding-berlin/green-metrics-tool) - A developer tool is indented for measuring the energy consumption of software and doing life-cycle-analysis.
-- [Quantifying "greenness" of FaaS](https://www.linkedin.com/pulse/quantifying-greenness-faas-lukasz-mastalerz/) - From I learned how FasS can be useful in making coding greener.
+- [Quantifying "greenness" of FaaS](https://www.linkedin.com/pulse/quantifying-greenness-faas-lukasz-mastalerz/) - From I learned how Fast can be useful in making coding greener.
 
