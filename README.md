@@ -2,7 +2,7 @@
 
 ## 2024
 
-👋 we’ve not decided whether we’ll take part in 2024. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/)
+👋 we’ve not decided whether we’ll take part in 2024. We will decide at the beginning of February 2024, in accordance with the [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline). If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/).
 
 ## 2023
 
