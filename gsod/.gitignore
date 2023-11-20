@@ -1,0 +1,33 @@
+*.swp
+*.pyc
+.DS_Store
+/.coverage
+/dist/
+/build/
+/MANIFEST
+/wagtail.egg-info/
+/docs/_build/
+/.tox/
+.venv
+venv
+env
+*.sqlite3
+node_modules
+npm-debug.log*
+*.idea/
+/*.egg/
+/.cache/
+/.pytest_cache/
+/storybook-static
+
+### JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+coverage/
+
+### vscode
+.vscode
+
+*.db
