@@ -17,7 +17,6 @@ Our application has been accepted. Interested? Fill in our [expression of intere
 - ✅ April 1st - April 15th: accepting [expressions of interest](https://wagtail.org/gsod-apply/) from technical writers
 - ✅ April 15th - May 1st: reviewing expressions of interest and contacting writers
 - ✅ May 10: Technical writer hiring deadline
--
 
 ## Proposal: Create Wagtail developer onboarding tutorials
 
