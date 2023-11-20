@@ -48,7 +48,7 @@ We expect deliverables across 3 thematic areas, delivered sequentially as most d
 
 This is a tentative timeline drafted in accordance with the [official GSoD timeline](https://developers.google.com/season-of-docs/docs/timeline), and project commitments from mentors and the technical writer, based on a schedule of 20 work hours per week for the writer, and 5h of support per week from mentors.
 
-- Monday May 8, 2023 –Monday June 12, 2023
+- Monday May 8, 2023 – Monday June 12, 2023
   - 5h – Project kickoff meeting with stakeholders
   - 5h – Technical writer induction
   - 5h – Project methodology refinements

@@ -1,4 +1,4 @@
-# [Google Season of Docs](https://developers.google.com/season-of-docs/) for Wagtail
+dw README.md# [Google Season of Docs](https://developers.google.com/season-of-docs/) for [Wagtail](https://wagtail.org/)
 
 Welcome! This repository contains all resources for Wagtail’s participation to [Google Season of Docs](https://developers.google.com/season-of-docs/).
 
