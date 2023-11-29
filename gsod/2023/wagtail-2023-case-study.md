@@ -330,7 +330,15 @@ A resounding success would be if some of those contributors stayed on to join ou
 _What went well? What was unexpected? What hurdles or setbacks did you face? Do you consider your project successful? Why or why not? (If it's too early to tell, explain when you expect to be able to judge the success of your project.)_
 
 We believe the project was a big success. Documentation projects like this aren’t the norm for us, so we learned a lot.
-There are specific points to highlight.
+As far as producing the tutorial – of 62 gaps in knowledge unaddressed by our pre-existing tutorial,
+
+- ✅: 29 have been addressed with the new tutorial series.
+- 🏁: 13 have been left unaddressed explicitly, in the interest of reducing the tutorial’s complexity.
+- ⌛: 6 have been earmarked as "quick win" iterative improvements to deliver as a follow-up to this project.
+- ❓: 16 have been left unaddressed pending further discussion.
+
+See our [Wagtail skills analysis](./deliverables/wagtail-skills-analysis.md) and in particular _[Gap analysis – with new tutorial](./deliverables/wagtail-skills-analysis.md) and in particular _[Gap analysis – with new tutorial](./deliverables/wagtail-skills-analysis.md#gap-analysis--with-new-tutorial)_)_ for a precise assessment of which gaps have been addressed and which are still present.
+Beyond this massive improvement by having the new tutorial series, there are specific points to highlight.
 
 #### Tutorial site reuse
 
@@ -341,6 +349,8 @@ We didn’t anticipate so many opportunities for reuse of the tutorial and its w
 We unexpectedly decided to switch the tutorial website’s theme from a bakery, as per our existing demo website, to a personal portfolio.
 This was at the suggestion of our technical writer, with the goal of making the site more valuable for people going through this.
 After all, we are intending for the site to demonstrate a real-world setup, so there is no reason they couldn’t keep it as the basis for their project in the future.
+
+As we went, we further adjusted the tutorial’s content with the goal of making the site reusable beyond the tutorial. For example, the social media links within the footer were created to demonstrate a specific pattern in Wagtail websites, and to be a compelling part of the site for people to customize for their needs:
 
 [![Screenshot of the portfolio website homepage with content from Thibaud with a pineapple mug](./deliverables/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)](./deliverables/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)
 
@@ -363,7 +373,14 @@ There have been unexpected "collaboration" challenges, though we feel we’ve be
 
 ##### Technical writer onboarding
 
-TODO
+Onboarding was more challenging than expected because we didn’t necessarily have the formal processes a technical writer would expect.
+In particular,
+
+- We weren’t very clear on whether the new tutorials should use British or American english.
+  Though this is a relatively minor point, it felt important for us to get broad agreement of this so as not to have this be a distraction in the future.
+- We didn’t have a very clear documentation style guide.
+  We had guidelines about how to write in Markdown, but not about broader concepts.
+  We adopted the [Google developer documentation style guide](https://developers.google.com/style) on the recommendation of our technical writer.
 
 ##### Tutorial code snippets feedback
 
@@ -375,11 +392,7 @@ Without them stepping in promptly at the right time, we would have accumulated f
 
 ##### Deployment platform
 
-details (good and bad) about integrating and onboarding technical writers into your project. Did they need 1:1 sessions to set up their working environment? Were there long cycle times for feedback? Did you realize that the one person who knew how to deploy the docs site was on sabbatical in Antartica?
-
-https://your-wagtail-portfolio.fly.dev/ for Outreachy
-
-TODO
+This proved to be more challenging than we anticipated because we had very high standards that not many platforms meet. In particular, we wanted to use a platform that demonstrates a "production-grade" professional website setup, and nonetheless is available with a free tier so people can try this out with less friction.
 
 ## Summary
 
@@ -430,4 +443,6 @@ Thank you to our core project team – Damilola Oladele, Meagen Voss, Thibaud Co
 
 #### Published work and pull requests
 
-TODO
+- [Wagtail docs – Tutorial](https://docs.wagtail.org/en/latest/tutorial/index.html)
+- [Main pull request](https://github.com/wagtail/wagtail/pull/11217)
+- [All our Season of Docs document](https://github.com/wagtail/gsod)
