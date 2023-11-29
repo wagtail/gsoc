@@ -390,6 +390,29 @@ We had anticipated it would be tricky for us to make decisions on how exactly sp
 It worked well, but when it came time to actually check that we did so correctly – it was invaluable to have Storm and Kalob stepping in to review what we had done.
 Without them stepping in promptly at the right time, we would have accumulated further delay.
 
+###### Illustration of code snippets feedback
+
+As an illustration, here’s an example from our tutorial’s [Customize your home page](https://docs.wagtail.org/en/latest/tutorial/customize_homepage.html#customize-your-home-page). We have the following code snippet:
+
+```python
+image = models.ForeignKey(
+    "wagtailimages.Image",
+    null=True,
+    blank=True,
+    on_delete=models.SET_NULL,
+    related_name="+",
+    help_text="Homepage image",
+)
+```
+
+We describe the `related_name` parameter extensively (as it’s a new concept at this point), but don’t really specify _why_ it’s being used, aside from people possibly inferring it from the description of its behavior.
+
+We got feedback like:
+
+> Accurate description but why set `related_name` to `+`, therefore disabling it? If you don't care to give it a related name, just leave out that parameter and let Django's default behavior give me something I can use.
+
+This is very interesting because we could explain why we do this in addition to how `related_name` works – but we don’t necessarily have the experience within the team to question why the [demo site we copied this from](https://github.com/wagtail/bakerydemo/blob/cd0910420313e0f18c6b9c2a048b227f1f8b3296/bakerydemo/base/models.py#L222-L229) does this. And in any case, if we did agree to change this, we would also want to change Wagtail’s demo site.
+
 ##### Deployment platform
 
 This proved to be more challenging than we anticipated because we had very high standards that not many platforms meet. In particular, we wanted to use a platform that demonstrates a "production-grade" professional website setup, and nonetheless is available with a free tier so people can try this out with less friction.
@@ -398,7 +421,30 @@ This proved to be more challenging than we anticipated because we had very high 
 
 _In 2-4 paragraphs, summarize your project experience. Highlight what you learned, and what you would choose to do differently in the future. What advice would you give to other projects trying to solve a similar problem with documentation?_
 
-TODO
+It’s been great, there were challenges, we learned a lot.
+
+Lessons learned from this project include the importance of clear planning and setting realistic timelines, the value of community feedback in shaping content, and the need for flexibility in adapting plans based on project progress and external factors.
+
+For our specific projects, one thing we could have clearly done differently is remove the most challenging "Deployment" step (the last one in the tutorial).
+This would have been a large compromise and departure from initial goals, but would have allowed us to ship the whole series on schedule (in particular, in time to use it for Outreachy applications in October 2023).
+
+Alternatively, we could have at least foreseen this challenge better, and started reviewing deployment platforms much earlier on – ideally before the project even started.
+Possibly delegating this to a separate team member or a separate team.
+
+For other projects aiming to solve similar documentation challenges, we would recommend to:
+
+1. Clearly identify the gaps in existing material and the needs of your audience before starting.
+   We thought our [skills analysis](./deliverables/wagtail-skills-analysis.md) worked quite well, combined with directly talking to our users.
+2. Consider the technical expertise required for the project and choose your team members accordingly.
+3. Have a clear, achievable plan to gather feedback.
+   With backup plans if appropriate.
+4. Prioritize clear and realistic goal setting and project planning.
+   Consider changing the scope of the project rather than accumulating delays.
+
+In a nutshell; for other projects; **go for it**.
+There will be challenges but nothing that can’t be overcome.
+With enough planning and support, you can do it.
+There’s a lot to learn from those documentation efforts that’ll trickle down to the rest of the project.
 
 ## Appendix
 
