@@ -427,3 +427,7 @@ Thank you to our core project team – Damilola Oladele, Meagen Voss, Thibaud Co
 4. [2022 participants’ case studies](https://developers.google.com/season-of-docs/docs/2022/participants)
 5. [2022 AsyncAPI case study](https://github.com/orgs/asyncapi/discussions/539)
 6. [2022 CHAOSS case study](https://github.com/chaoss/community/blob/main/mentorship-programs/GSoD-2022/GSoD%20Final%20Case%20Study.md)
+
+#### Published work and pull requests
+
+TODO
