@@ -67,13 +67,13 @@ This is a tentative timeline drafted in accordance with the [official GSoD timel
 
 Within this proposed timeline, both the mentors and the technical writer will convene to schedule up to 30 days away from the projects for each participant (for holidays or any other planned leave). Those days off can be taken as a single block or spread out, at the discretion of the participants. The actual project timeline will then shift accordingly.
 
-## Licensing & copyright
+## Licensing and copyright
 
 - For changes to the existing Your first Wagtail site tutorial, the work will use Wagtail’s existing[ BSD 3-clause licence](https://github.com/wagtail/wagtail/blob/main/LICENSE#LL1C1-L1C1), with copyright retained by the writer.
 - Any changes to the bakerydemo project will use the existing BSD 3-clause licence, with copyright retained by the writer.
 - All other work, including the new tutorials, will be made available under a [CC0 public domain dedication](https://creativecommons.org/share-your-work/public-domain/cc0/), opting out of copyright.
 
-## Methodology & revisions
+## Methodology and revisions
 
 We expect all work to be delivered either as Google Docs documents or GitHub pull requests with Markdown file changes, depending on the needs of the task.
 
@@ -91,7 +91,7 @@ Final version
 
 For the new tutorials, we expect to need up to 10 rounds of drafts and feedback.
 
-## Communication & project management
+## Communication and project management
 
 The project will be run fully remotely, with chat communications via Wagtail’s Slack in a private channel, and occasional video call meetings.
 
