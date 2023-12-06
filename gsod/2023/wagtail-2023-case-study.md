@@ -23,7 +23,7 @@ We had three problems we tried to solve with this project, which we surfaced as 
 
 We acutely felt all three of those pain points as part of our participation to outreachy programs, where we have a sudden influx of people generally new to Wagtail and all looking to get up to speed with how our product works. As an illustration, the influx of new users is very clear when looking at weekly active members on our Slack workspace, which is our community’s main communication channel:
 
-[![Weekly active members on the Wagtail Slack workspace](./deliverables/weekly_active_members_on_the_wagtail_slack_workspace.png)](./deliverables/weekly_active_members_on_the_wagtail_slack_workspace.png)
+[![Weekly active members on the Wagtail Slack workspace](./assets/weekly_active_members_on_the_wagtail_slack_workspace.png)](./assets/weekly_active_members_on_the_wagtail_slack_workspace.png)
 
 Here we can see how the number of people posting increases a lot, occasionally doubling, as part of Google Summer of Code 2022 and 2023, and Outreachy October 2022 and 2023 cohorts.
 
@@ -160,11 +160,14 @@ We also didn’t realize how big of a dependency we had on picking a deployment 
 _What was created, updated, or otherwise changed? Include links to published documentation if available. Were there any deliverables in the proposal that did not get created? List those as well. Did this project result in any new or updated processes or procedures in your organization?_
 
 As per our main goals, we’ve created and published a whole new tutorial series, [Wagtail docs – Tutorial](https://docs.wagtail.org/en/latest/tutorial/index.html). Hooray! 🌈
+The new tutorial series is currently in "soft launch" or available as a "pre-release" – it’s live on our documentation site, but only within the "latest" version of our documentation which users have to opt into using.
+The tutorial series will go live for all users in February 2024, when we release Wagtail 6.0.
+
 We also have a revamped initial [Your first Wagtail site](https://docs.wagtail.org/en/latest/getting_started/tutorial.html) tutorial.
 It’s more beginner-friendly, particularly for people completely new to both Django and Wagtail.
 Here is a screenshot of the homepage for a site built with the whole series, as an illustration:
 
-[![Screenshot of the portfolio website homepage with content from Thibaud with a pineapple mug](./deliverables/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)](./deliverables/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)
+[![Screenshot of the portfolio website homepage with content from Thibaud with a pineapple mug](./assets/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)](./assets/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)
 
 On here, we can see glimpses of most major improvements brought by this new series:
 
@@ -181,7 +184,9 @@ Though this isn’t a direct deliverable of the project, we also currently host 
 
 Though the tutorial itself wasn’t ready, we were actually able to use this site as part of the Outreachy application period in October 2023.
 Trying out Wagtail was one of the ["Getting to know the project" tasks](https://github.com/wagtail/outreachy/blob/main/contributor-guide.md#checklist-accessibility-features-documentation) we had defined for applicants to our documentation project, [Accessibility features documentation](https://github.com/wagtail/outreachy/blob/main/project-ideas.md#accessibility-features-documentation).
-This was the first experience with Wagtail for 18 people as part of that cohort.
+This was the first experience with Wagtail for 18 people as part of that cohort. We gave them access to a live copy of the site, and Damilola and Thibaud presented Wagtail to those 18 people with this site as the demo:
+
+[![Damilola and Thibaud with Outreachy participants](./assets/damilola_and_thibaud_with_outreachy_participants.png)](./assets/damilola_and_thibaud_with_outreachy_participants.png)
 
 If you want to try out the CMS, head to <https://your-wagtail-portfolio.fly.dev/admin/login/>, with username `seasonofdocs` and password `antarctica`.
 
@@ -295,7 +300,31 @@ Here are our top 10 viewed pages in the past 30 days for reference:
 
 ---
 
-We believe the tutorial will become one of the most popular sections in our documentation and this will show in page views. There is a chance however that this traffic would come from people who aren’t using our docs currently – so it could be we see an increase in overall page views from the new series, rather than the new series necessarily having a high traffic relative to the current tutorial.
+We believe the tutorial will become one of the most popular sections in our documentation and this will show in page views.
+There is a chance however that this traffic would come from people who aren’t using our docs currently – so it could be we see an increase in overall page views from the new series, rather than the new series necessarily having a high traffic relative to the current tutorial.
+
+##### Page views for pre-release content
+
+As of December 5th 2023, our tutorial series has been live for 19 days on this pre-release "latest" version of our documentation.
+Here are page views for those tutorial pages over _19 days_, ordered by tutorial step:
+
+| Page                                                                                                                       | Views |
+| -------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [/getting_started/tutorial.html](https://docs.wagtail.org/en/latest/getting_started/tutorial.html)                         | 166   |
+| [/tutorial/index.html](https://docs.wagtail.org/en/latest/tutorial/index.html)                                             | 210   |
+| [/tutorial/customize_homepage.html](https://docs.wagtail.org/en/latest/tutorial/customize_homepage.html)                   | 123   |
+| [/tutorial/create-footer_for_all_pages.html](https://docs.wagtail.org/en/latest/tutorial/create-footer_for_all_pages.html) | 116   |
+| [/tutorial/set_up_site_menu.html](https://docs.wagtail.org/en/latest/tutorial/set_up_site_menu.html)                       | 62    |
+| [/tutorial/style_your_site.html](https://docs.wagtail.org/en/latest/tutorial/style_your_site.html)                         | 58    |
+| [/tutorial/create_contact_page.html](https://docs.wagtail.org/en/latest/tutorial/create_contact_page.html)                 | 57    |
+| [/tutorial/create_portfolio_page.html](https://docs.wagtail.org/en/latest/tutorial/create_portfolio_page.html)             | 71    |
+| [/tutorial/add_search.html](https://docs.wagtail.org/en/latest/tutorial/add_search.html)                                   | 45    |
+| [/tutorial/deployment.html](https://docs.wagtail.org/en/latest/tutorial/deployment.html)                                   | 65    |
+
+From this, we can see that our sharing of the pre-release tutorial has helped with getting users already.
+We can also see this data _should_ be a good indication of whether we will meet our goals, once the tutorial is more widely available.
+
+The data is surprising as we would expect for there to be a more gradual drop-off in page views than is shown here, but this will be clearer once there are more data points.
 
 #### Open source newcomers
 
@@ -332,10 +361,10 @@ _What went well? What was unexpected? What hurdles or setbacks did you face? Do 
 We believe the project was a big success. Documentation projects like this aren’t the norm for us, so we learned a lot.
 As far as producing the tutorial – of 62 gaps in knowledge unaddressed by our pre-existing tutorial,
 
-- ✅: 29 have been addressed with the new tutorial series.
-- 🏁: 13 have been left unaddressed explicitly, in the interest of reducing the tutorial’s complexity.
-- ⌛: 6 have been earmarked as "quick win" iterative improvements to deliver as a follow-up to this project.
-- ❓: 16 have been left unaddressed pending further discussion.
+- 29 have been addressed with the new tutorial series.
+- 13 have been left unaddressed explicitly, in the interest of reducing the tutorial’s complexity.
+- 6 have been earmarked as "quick win" iterative improvements to deliver as a follow-up to this project.
+- 16 have been left unaddressed pending further discussion.
 
 See our [Wagtail skills analysis](./deliverables/wagtail-skills-analysis.md) and in particular _[Gap analysis – with new tutorial](./deliverables/wagtail-skills-analysis.md) and in particular _[Gap analysis – with new tutorial](./deliverables/wagtail-skills-analysis.md#gap-analysis--with-new-tutorial)_)_ for a precise assessment of which gaps have been addressed and which are still present.
 Beyond this massive improvement by having the new tutorial series, there are specific points to highlight.
@@ -352,7 +381,7 @@ After all, we are intending for the site to demonstrate a real-world setup, so t
 
 As we went, we further adjusted the tutorial’s content with the goal of making the site reusable beyond the tutorial. For example, the social media links within the footer were created to demonstrate a specific pattern in Wagtail websites, and to be a compelling part of the site for people to customize for their needs:
 
-[![Screenshot of the portfolio website homepage with content from Thibaud with a pineapple mug](./deliverables/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)](./deliverables/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)
+[![Screenshot of the portfolio website homepage with content from Thibaud with a pineapple mug](./assets/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)](./assets/screenshot_of_the_portfolio_website_homepage_with_content_from_thibaud_with_a_pineapple_mug.png)
 
 Wagtail generally doesn’t mandate usage of any specific front-end technology and we historically haven’t created many site "themes", so this could be the beginning of one.
 
