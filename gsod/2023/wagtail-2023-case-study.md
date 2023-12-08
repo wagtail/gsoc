@@ -21,7 +21,7 @@ We had three problems we tried to solve with this project, which we surfaced as 
    Developers in our community are regularly involved with initiatives like Google Summer of Code, Outreachy, Django Girls.
    In those scenarios, we need learning material that’s approachable for newcomers, reliable, well-maintained.
 
-We acutely felt all three of those pain points as part of our participation to outreachy programs, where we have a sudden influx of people generally new to Wagtail and all looking to get up to speed with how our product works. As an illustration, the influx of new users is very clear when looking at weekly active members on our Slack workspace, which is our community’s main communication channel:
+We acutely felt all three of those pain points as part of our participation to outreach programs, where we have a sudden influx of people generally new to Wagtail and all looking to get up to speed with how our product works. As an illustration, the influx of new users is very clear when looking at weekly active members on our Slack workspace, which is our community’s main communication channel:
 
 [![Weekly active members on the Wagtail Slack workspace](./assets/weekly_active_members_on_the_wagtail_slack_workspace.png)](./assets/weekly_active_members_on_the_wagtail_slack_workspace.png)
 
@@ -126,7 +126,7 @@ Our team additionally received support from Storm and Kalob, who helped set up a
 Both Storm and Kalob made themselves available on short notice when it was clear we needed more help to review our project’s code snippets.
 
 Rachel Smith ([@rachelhsmith](https://github.com/rachelhsmith) additionally helped by being the first person outside the team to test the tutorial.
-And Wagtail’s [Developer relations team](https://github.com/wagtail/wagtail/wiki/Developer-relations-team) has regularly reviewed the project and providing high-level guidance.
+And Wagtail’s [Developer relations team](https://github.com/wagtail/wagtail/wiki/Developer-relations-team) has regularly reviewed the project and provided high-level guidance.
 
 Finally, we’ve been working with representatives of [Fly.io](https://fly.io/).
 We selected this platform for deployment of the site, and have been working with them to ensure the tutorial works well there.
@@ -520,4 +520,4 @@ Thank you to our core project team – Damilola Oladele, Meagen Voss, Thibaud Co
 
 - [Wagtail docs – Tutorial](https://docs.wagtail.org/en/latest/tutorial/index.html)
 - [Main pull request](https://github.com/wagtail/wagtail/pull/11217)
-- [All our Season of Docs document](https://github.com/wagtail/gsod)
+- [All our Season of Docs documents](https://github.com/wagtail/gsod)
