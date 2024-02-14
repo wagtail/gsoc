@@ -1,97 +1,144 @@
-## Project ideas
+# Project ideas
 
-🚧 we have split our one "Greener coding" project idea in two separate projects: _front-end_, and _back-end_, as there are a high number of tasks involved. Both projects can be delivered successfully completely independently, and we expect them both to be equally interesting.
+## Change page type
 
-- [Greener coding: Wagtail’s climate impact - front-end development](#greener-coding-wagtails-climate-impact---front-end-development)
-- [Greener coding: Wagtail’s climate impact - back-end development](#greener-coding-wagtails-climate-impact---back-end-development)
+### Summary
 
-### Greener coding: Wagtail’s climate impact - front-end development
+Make it possible for a content editor to change the content type of a page.
 
-#### Summary
+This is an often requested feature, but is technically hard to implement. 
 
-We’re starting to have a better understanding of the [climate impact of Wagtail](https://github.com/wagtail/wagtail/discussions/8843) as a CMS, and how we can reduce it. We want to integrate our findings into Wagtail’s direction, and make concrete improvements to the project to reduce related carbon emissions.
+### Expected outcomes
 
-#### Expected outcomes
+A user interface and backend logic to allow switching page type.
 
-The climate impact of Wagtail sites will be measurable with agreed-upon methodologies, and we will do so on a regular basis. By the end of the project, we will have released a number of energy efficiency improvements reducing the impact of Wagtail sites (image optimisation, better caching, scale-to-zero setup).
+### Implementation
 
-#### Implementation
+Here is a very rough, high-level idea for what the user experience could look like:
 
-We can:
+1. Select "change page type" action on a page
+2. Choose new page type from a list (borrowed from the New Page type selection screen)
+3. New "visual data migration" UI appears showing original page's fields on left (more condensed than standard edit view) and new page's fields on right
+   - _(this is where the major front-end complexity is)_
+4. Fields with same name and type automatically have data copied over to new page
+5. Fields that have no match are highlighted on the left to prompt user to manually copy that data over to a field on the right (or acknowledge that that data will be lost)
+6. Once satisfied with the data in the new page model on the right, click the done/save/go/whatever button at the bottom to execute the behind the scenes magic needed to change the type
+   - _(and this is where the major back-end complexity is)_
+   - Would be good to store a copy of the changed page in some archive location, so it can be restored in case of emergency
 
-1. Research how leading CMS projects are doing this.
-2. Produce a report on the climate impact of Wagtail sites at this point in time.
-3. Update our tooling to make it easier to evaluate energy efficiency on a regular basis.
-4. Plan 5-10 sustainability-related changes to Wagtail
-5. Implement 3-5 of these changes
+There is obviously a lot of complexity not touched on here, especially on the back end, but this outlines what I think would be a good workflow for users.
 
-An example of such a change would be support for [responsive image optimisations](https://github.com/wagtail/rfcs/pull/71) in Wagtail.
+This should likely be initially developed as a standalone package before determining if it makes sense to bring it into core.
 
-Another example would be [themes for the admin interface](https://github.com/wagtail/wagtail/issues/10056) – a dark theme is under way, which could be extended with a "high contrast" version if there are energy consumption benefits. The themes could display fewer images, and make use of advanced browser features such as [prefers-reduced-data](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data) to further reduce the impact of browsing the CMS for users who choose to change their experience.
+### Skills
 
-#### Skills
-
-This project is suitable with a wide range of skillsets, we can adjust tasks accordingly.
-
-- Python
 - Django
-- Performance
-- DevOps
+- Wagtail
+- Django Tree
 
-#### Mentors
+### Mentors
 
-- Lead: Thibaud Colas
-- Support: Sage Abdullah
-- Support 2: Chris Adams
+- Lead: Thibaud Colas https://github.com/thibaudcolas
+- Support: Coen van der Kamp https://github.com/allcaps
 
-#### Size
+We will supply a primary mentor and at least two secondary mentors to support the participant.
 
-175 hours or 350 hours
+### Size
 
-### Greener coding: Wagtail’s climate impact - back-end development
+Expected size of project approximately 350 hours.
 
-#### Summary
+### Difficulty rating
 
-We’re starting to have a better understanding of the [climate impact of Wagtail](https://github.com/wagtail/wagtail/discussions/8843) as a CMS, and how we can reduce it. We want to integrate our findings into Wagtail’s direction, and make concrete improvements to the project to reduce related carbon emissions.
+Medium
 
-#### Expected outcomes
+## Create and select related content
 
-The climate impact of Wagtail sites will be measurable with agreed-upon methodologies, and we will do so on a regular basis. By the end of the project, we will have released a number of energy efficiency improvements reducing the impact of Wagtail sites (image optimisation, better caching, scale-to-zero setup).
+### Summary
 
-#### Implementation
+**Django**
 
-We can:
+Django has a way to select related content AND create, update and delete related content _without leaving the current form_. It does this by opening new windows.
 
-1. Research how leading CMS projects are doing this.
-2. Produce a report on the climate impact of Wagtail sites at this point in time.
-3. Update our tooling to make it easier to evaluate energy efficiency on a regular basis.
-4. Plan 5-10 sustainability-related changes to Wagtail
-5. Implement 3-5 of these changes
+See this video illustrating the differences between Django and Wagtail related objects.
 
-An example of such a change would be support for [responsive image optimisations](https://github.com/wagtail/rfcs/pull/71) in Wagtail.
 
-Another example would be [themes for the admin interface](https://github.com/wagtail/wagtail/issues/10056) – a dark theme is under way, which could be extended with a "high contrast" version if there are energy consumption benefits. The themes could display fewer images, and make use of advanced browser features such as [prefers-reduced-data](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data) to further reduce the impact of browsing the CMS for users who choose to change their experience.
+https://user-images.githubusercontent.com/1969342/158978211-db1a7dda-12cb-4bc5-84e9-2efccf53fdfd.mp4
 
-#### Skills
 
-This project is suitable with a wide range of skillsets, we can adjust tasks accordingly.
+A select field in Django has a create (plus), edit (pencil) and delete (red cross). It opens a new window that allows performing CRUD actions.
 
-- Python
+Also, Django raw id field has a search loop. It opens a chooser in a new window. It re-uses the model admin list view. Advantages are:
+- Enables custom list fields, search and filter.
+- Pagination.
+- With a lot of content, you don't have to render all select options in the current form. Boosting performance.
+
+**Wagtail**
+
+Creating related content in Wagtail involves tedious and annoying steps:
+1. You need to navigate away from the current form (losing your work). 
+2. Create the related object.
+3. Go back to the initial form and recreate all content.
+
+Forms with many fields have the chance of losing a lot of work. There is also a chance that the user is required to repeat steps 1-3 a couple of times. There might be multiple required related object fields.
+
+The current Wagtail snippet chooser opens a modal. The modal:
+- Does support content selection
+- Does not support CRUD actions
+- Does not re-use the list view (like Django does). Customisation of list fields, search, and filter is hard/impossible.
+- Wagtail has no `raw_id_fields`.
+
+### Expected outcomes
+
+This GSOC project is about related object selection and CRUD in Wagtail:
+- Create a chooser window that re-uses the ModelAdmin list view.
+- Create related object CRUD views. They open in a new window.
+- Respect user permissions on the related objects.
+- Make nested related object CRUD (multiple windows) possible.
+- Introduce RAW id field.
+
+### Skills
+
 - Django
-- Performance
-- DevOps
+- Wagtail
+- HTML/CSS/JS
 
-#### Mentors
+### Mentors
 
-- Lead: Chris Adams
-- Support: Fershad Irani
-- Support 2: Thibaud Colas
+- Lead: TBC – Coen van der Kamp https://github.com/allcaps
+- Support: TBC
 
-#### Size
+### Size
 
-175 hours or 350 hours
+Expected size of project 175 hours.
 
-### Project proposal: your own idea
+### Difficulty rating
+
+Medium
+
+## Enhanced file manager
+
+### Summary 
+
+TBD
+
+### Implementation
+
+TBD
+
+### Skills
+
+TBD
+
+### Mentors
+
+TBD
+
+### Aims
+
+TBD
+
+
+## Project proposal: your own idea
 
 You can also propose your own idea. Your proposal should:
 
