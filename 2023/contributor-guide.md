@@ -10,7 +10,7 @@ Wagtail is a popular content management system. It's built on Python and Django,
 
 ## GSoC eligibility criteria
 
-We use the same [eligibility criteria](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation) as every other GSoC participating organization. In particular
+We use the same [eligibility criteria](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation) as every other GSoC participating organization. Participation is open to all. Here are our selection criteria to select the right interns for our projects.
 
 ## Contributor tasks
 
