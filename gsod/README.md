@@ -4,7 +4,7 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 
 ## 2024
 
-👋 we don’t know whether Season of Docs will happen in 2024, and we’ve not decided whether we’d take part either. If you want to participate with us, please register your interest with [our form: wagtail.org/gsod-apply/](https://wagtail.org/gsod-apply/).
+👋 we’ve not decided whether we’d take part in Season of Docs in 2024. If you want to participate with us, please register your interest with [our form: wagtail.org/gsod-apply/](https://wagtail.org/gsod-apply/).
 
 ## 2023
 
