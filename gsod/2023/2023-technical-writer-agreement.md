@@ -69,7 +69,7 @@ Within this proposed timeline, both the mentors and the technical writer will co
 
 ## Licensing and copyright
 
-- For changes to the existing Your first Wagtail site tutorial, the work will use Wagtail’s existing[ BSD 3-clause licence](https://github.com/wagtail/wagtail/blob/main/LICENSE#LL1C1-L1C1), with copyright retained by the writer.
+- For changes to the existing Your first Wagtail site tutorial, the work will use Wagtail’s existing [BSD 3-clause licence](https://github.com/wagtail/wagtail/blob/main/LICENSE#LL1C1-L1C1), with copyright retained by the writer.
 - Any changes to the bakerydemo project will use the existing BSD 3-clause licence, with copyright retained by the writer.
 - All other work, including the new tutorials, will be made available under a [CC0 public domain dedication](https://creativecommons.org/share-your-work/public-domain/cc0/), opting out of copyright.
 
@@ -81,13 +81,10 @@ Those formats will also be what we use to structure feedback from mentors and ot
 
 As a standard, we expect all deliverables to follow a minimum number of iterations:
 
-Draft outline, followed by feedback on the outline
-
-First draft of the content, followed by feedback
-
-Second draft as needed, followed by feedback
-
-Final version
+- Draft outline, followed by feedback on the outline
+- First draft of the content, followed by feedback
+- Second draft as needed, followed by feedback
+- Final version
 
 For the new tutorials, we expect to need up to 10 rounds of drafts and feedback.
 
@@ -127,11 +124,9 @@ In those scenarios, the technical writer can invoice for any agreed completed de
 
 The project budget is USD 5000, to be paid according to the following split of three payments tied to specific deliverables:
 
-$1000 – Completion of the **Audit of the existing tutorial**
-
-$1000 – Completion of half of the **New tutorial series**
-
-$3000 – Completion of second half of **New tutorial series**, and **Tutorial refinements**
+- $1000 – Completion of the **Audit of the existing tutorial**
+- $1000 – Completion of half of the **New tutorial series**
+- $3000 – Completion of second half of **New tutorial series**, and **Tutorial refinements**
 
 Payments are conditioned on the work being completed in accordance with the Scope of work and Deliverables as defined in this document. Payments will be made with Wagtail’s [OpenCollective account](https://opencollective.com/wagtail), by Wagtail’s fiscal host Open Source Collective, on behalf of the Wagtail core team.
 
