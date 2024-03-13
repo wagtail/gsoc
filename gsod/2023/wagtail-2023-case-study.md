@@ -125,7 +125,7 @@ Our team additionally received support from Storm and Kalob, who helped set up a
 
 Both Storm and Kalob made themselves available on short notice when it was clear we needed more help to review our project’s code snippets.
 
-Rachel Smith ([@rachelhsmith](https://github.com/rachelhsmith) additionally helped by being the first person outside the team to test the tutorial.
+Rachel Smith ([@rachelhsmith](https://github.com/rachelhsmith)) additionally helped by being the first person outside the team to test the tutorial.
 And Wagtail’s [Developer relations team](https://github.com/wagtail/wagtail/wiki/Developer-relations-team) has regularly reviewed the project and provided high-level guidance.
 
 Finally, we’ve been working with representatives of [Fly.io](https://fly.io/).
