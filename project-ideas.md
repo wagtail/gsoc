@@ -111,7 +111,6 @@ This should likely be initially developed as a standalone package before determi
 ### Mentors
 
 - Lead: TBC - Thibaud Colas https://github.com/thibaudcolas
-- Support: TBC - Coen van der Kamp https://github.com/allcaps
 
 We will supply a primary mentor and at least two secondary mentors to support the participant.
 
