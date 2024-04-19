@@ -255,6 +255,8 @@ Finally, since we knew this would be an issue approaching November, we did try t
 1. A [tutorial feedback form](./deliverables/tutorial-feedback-form.md) tailored for the type of information we’re after.
 1. A [tutorial feedback template](./deliverables/tutorial-feedback-template.md) document, with tutorial sections clearly listed, for people who want to provide specific feedback.
 
+Update March 2024: from our tutorial feedback form, on "How would you rate the tutorial overall?" – average score of 8.6/10.
+
 ### Metrics
 
 _What metrics did you choose to measure the success of the project? Were you able to collect those metrics? Did the metrics correlate well or poorly with the behaviors or outcomes you wanted for the project? Did your metrics change since your proposal? Did you add or remove any metrics? How often do you intend to collect metrics going forward?_
