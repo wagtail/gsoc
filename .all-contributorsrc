@@ -1,0 +1,258 @@
+{
+  "projectName": "gsoc",
+  "projectOwner": "wagtail",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "ACMCMC",
+      "name": "ACMCMC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20495460?v=4",
+      "profile": "https://acmc-website.web.app/en/welcome",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kaedroho",
+      "name": "Karl Hobley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1093808?v=4",
+      "profile": "https://github.com/kaedroho",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "cnk",
+      "name": "Cynthia Kiser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5952?v=4",
+      "profile": "http://cynthiakiser.com/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "Tijani-Dia",
+      "name": "Tidiane Dia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71412737?v=4",
+      "profile": "https://github.com/Tijani-Dia",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tomdyson",
+      "name": "Tom Dyson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15543?v=4",
+      "profile": "https://wagtail.io/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "allcaps",
+      "name": "Coen van der Kamp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1969342?v=4",
+      "profile": "https://github.com/allcaps",
+      "contributions": [
+        "mentoring",
+        "blog",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "lucasmoeskops",
+      "name": "Lucas Moeskops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12407502?v=4",
+      "profile": "https://github.com/lucasmoeskops",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "Stormheg",
+      "name": "Storm Heg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13856515?v=4",
+      "profile": "https://github.com/Stormheg",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "ababic",
+      "name": "Andy Babic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7779588?v=4",
+      "profile": "https://torchbox.com/",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "nicklee",
+      "name": "Nick Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298766?v=4",
+      "profile": "https://github.com/nicklee",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "sandilsranasinghe",
+      "name": "Sandil Ranasinghe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55044163?v=4",
+      "profile": "https://github.com/sandilsranasinghe",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jacobtoppm",
+      "name": "Jacob Topp-Mugglestone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55137073?v=4",
+      "profile": "https://github.com/jacobtoppm",
+      "contributions": [
+        "mentoring",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "jams2",
+      "name": "Joshua Munn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29293125?v=4",
+      "profile": "https://www.joshuamunn.com/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "Hitansh-Shah",
+      "name": "Hitansh Shah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76250591?v=4",
+      "profile": "https://github.com/Hitansh-Shah",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vossisboss",
+      "name": "Meagen Voss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45881480?v=4",
+      "profile": "https://www.meagenvoss.com/",
+      "contributions": [
+        "mentoring",
+        "blog",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "phildexter",
+      "name": "dex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34743669?v=4",
+      "profile": "https://github.com/phildexter",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "laymonage",
+      "name": "sag​e",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6379424?v=4",
+      "profile": "https://laymonage.com/",
+      "contributions": [
+        "mentoring",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "thibaudcolas",
+      "name": "Thibaud Colas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/877585?v=4",
+      "profile": "https://thib.me/",
+      "contributions": [
+        "mentoring",
+        "blog",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "anujaraj",
+      "name": "anujaraj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52713215?v=4",
+      "profile": "https://github.com/anujaraj",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "janehughes",
+      "name": "janehughes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8680557?v=4",
+      "profile": "https://github.com/janehughes",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "Scotchester",
+      "name": "Scott Cranfill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1044670?v=4",
+      "profile": "https://jellybeans.lol/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "PaarthAgarwal",
+      "name": "Paarth Agarwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86092410?v=4",
+      "profile": "https://github.com/PaarthAgarwal",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lb-",
+      "name": "LB (Ben Johnston)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1396140?v=4",
+      "profile": "https://lb.ee/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "helenb",
+      "name": "Helen Chapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/771869?v=4",
+      "profile": "https://github.com/helenb",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "dawnwages",
+      "name": "Dawn Wages",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20374042?v=4",
+      "profile": "https://dawnwages.info/",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "salty-ivy",
+      "name": "Aman Pandey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74553951?v=4",
+      "profile": "https://github.com/salty-ivy",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
