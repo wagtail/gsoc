@@ -2,9 +2,20 @@
 
 Welcome! This repository contains all resources for Wagtail’s participation to Google Summer of Code: for contributors, mentors, and organizers.
 
+## 2025
+
+👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC 2025: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/123) for more details or to ask questions.
+
 ## 2024
 
-👋 view our [2024 project ideas](./project-ideas.md)
+In 2024, we took part with [two projects](https://summerofcode.withgoogle.com/archive/2024/organizations/wagtail). Our org admins were Thibaud Colas and Meagen Voss.
+
+- Alt text capabilities
+  - Contributor: Chiemezuo Akujobi [@Chiemezuo](https://github.com/Chiemezuo)
+  - Mentors: Saptak S [@SaptakS](https://github.com/SaptakS), Storm Heg [@stormheg](https://github.com/stormheg)
+- Low-carbon accessible project templates
+  - Contributor: Nandini Arora [@nandini584](https://github.com/nandini584)
+  - Mentors: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas), Shakhrizoda "Sherry" Y [@shyusu4](https://github.com/shyusu4), Paarth Agarwal [@PaarthAgarwal](https://github.com/PaarthAgarwal)
 
 ## 2023
 
@@ -12,10 +23,10 @@ In 2023, we took part with [two projects](https://summerofcode.withgoogle.com/ar
 
 - [Greener coding 💚: Backend development](./2023/greener-coding.md)
   - Contributor: Aman Pandey [@salty-ivy](https://github.com/salty-ivy)
-  - Mentor: Chris Adams [@mrchrisadams](https://github.com/mrchrisadams), Sage Abdullah [@laymonage](https://github.com/laymonage)
+  - Mentors: Chris Adams [@mrchrisadams](https://github.com/mrchrisadams), Sage Abdullah [@laymonage](https://github.com/laymonage)
 - [Greener coding: Wagtail’s climate impact](./2023/greener-coding-responsive-images.md)
   - Contributor: Paarth Agarwal [@PaarthAgarwal](https://github.com/PaarthAgarwal)
-  - Mentor: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+  - Mentors: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
 
 ### 2022
 
