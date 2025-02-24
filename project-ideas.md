@@ -37,7 +37,7 @@ The changes required will be a mix of front-end and backend work, and require ex
 
 ### Mentors
 
-- Lead: TBC
+- Lead: TBC - Sage Abdullah
 - Support: TBC
 - Support: TBC
 
@@ -76,7 +76,7 @@ This is highly dependent on the outcome of the ongoing grid-aware websites proje
 
 ### Mentors
 
-- Lead: TBC
+- Lead: Thibaud Colas
 - Support: TBC
 - Support: TBC
 
@@ -134,8 +134,8 @@ The project you propose should be:
 
 ### Mentors
 
-- Lead:
-- Support:
+- Lead: TBC
+- Support: TBC
 
 ### Size
 
