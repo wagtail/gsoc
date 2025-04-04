@@ -22,7 +22,7 @@ For more information, see:
 
 ### Implementation
 
-This will require reviewing existing issues and technical discovery work to device a plan for addressing them. Understanding options in [django-csp](https://github.com/mozilla/django-csp), and possibly trialing any changes with [core Django CSP support](https://github.com/django/django/pull/18215).
+This will require reviewing existing issues and technical discovery work to devise a plan for addressing them. Understanding options in [django-csp](https://github.com/mozilla/django-csp), and possibly trialing any changes with [core Django CSP support](https://github.com/django/django/pull/18215).
 
 The changes required will be a mix of front-end and backend work, and require expertise with security fundamentals to understand what is needed.
 
