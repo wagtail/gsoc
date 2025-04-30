@@ -26,6 +26,8 @@ In 2024, we took part with [two projects](https://summerofcode.withgoogle.com/ar
   - Contributor: Nandini Arora [@nandini584](https://github.com/nandini584)
   - Mentors: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas), Shakhrizoda "Sherry" Y [@shyusu4](https://github.com/shyusu4), Paarth Agarwal [@PaarthAgarwal](https://github.com/PaarthAgarwal)
 
+We received 398 expressions of interest and 32 proposals in 2024.
+
 ## 2023
 
 In 2023, we took part with [two projects](https://summerofcode.withgoogle.com/archive/2023/organizations/wagtail). Our org admins were Sage Abdullah and Thibaud Colas.
@@ -36,6 +38,8 @@ In 2023, we took part with [two projects](https://summerofcode.withgoogle.com/ar
 - [Greener coding: Wagtail’s climate impact](./2023/greener-coding-responsive-images.md)
   - Contributor: Paarth Agarwal [@PaarthAgarwal](https://github.com/PaarthAgarwal)
   - Mentors: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+
+We received 102 expressions of interest and 35 proposals in 2023.
 
 ### 2022
 
@@ -53,6 +57,8 @@ In 2022, we took part with [three projects](https://summerofcode.withgoogle.com/
 - [UX Unification](./2022/ux-unification.md)
   - Contributor: Paarth Agarwal [@PaarthAgarwal](https://github.com/PaarthAgarwal)
   - Mentors: LB (Ben Johnston) [@lb-](https://github.com/lb-), Helen Chapman [@helenb](https://github.com/helenb), Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+
+We received 18 proposals in 2022.
 
 ### 2021
 
