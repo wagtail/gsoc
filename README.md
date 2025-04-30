@@ -2,9 +2,18 @@
 
 Welcome! This repository contains all resources for Wagtail’s participation to Google Summer of Code: for contributors, mentors, and organizers.
 
+## 2026
+
+👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC 2026: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/130) for more details or to ask questions.
+
 ## 2025
 
-👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC 2025: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/123) for more details or to ask questions.
+We are taking part!
+
+- We received 334 expressions of interest.
+- And then 69 proposals for concrete projects (15 for grid-aware websites, 16 for CSP).
+- We shortlisted 10 proposals for our mentors to rank.
+- We’re expecting to select 2-4 proposals based on our mentoring capacity.
 
 ## 2024
 
