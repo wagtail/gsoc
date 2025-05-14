@@ -19,3 +19,7 @@ https://github.com/wagtail/gsoc/blob/main/project-ideas.md
 ### Number of those participants from GSoC 2024 that are still active in your community today?
 
 1
+
+## Payment request form
+
+Submitted by Thibaud Colas on 2025-05-14, based on the [Open Source Collective instructions](https://docs.oscollective.org/campaigns-and-partnerships/google-summer-of-code), then contacted Open Source Collective.
