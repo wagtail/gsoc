@@ -8,12 +8,28 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 
 ## 2025
 
-We are taking part!
+In 2025, we took part with [four projects](https://wagtail.org/blog/four-contributors-for-gsoc-2025/). Our org admins were Thibaud Colas and Sage Abdullah.
+
+- [Grid-Aware Websites](https://wagtail.org/blog/grid-aware-websites-journey-via-gsoc-2025/)
+  - Contributor: Rohit Sharma [@rohitsrma](https://github.com/rohitsrma)
+  - Mentors: Paarth Agarwal [@PaarthAgarwal](https://github.com/PaarthAgarwal), Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+- [Media listings UX improvements](https://wagtail.org/blog/media-listings-ux-improvements-via-gsoc-2025/)
+  - Contributor: Joel William [@joelwilliam2005](https://github.com/joelwilliam2005)
+  - Mentors: Coen van der Kamp [@allcaps](https://github.com/allcaps), Sage Abdullah [@laymonage](https://github.com/laymonage), Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+- [Content Security Policy compatibility](https://wagtail.org/blog/towards-strict-csp-support-via-gsoc-2025/)
+  - Contributor: Chiemezuo Akujobi [@Chiemezuo](https://github.com/Chiemezuo)
+  - Mentors: Sage Abdullah [@laymonage](https://github.com/laymonage)
+- Keyboard shortcuts enhancements
+  - Contributor: Dhruvi Patel [@dhruvipatel14](https://github.com/dhruvipatel14)
+  - Mentors: Scott Cranfill [@Scotchester](https://github.com/Scotchester), Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+
+Recap of the initial phase:
 
 - We received 334 expressions of interest.
 - And then 69 proposals for concrete projects (15 for grid-aware websites, 16 for CSP).
 - We shortlisted 10 proposals for our mentors to rank.
-- We’re expecting to select 2-4 proposals based on our mentoring capacity.
+- We expected to select 2-4 proposals based on our mentoring capacity.
+- We selected two "large" projects and two "medium" projects.
 
 ## 2024
 
