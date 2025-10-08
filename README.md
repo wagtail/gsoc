@@ -19,7 +19,7 @@ In 2025, we took part with [four projects](https://wagtail.org/blog/four-contrib
 - [Content Security Policy compatibility](https://wagtail.org/blog/towards-strict-csp-support-via-gsoc-2025/)
   - Contributor: Chiemezuo Akujobi [@Chiemezuo](https://github.com/Chiemezuo)
   - Mentors: Sage Abdullah [@laymonage](https://github.com/laymonage)
-- Keyboard shortcuts enhancements
+- [Keyboard shortcuts enhancements](https://guide.wagtail.org/en-latest/releases/new-in-wagtail-7-1/#expanded-keyboard-shortcuts)
   - Contributor: Dhruvi Patel [@dhruvipatel14](https://github.com/dhruvipatel14)
   - Mentors: Scott Cranfill [@Scotchester](https://github.com/Scotchester), Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
 
