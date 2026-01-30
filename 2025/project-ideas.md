@@ -1,6 +1,6 @@
 # Project ideas
 
-## Content Security Policy compatibility
+## Multilingual support overhaul
 
 ### Summary
 
