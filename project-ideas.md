@@ -1,6 +1,6 @@
 # Project ideas
 
-🚧 please refer to our [AI policy](./ai-policy.md) to understand what generative AI use is acceptable when taking part in Google Summer of Code with Wagtail
+🚧 please refer to our [contributor guide](http://wagtail.org/gsoc-guide/) that sets expectations for contributors, and in particular our [AI policy](http://wagtail.org/gsoc-ai/) to understand what generative AI use is acceptable when taking part in Google Summer of Code with Wagtail.
 
 ## Demo website redesign
 
@@ -114,7 +114,7 @@ Project proposals should fall into one of three categories:
 
 - Work on Wagtail itself. The core product.
 - Work on tools to support Wagtail. Example: Editor guide as a Wagtail website.
-- Wagtail third-party libraries. Example: [Wagtail Live](https://github.com/wagtail/wagtail-live) is a GSOC 2021 project.
+- Wagtail packages. Example: [Wagtail Live](https://github.com/wagtail/wagtail-live) is a GSOC 2021 project.
 
 The project you propose should be:
 

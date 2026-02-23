@@ -14,6 +14,6 @@ https://github.com/wagtail/gsoc/blob/main/project-ideas.md
 
 4
 
-### Number of those participants from GSoC 2024 that are still active in your community today?
+### Number of those participants from GSoC 2025 that are still active in your community today?
 
 2
