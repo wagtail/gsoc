@@ -2,6 +2,63 @@
 
 🚧 please refer to our [AI policy](./ai-policy.md) to understand what generative AI use is acceptable when taking part in Google Summer of Code with Wagtail
 
+## Demo website redesign
+
+### Summary
+
+The [Wagtail UI team](https://github.com/wagtail/wagtail/wiki/UI-team) is kickstarting an incremental redesign of the [Wagtail bakery demo site](https://github.com/wagtail/bakerydemo), with the intention to make it a more suitable demo for larger projects, and other verticals than breadmaking. As part of Google Summer of Code, help us implement the new design.
+
+### Expected outcomes
+
+View the full redesign planning issue: [Demo website redesign](https://github.com/wagtail/bakerydemo/issues/566)
+
+- New site sections and revamp of existing sections
+- New visual design for the site
+- Refactorings to simplify long-term maintenance of the site
+- Capabilities to test Wagtail with large amounts of content
+
+### Implementation
+
+We will work exclusively on the bakery demo project, implementing the designs produced by the UI team. Implementing new site functionality to better demo Wagtail. Changes will be made iteratively so other contributors benefit from every improvement as they are made.
+
+### Skills
+
+- Front-end web development with Django, HTML, vanilla CSS
+- Backend web development with Django, Python
+- Bonus: expertise with visual design, user experience
+
+### Mentors
+
+- Lead: Thibaud Colas
+- Support: TBC - UI team
+
+## Starter kit upgrade
+
+### Summary
+
+Our [news template](https://github.com/wagtail/news-template) is intended as a great starting point to Wagtail, but it’s hard to use and also to maintain. We want to iterate on its implementation so it better serves its purpose as the best place to go when trying out Wagtail.
+
+### Expected outcomes
+
+- A new version of the starter kit demonstrating the latest Wagtail features
+- Automation to keep the starter kit up-to-date
+- TBC: different variations of the starter kit
+
+### Implementation
+
+All changes will be implemented to the news template. First with a discovery phase to confirm what is feasible within the Google Summer of Code timeline. Then iterative development of planned improvements.
+
+### Skills
+
+- Backend web development with Django, Python
+- Bonus: Front-end web development with Django, HTML, vanilla CSS
+- Bonus: expertise with DevOps, automation, package management
+
+### Mentors
+
+- Lead: Meagen Voss
+- Support: TBC
+
 ## Multilingual support improvements
 
 ### Summary
@@ -33,61 +90,6 @@ There is also likely a need for documentation writing - explaining how to get th
 
 - Lead: Thibaud Colas
 - Support: Coen van der Kamp, Sævar Öfjörð Magnússon
-
-## Demo website redesign
-
-### Summary
-
-The [Wagtail UI team](https://github.com/wagtail/wagtail/wiki/UI-team) is kickstarting an incremental redesign of the [Wagtail bakery demo site](https://github.com/wagtail/bakerydemo), with the intention to make it a more suitable demo for larger projects, and other verticals than breadmaking. As part of Google Summer of Code, help us implement the new design.
-
-### Expected outcomes
-
-- New site sections and revamp of existing sections
-- New visual design for the site
-- Refactorings to simplify long-term maintenance of the site
-- Capabilities to test Wagtail with large amounts of content
-
-### Implementation
-
-We will work exclusively on the bakery demo project, implementing the designs produced by the UI team. Implementing new site functionality to better demo Wagtail. Changes will be made iteratively so other contributors benefit from every improvement as they are made.
-
-### Skills
-
-- Front-end web development with Django, HTML, vanilla CSS
-- Backend web development with Django, Python
-- Bonus: expertise with visual design, user experience
-
-### Mentors
-
-- Lead: Thibaud Colas
-- Support: TBC - UI team
-
-## Starter kit (news template) upgrade
-
-### Summary
-
-Our [news template](https://github.com/wagtail/news-template) is intended as a great starting point to Wagtail, but it’s hard to use and also to maintain. We want to iterate on its implementation so it better serves its purpose as the best place to go when trying out Wagtail.
-
-### Expected outcomes
-
-- A new version of the starter kit demonstrating the latest Wagtail features
-- Automation to keep the starter kit up-to-date
-- TBC: different variations of the starter kit
-
-### Implementation
-
-All changes will be implemented to the news template. First with a discovery phase to confirm what is feasible within the Google Summer of Code timeline. Then iterative development of planned improvements.
-
-### Skills
-
-- Backend web development with Django, Python
-- Bonus: Front-end web development with Django, HTML, vanilla CSS
-- Bonus: expertise with DevOps, automation, package management
-
-### Mentors
-
-- Lead: Meagen Voss
-- Support: TBC
 
 ## Project proposal: your own idea
 
