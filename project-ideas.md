@@ -32,6 +32,8 @@ We will work exclusively on the bakery demo project, implementing the designs pr
 - Lead: Thibaud Colas
 - Support: TBC - UI team
 
+To reach out for questions, use our dedicated thread: [Q&A: Demo website redesign #133](https://github.com/wagtail/gsoc/discussions/133)
+
 ## Starter kit upgrade
 
 ### Summary
@@ -59,10 +61,11 @@ All changes will be implemented to the news template. First with a discovery pha
 - Lead: Meagen Voss
 - Support: TBC
 
+To reach out for questions, use our dedicated thread: [Q&A: Starter kit upgrade #134](https://github.com/wagtail/gsoc/discussions/134)
+
 ## Multilingual support improvements
 
 ### Summary
-
 
 We want to make widespread improvements to Wagtail’s capabilities that are relevant to multilingual websites, both in the core CMS and in packages like [wagtail-localize](https://github.com/wagtail/wagtail-localize). We have [extensive feedback from our community](https://github.com/wagtail/wagtail/discussions/13693) on possible improvements. Feature requests, long-standing bugs, maintenance hurdles. There are a lot of options with this project.
 
@@ -90,6 +93,8 @@ There is also likely a need for documentation writing - explaining how to get th
 
 - Lead: Thibaud Colas
 - Support: Coen van der Kamp, Sævar Öfjörð Magnússon
+
+To reach out for questions, use our dedicated thread: [Q&A: Multilingual support improvements #135](https://github.com/wagtail/gsoc/discussions/135)
 
 ## Project proposal: your own idea
 
@@ -122,6 +127,8 @@ The project you propose should be:
 - A single well-scoped project
 - Achievable within the time of GSoC
 - And something the core developers can help mentor you on.
+
+To reach out for questions, use our dedicated thread: [Q&A: your own project idea #136](https://github.com/wagtail/gsoc/discussions/136)
 
 ## Template: project idea title
 
