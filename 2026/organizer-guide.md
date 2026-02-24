@@ -29,4 +29,7 @@ Here are expected time commitments for GSoC mentors and organizers. As a list:
 - [wagtail.org/gsoc/](https://wagtail.org/gsoc/) – this repository
 - [wagtail.org/gsoc-apply/](https://wagtail.org/gsoc-apply/) – our expression of interest form
 - [wagtail.org/gsoc-guide/](https://wagtail.org/gsoc-guide/) – contributors guide
+- [wagtail.org/gsoc-ai/](https://wagtail.org/gsoc-ai/) – GSoC-specific AI policy
+- [wagtail.org/gsoc-template/](https://wagtail.org/gsoc-template/) – proposal template
+- [wagtail.org/gsoc-proposal/](https://wagtail.org/gsoc-proposal/) – early proposals feedback
 - [wagtail.org/coc/](https://wagtail.org/coc/) – Wagtail Code of Conduct
