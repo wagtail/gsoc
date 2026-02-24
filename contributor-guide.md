@@ -24,8 +24,12 @@ We’re about **quality over quantity**. We favor candidates that:
 
 1. Demonstrate a good understanding of our project ethos and open source values, via consistency in communications with our contributors.
 2. Demonstrate their expertise with the topic of their proposal, either via the proposal itself or via few, strategic high-quality contributions.
-
+  
 We encourage trying to contribute to an area related to your proposal during the 3-4 weeks leading to applications opening.
+
+## Project proposals
+
+We provide an optional [GSoC proposal template](https://wagtail.org/gsoc-template/), as well as a [review form for early feedback on proposals](https://wagtail.org/gsoc-proposal)
 
 ## Contributor tasks
 
