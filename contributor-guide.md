@@ -24,12 +24,14 @@ We’re about **quality over quantity**. We favor candidates that:
 
 1. Demonstrate a good understanding of our project ethos and open source values, via consistency in communications with our contributors.
 2. Demonstrate their expertise with the topic of their proposal, either via the proposal itself or via few, strategic high-quality contributions.
-  
+
 We encourage trying to contribute to an area related to your proposal during the 3-4 weeks leading to applications opening.
 
 ## Project proposals
 
-We provide an optional [GSoC proposal template](https://wagtail.org/gsoc-template/), as well as a [review form for early feedback on proposals](https://wagtail.org/gsoc-proposal)
+We select projects based on the final proposals submitted via the Google Summer of Code platform. Make sure to follow [our AI policy for GSoC](http://wagtail.org/gsoc-ai/) when working on proposals. We provide an optional [GSoC proposal template](https://wagtail.org/gsoc-template/). We’ve created this template to help people put together a well structured proposal. Following the template isn’t mandatory, we just hope it will help you understand what we are after.
+
+Once proposals open, we also provide a [review form for early feedback on proposals](https://wagtail.org/gsoc-proposal). We strive to review submissions on a regular basis, providing feedback directly on proposal documents.
 
 ## Contributor tasks
 
