@@ -4,6 +4,8 @@
 
 ## Demo website redesign
 
+Project size: 350h
+
 ### Summary
 
 The [Wagtail UI team](https://github.com/wagtail/wagtail/wiki/UI-team) is kickstarting an incremental redesign of the [Wagtail bakery demo site](https://github.com/wagtail/bakerydemo), with the intention to make it a more suitable demo for larger projects, and other verticals than breadmaking. As part of Google Summer of Code, help us implement the new design.
@@ -36,6 +38,8 @@ To reach out for questions, use our dedicated thread: [Q&A: Demo website redesig
 
 ## Starter kit upgrade
 
+Project size: 350h
+
 ### Summary
 
 Our [news template](https://github.com/wagtail/news-template) is intended as a great starting point to Wagtail, but it’s hard to use and also to maintain. We want to iterate on its implementation so it better serves its purpose as the best place to go when trying out Wagtail.
@@ -64,6 +68,8 @@ All changes will be implemented to the news template. First with a discovery pha
 To reach out for questions, use our dedicated thread: [Q&A: Starter kit upgrade #134](https://github.com/wagtail/gsoc/discussions/134)
 
 ## Multilingual support improvements
+
+Project size: 350h
 
 ### Summary
 
@@ -131,6 +137,8 @@ The project you propose should be:
 To reach out for questions, use our dedicated thread: [Q&A: your own project idea #136](https://github.com/wagtail/gsoc/discussions/136)
 
 ## Template: project idea title
+
+Project size: ~90 hours (Small), ~175 hours (Medium), or ~350 hours (Large)
 
 ### Summary
 
