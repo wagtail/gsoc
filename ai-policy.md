@@ -5,7 +5,7 @@ Like any tool, generative AI should be used with critical thinking and good judg
 Per our [generative AI policy](https://docs.wagtail.org/en/latest/contributing/general_guidelines.html#use-of-generative-ai), **our requirements for all participants are**:
 
 - Review and test all AI-generated code. You are expected to understand the code, and take final accountability for it.
-- Include a disclaimer if you use generative AI for your code contribution.
+- Include a disclosure if you use generative AI for your code contribution.
 
 In addition, we recommend to:
 
@@ -29,9 +29,11 @@ Here are unacceptable uses:
 
 ## AI for proposals
 
-**All proposals created with the assistance of AI must include a disclaimer, clearly stating what AI was used for**.
+**All proposals created with the assistance of AI must include a disclosure, clearly stating what AI was used for**.
 
 We find candidates who are over-reliant on generative AI for their proposals tend to lack the required knowledge to proceed with their project. We recommend to keep AI use to:
 
 - Preliminary research
 - Occasional help with writing in english (though we are very happy working with people who do not write well in english)
+
+For more information, review the [official AI guidance from Google Summer of Code](https://developers.google.com/open-source/gsoc/resources/ai_guidance).
