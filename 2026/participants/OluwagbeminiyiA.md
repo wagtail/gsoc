@@ -10,6 +10,8 @@ Currently going through the contributing docs.
 
 Excited to learn from this experience...
 
+[Github](https://github.com/OluwagbeminiyiA)    | [LinkedIn](https://www.linkedin.com/in/gbeminiyi-agbedejobi/)    | [X](https://x.com/gbeminiyi_a)     | [personal website](https://www.oluwagbeminiyi.codes)
+
 ## Tasks
 
 <!-- Copy relevant checklists here -->
