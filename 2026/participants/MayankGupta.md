@@ -19,6 +19,7 @@ LinkedIn - https://www.linkedin.com/in/mayank-gupta-869a94327
 - [x] Reviewed the GSoC timeline and key dates
 - [x] EvalAi setup locally
 - [x] Start contributing to low-level issues
+- [x] Set up News-template locally  
 - [ ] Currently setting up Wagtail locally
 - [ ] Move on to medium-level issues after initial fixes
 
