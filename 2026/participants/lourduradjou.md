@@ -74,6 +74,33 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 
 ## Research
 
-- https://docs.wagtail.org/
-- https://github.com/wagtail/wagtail-localize
-- https://github.com/wagtail/wagtail/discussions/13693
+### Useful Links: (Join #multi-lingual at slack for community support about this project)
+
+1) https://github.com/wagtail/gsoc/discussions/135 (Multilingual Q & A section)
+2) https://github.com/wagtail/gsoc/blob/main/project-ideas.md#multilingual-support-improvements (Multilingual official project requirement for gsoc description)
+3) https://github.com/wagtail/wagtail/discussions/13693 (Community feedback section)
+4) https://github.com/wagtail/rfcs/blob/main/text/054-internationalisation.md (Wagtail current internationalization reference and content [rfc])
+5) https://github.com/wagtail/wagtail/issues?q=state%3Aopen%20label%3Acomponent%3Ai18n (Link to get all issues related to i18n)
+6) https://wagtail-localize.org/stable/ref/translatable-fields/ (wagtail-localize reference)
+7) https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/ (AI in CMS)
+8) https://docs.wagtail.org/en/v2.13.4/advanced_topics/i18n.html (i18n docs of wagtail)
+9) https://docs.google.com/forms/d/e/1FAIpQLSfpr0U5cO7af5kF6GBiyiHibP3t97xEKO6FGfxPQLID0ZYmnQ/viewform (Google form to review draft proposal)
+
+### Checklist to strength the understanding of the problem and gsoc proposal:
+
+- Set up a demo website: with multilingual content managed with wagtail-localize. Link it from your participant file in 2026/participants. This will give you a good understanding of the current capabilities.
+- Review our Improving support for multilingual websites #13693 to identify common pain points and capability gaps, and publish a blog post based on your research.
+- Locally test, review, and provide feedback on one of the pull requests to wagtail-localize
+- Attempt to fix and understand one or two Wagtail core issue tagged 'i18n'
+
+### Key existing issues discussed so far by many people/devs/clients:
+
+- Utilizing the AI considering the edge cases (safeguard) 
+- Problems with automated translations splitting content into very small chunks (HTML example)
+- Xliff format and PO issues 
+- UI need in adaptive positions at all devices and also in the sidebar (many comments mentioned this, need to review)
+- Search bar with different languages isn’t working well
+- No built in ability to bulk-create or bulk synchronize translations, No built in ability to search for, sort by or filter by translation status in the snippet listings
+- Inline structure of links getting lost or appended at wrong positions after translation
+- UX improvements like having breadcrumbs to go back and forth in both situations
+- After translation only breadcrumbs opens but not available in the source page (need to verify this)
