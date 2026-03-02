@@ -4,7 +4,7 @@
 
 Hi everyone, I’m a Django backend developer and I’m excited to contribute to Wagtail through GSoC 2026.
 
-I’m currently interested in contributing to low- and medium-level projects where I can make steady, meaningful contributions, learn from the community, and grow as an open source contributor.
+I’m currently interested in contributing to medium-level and large level projects where I can make steady, meaningful contributions, learn from the community, and grow as an open source contributor.
 
 ## Links
 
