@@ -20,10 +20,9 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 
 - [x] Read recent Wagtail posts  
 - [x] Sign up for newsletter / follow channels  
-- [ ] Join Wagtail Slack  
+- [x] Join Wagtail Slack  
 
 ### Google Summer of Code fundamentals
-
 - [x] Read GSoC student advice  
 - [x] Read AI guidance for GSoC  
 - [x] Read Google contributor guide  
@@ -39,16 +38,14 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 - [x] Update README with profile links  
 - [x] Maintain Tasks section  
 
-### Learning and research
+### Django and Wagtail fundamentals
 
+- [x] Complete Django tutorial(link: https://github.com/DaisyZhang77/django-tutorial-wagtail)  
+- [ ] Complete Wagtail tutorial  
+
+### Learning and research
 - [ ] Create Research section  
 - [ ] Write and publish blog post  
 
-### Django and Wagtail fundamentals
-
-- [ ] Complete Django tutorial  
-- [ ] Complete Wagtail tutorial  
-
 ## Research
-
 <!-- Use this section to keep tabs of your research relevant to the project ideas you are interested in. -->
