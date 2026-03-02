@@ -14,7 +14,6 @@ I’m currently interested in contributing to low- and medium-level projects whe
 | LinkedIn | https://www.linkedin.com/in/mayank-gupta-869a94327 |
 | My Website | https://mayankgupta-five-lac.vercel.app/ |
 
-
 ## Tasks
 
 ### Getting to know Wagtail
@@ -72,4 +71,4 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - They are not merged yet.
 - One PR was reviewed and then closed because the work had already been done by someone else before me but got to learn about issue and guidance of collabrator Scotchester .
 
-## Research 
+## Research
