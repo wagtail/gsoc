@@ -22,6 +22,7 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 - [x] Join Wagtail Slack  
 
 ### Google Summer of Code fundamentals
+
 - [x] Read GSoC student advice  
 - [x] Read AI guidance for GSoC  
 - [x] Read Google contributor guide  
@@ -43,6 +44,7 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 - [x] Complete Wagtail tutorial(link: https://github.com/DaisyZhang77/wagtail-tutorial)
 
 ### Learning and research
+
 - [ ] Create Research section  
 - [ ] Write and publish a blog post (<500 words, include an image) about something recently learned
 
