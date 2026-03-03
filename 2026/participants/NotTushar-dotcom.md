@@ -7,7 +7,7 @@ Hi everyone,I’m Tushar Goswami, a first-year BTech Computer Science student wi
 
 I began exploring **Wagtail** during GSoC 2025 while researching organizations that align with my interest in Python and Django.
 
-I’m particularly interested in the **Wagtail Bakery Demo project,** as it provides a practical example of how UI/UX design integrates with a Django-based backend. As a someone currently learning same tools I see this project as a strong opportunity to learn and grow my skills.
+I’m particularly interested in the **Wagtail Bakery Demo project,** as it provides a practical example of how UI/UX design integrates with a Django-based backend. As someone currently learning the same tools, I see this project as a strong opportunity to learn and grow my skills.
 
 My primary language is **Python,** and I have additional experience with HTML, CSS, JavaScript, and basic programming knowledge in C and Java. 
  I enjoy exploring open-source repositories, learning continuously, and translating that learning into reliable, production-ready contributions. 
