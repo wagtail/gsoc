@@ -19,7 +19,7 @@ I’m looking forward to strengthening my backend skills and contributing meanin
 |--------------|-------------------------------------------|
 | GitHub       | [Tushar Goswami](https://github.com/NotTushar-dotcom) |
 | X (Twitter)  | [@Not_Tushh](https://x.com/Not_Tushh)   |
-| LinkedIn     | [Tushar Goswami](https://www.linkedin.com/in/not-tusha/) |
+| LinkedIn     | [Tushar Goswami](https://www.linkedin.com/in/not-tushar/) |
 
 
 ## Tasks
