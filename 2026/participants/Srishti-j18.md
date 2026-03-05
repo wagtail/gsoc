@@ -6,11 +6,13 @@ Srishti Jaiswal
 
 Hi everyone, I am Srishti Jaiswal, pursuing an Integrated Dual Degree (BTech + MTech) in Mathematics and Computing at the **Indian Institute of Technology (BHU), Varanasi**.
 
-I have been actively contributing to **Wagtail** since October 2024 through issues and PRs across UI and documentation, which has given me a strong understanding of the codebase, review expectations, and contributor workflow. I stay engaged in UI team discussions and continue to contribute regularly.
+I have been contributing to **Wagtail** since October 2024 through issues and PRs, which has helped me understand the codebase, review expectations, and contributor workflow. I also stay involved in UI team discussions.
 
-Alongside this, I recently started contributing to **kubernetes-sigs/kubespray**, which has strengthened my understanding of infrastructure workflows, large-scale deployment practices, and disciplined review processes in mature repositories. I am also happy to share that I was accepted as a mentee for CNCF-Kubernetes: Kubespray: Automate OS image pipeline for CI (2026 Term 1) under the Linux Foundation.
+Alongside this, I recently started contributing to **kubernetes-sigs/kubespray**, which is improving my understanding of infrastructure workflows and large-scale deployment practices. I was also accepted as a mentee for CNCF-Kubernetes: Kubespray: Automate OS image pipeline for CI (2026 Term 1) under the Linux Foundation.
 
-My open-source experience also includes an internship with **UC OSPO**, and I completed an on-site Software Developer internship at **PhonePe**, where I built a full-stack LLM automation tool and an end-to-end dashboard. I enjoy exploring open-source repositories, learning continuously, and translating that learning into reliable, production-ready contributions.
+My open-source experience also includes an internship with **UC OSPO**, and I completed an on-site Software Developer internship at **PhonePe**.
+
+I enjoy exploring open-source projects, learning continuously, and applying that learning through consistent, review-friendly contributions. I especially value the Wagtail community for its collaborative culture, thoughtful reviews, and mentors who support contributors at every stage. 
 
 ## Profiles
 
@@ -70,7 +72,7 @@ My open-source experience also includes an internship with **UC OSPO**, and I co
 
 ### Project idea
 
-I am interested in the **Demo website redesign**. It is exciting to help make the demo more modern, scalable, and useful for multilingual, real-world projects. Since I actively attend UI team meetings, I will enjoy turning design discussions into practical improvements, including themes beyond breadmaking, so the demo feels relevant and engaging to a wider audience.
+I am interested in the **Demo website redesign** because it is a practical way to improve the demo’s usability, scalability, and multilingual readiness. By participating in UI team meetings, I can translate ongoing design discussions into incremental, reviewable improvements for the project.
 
 ### Research
 
