@@ -4,15 +4,8 @@ Srishti Jaiswal
 
 ## Introduction
 
-Hi everyone, I am Srishti Jaiswal, pursuing an Integrated Dual Degree (BTech + MTech) in Mathematics and Computing at the **Indian Institute of Technology (BHU), Varanasi**.
-
-I have been contributing to **Wagtail** since October 2024 through issues and PRs, which has helped me understand the codebase, review expectations, and contributor workflow. I also stay involved in UI team discussions.
-
-Alongside this, I recently started contributing to **kubernetes-sigs/kubespray**, which is improving my understanding of infrastructure workflows and large-scale deployment practices. I was also accepted as a mentee for CNCF-Kubernetes: Kubespray: Automate OS image pipeline for CI (2026 Term 1) under the Linux Foundation.
-
-My open-source experience also includes an internship with **UC OSPO**, and I completed an on-site Software Developer internship at **PhonePe**.
-
-I enjoy exploring open-source projects, learning continuously, and applying that learning through consistent, review-friendly contributions. I especially value the Wagtail community for its collaborative culture, thoughtful reviews, and mentors who support contributors at every stage. 
+Hi everyone, I am Srishti Jaiswal, an engineering student and a contributor to Wagtail.
+I enjoy exploring open-source projects, learning continuously, and applying that learning through consistent, review-friendly contributions.
 
 ## Profiles
 
@@ -72,7 +65,7 @@ I enjoy exploring open-source projects, learning continuously, and applying that
 
 ### Project idea
 
-I am interested in the **Demo website redesign** because it is a practical way to improve the demo’s usability, scalability, and multilingual readiness. By participating in UI team meetings, I can translate ongoing design discussions into incremental, reviewable improvements for the project.
+I am interested in the **Demo website redesign** because it is a practical way to improve the demo’s usability, scalability, and multilingual readiness. 
 
 ### Research
 
