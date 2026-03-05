@@ -16,6 +16,6 @@ I am currently exploring the Wagtail ecosystem and learning more about Django to
 ## Tasks
 
 - [ ] Read the contributor guide
-- [ ] Join the Wagtail Slack community
+- [x] Join the Wagtail Slack community
 - [ ] Complete the Django tutorial
 - [ ] Complete the Wagtail tutorial
