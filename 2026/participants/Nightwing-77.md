@@ -1,4 +1,4 @@
-# Daisy Zhang
+# Advik
 ## Introduction
 
 Hi! I'm Advik, a AI/Backend engineer. I'm interested in Backend systems, Voice models and LLMss
