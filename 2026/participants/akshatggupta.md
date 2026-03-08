@@ -26,28 +26,28 @@ https://github.com/akshatggupta/OrderFlow
 ## Tasks
 
 ### Getting to know Wagtail
-- [ ] Read recent Wagtail blog posts  
-- [ ] Sign up for Wagtail newsletter  
-- [ ] Join Wagtail Slack community  
+- [x] Read recent Wagtail blog posts  
+- [x] Sign up for Wagtail newsletter  
+- [x] Join Wagtail Slack community  
 
 ### Google Summer of Code fundamentals
-- [ ] Read GSoC student advice  
-- [ ] Review AI guidance for GSoC  
-- [ ] Read Google contributor guide  
-- [ ] Review GSoC timeline and add reminders  
-- [ ] Read Wagtail GSoC tips   
+- [x] Read GSoC student advice  
+- [x] Review AI guidance for GSoC  
+- [x] Read Google contributor guide  
+- [x] Review GSoC timeline and add reminders  
+- [x] Read Wagtail GSoC tips   
 
 ### Open source fundamentals
-- [ ] Read how to contribute to open source  
-- [ ] Read open source etiquette  
-- [ ] Create participant file PR  
-- [ ] Update README with profile links  
-- [ ] Maintain tasks progress  
+- [x] Read how to contribute to open source  
+- [x] Read open source etiquette  
+- [x] Create participant file PR  
+- [x] Update README with profile links  
+- [x] Maintain tasks progress  
 
 
 ### Django and Wagtail fundamentals
-- [ ] Complete Django tutorial  
-- [ ] Complete Wagtail tutorial  
+- [x] Complete Django tutorial  
+- [x] Complete Wagtail tutorial  
 
 ## Research
 
