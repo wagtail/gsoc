@@ -12,7 +12,7 @@ Wagtail is a popular content management system. It's built on Python and Django,
 
 Here are options to get to know our community:
 
-1. Read our recent posts: [Wagtail nominated for TWO CMS Critic Awards! 🏆](https://wagtail.org/blog/wagtail-nominated-for-two-cms-critic-awards/) (give us a vote!), [Open source AI we use to work on Wagtail](https://wagtail.org/blog/open-source-ai-we-use-to-work-on-wagtail/)
+1. Read our recent posts: [Our roadmap for the next 6 months](https://wagtail.org/blog/our-roadmap-for-the-next-6-months/), [Open source AI we use to work on Wagtail](https://wagtail.org/blog/open-source-ai-we-use-to-work-on-wagtail/)
 2. Sign up for [our newsletter](https://wagtail.org/newsletter/), [our YouTube channel](https://www.youtube.com/@wagtailcms), or follow us [on LinkedIn](https://www.linkedin.com/company/wagtail-cms/), [on Bluesky](https://bsky.app/profile/wagtail.org), or [on Mastodon](https://fosstodon.org/@wagtail)
 3. Join [our Slack community workspace](http://github.com/wagtail/wagtail/wiki/Slack).
 
@@ -52,7 +52,7 @@ Here are our recommended checklists for all candidates to test their interest an
 
 ### Getting to know Wagtail
 
-- [ ] Read our recent posts: [Wagtail nominated for TWO CMS Critic Awards! 🏆](https://wagtail.org/blog/wagtail-nominated-for-two-cms-critic-awards/) (give us a vote!), [Open source AI we use to work on Wagtail](https://wagtail.org/blog/open-source-ai-we-use-to-work-on-wagtail/)
+- [ ] Read our recent posts: [Our roadmap for the next 6 months](https://wagtail.org/blog/our-roadmap-for-the-next-6-months/), [Open source AI we use to work on Wagtail](https://wagtail.org/blog/open-source-ai-we-use-to-work-on-wagtail/)
 - [ ] Sign up for [our newsletter](https://wagtail.org/newsletter/), [our YouTube channel](https://www.youtube.com/@wagtailcms), or follow us [on LinkedIn](https://www.linkedin.com/company/wagtail-cms/), [on Bluesky](https://bsky.app/profile/wagtail.org), or [on Mastodon](https://fosstodon.org/@wagtail)
 - [ ] Join [our Slack community workspace](http://github.com/wagtail/wagtail/wiki/Slack).
 
