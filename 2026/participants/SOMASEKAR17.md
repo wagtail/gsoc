@@ -70,3 +70,4 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - https://wagtail.org/blog/7-tips-for-applying-to-google-summer-of-code/ This blog was really useful to understand the basics about contributing to wagtail. And it also clearly states about the use of AI.
 - https://github.com/wagtail/bakerydemo/blob/main/readme.md I followed this readme and setup this demo website , this was useful to understand how wagtail websites work.
 - https://docs.wagtail.org/en/stable/getting_started/tutorial.html This documentation was helpful to setup my own wagtail webiste. [My Work](https://github.com/SOMASEKAR17/flashcars)
+- This was really helpful to understand how to setup a wagtail website , With the help of this tutorial i built a blog page which strengthened my understanding of wagtail architecture [Link](https://youtu.be/xzdPGUDBslk?si=yztb9Nih0lYE5uY2)
