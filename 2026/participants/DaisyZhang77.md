@@ -13,14 +13,13 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 |---------|------|
 | LinkedIn | https://www.linkedin.com/in/daisy-zhang-232781254/ |
 
-
 ## Tasks
 
 ### Getting to know Wagtail
 
 - [x] Read recent Wagtail posts  
 - [x] Sign up for newsletter / follow channels  
-- [ ] Join Wagtail Slack  
+- [x] Join Wagtail Slack  
 
 ### Google Summer of Code fundamentals
 
@@ -39,16 +38,22 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 - [x] Update README with profile links  
 - [x] Maintain Tasks section  
 
+### Django and Wagtail fundamentals
+
+- [x] Complete Django tutorial(link: https://github.com/DaisyZhang77/django-tutorial-wagtail)  
+- [x] Complete Wagtail tutorial(link: https://github.com/DaisyZhang77/wagtail-tutorial)
+
 ### Learning and research
 
 - [ ] Create Research section  
-- [ ] Write and publish blog post  
+- [ ] Write and publish a blog post (<500 words, include an image) about something recently learned
 
-### Django and Wagtail fundamentals
+### Project-specific tasks: Starter kit upgrade
 
-- [ ] Complete Django tutorial  
-- [ ] Complete Wagtail tutorial  
+- [ ] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
+- [ ] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
+- [ ] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it.
+- [ ] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
 
 ## Research
-
 <!-- Use this section to keep tabs of your research relevant to the project ideas you are interested in. -->
