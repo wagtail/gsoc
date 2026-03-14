@@ -8,7 +8,7 @@ Project size: 350h
 
 ### Summary
 
-The [Wagtail UI team](https://github.com/wagtail/wagtail/wiki/UI-team) is kickstarting an incremental redesign of the [Wagtail bakery demo site](https://github.com/wagtail/bakerydemo), with the intention to make it a more suitable demo for larger projects, and other verticals than breadmaking. As part of Google Summer of Code, help us implement the new design.
+We’re kickstarting an incremental redesign of the [Wagtail bakery demo site](https://github.com/wagtail/bakerydemo), with the intention to make it a more suitable demo for larger projects, and other verticals than breadmaking. As part of Google Summer of Code, help us implement the new design.
 
 ### Expected outcomes
 
