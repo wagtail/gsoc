@@ -10,6 +10,7 @@ Super excited to join this thread! Soma here from Bengaluru, working with Python
 - Bluesky profile : [somasekarnaidu.bsky.social](https://bsky.app/profile/somasekarnaidu.bsky.social)
 - LinkedIn profile : [Somasekar Naidu](https://www.linkedin.com/in/somasekar-naidu-841646320/)
 - personal website : [dev-iter](https://somasekar.vercel.app/)
+- Wagtail Project : [flash-cars](https://github.com/SOMASEKAR17/flashcars)
 
 ## Tasks
 
@@ -54,7 +55,7 @@ To stand out as an applicant,
 
 ### Learning and research
 
-- [ ] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+- [X] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
 - [ ] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
 
 ### Django and Wagtail fundamentals
@@ -62,7 +63,7 @@ To stand out as an applicant,
 Here, we recommend you to go through two tutorials to demonstrate your understanding of Django and Wagtail. Submit the code from both projects by adding links to GitHub repositories in your participant file inside `2026/participants/`.
 
 - [X] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/stable/intro/), until part 7.
-- [ ] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+- [X] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 
 ## Research
