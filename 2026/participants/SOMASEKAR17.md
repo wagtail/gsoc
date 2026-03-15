@@ -10,7 +10,7 @@ Super excited to join this thread! Soma here from Bengaluru, working with Python
 - Bluesky profile : [somasekarnaidu.bsky.social](https://bsky.app/profile/somasekarnaidu.bsky.social)
 - LinkedIn profile : [Somasekar Naidu](https://www.linkedin.com/in/somasekar-naidu-841646320/)
 - personal website : [dev-iter](https://somasekar.vercel.app/)
-- Wagtail Project : [flash-cars](https://github.com/SOMASEKAR17/flashcars)
+- Wagtail Project (flashCars) : [GitHub](https://github.com/SOMASEKAR17/flashcars) , [Live-Website](https://somasekar17.pythonanywhere.com/)
 
 ## Tasks
 
