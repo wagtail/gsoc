@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi everyone! I'm De Wolf, a Computer Science student from New Delhi, India.
+Hi everyone! I'm Mohd Adeeb, a Computer Science student from New Delhi, India.
 
 My journey into web development started right after high school when I first learned Python and Django from CodeWithHarry. One of the first projects I built was a small website that checked grammar in text. It was a simple project, but seeing something I built actually work was exciting and pushed me deeper into programming.
 
@@ -17,8 +17,7 @@ I'm excited to continue learning from the community and contribute to Wagtail th
 | Platform | Link |
 |---------|------|
 | GitHub | https://github.com/Dewolf1 |
-| LinkedIn | YOUR_LINKEDIN |
-| X | YOUR_X |
+| LinkedIn | https://linkedin.com/in/mohd-adeeb |
 
 ## Tasks
 
@@ -52,7 +51,7 @@ I'm excited to continue learning from the community and contribute to Wagtail th
 
 ### Django and Wagtail fundamentals
 
-- [ ] Complete Django tutorial  
+- [X] Complete Django tutorial  
 - [ ] Complete Wagtail tutorial  
 
 ## Contributions
