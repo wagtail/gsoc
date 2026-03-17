@@ -47,9 +47,9 @@ I'm interested in the Multilingual support improvements project. Reading through
 ### Learning and Research
 
 - [ ] Create "Research" section with useful resource links
-- [ ] Write blog post about learning (English, one image, under 500 words, Grade 6 readability)
-- [ ] Post publicly on Dev.to, Hashnode, Medium, or personal website
-- [ ] Link blog post from participant file
+- [x] Write blog post about learning (English, one image, under 500 words, Grade 6 readability)
+- [x] Post publicly on Dev.to, Hashnode, Medium, or personal website
+- [x] Link blog post from participant file
 
 ### Django and Wagtail Fundamentals
 
@@ -76,3 +76,7 @@ I'm interested in the Multilingual support improvements project. Reading through
 ### Background reading
 
 - [Wagtail Getting Started tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+
+### Blog post
+
+- [What's broken in multilingual Wagtail — and what GSoC could fix](https://philipnarteh.me/blog/whats-broken-in-multilingual-wagtail)
