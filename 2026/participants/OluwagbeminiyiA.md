@@ -10,7 +10,12 @@ Currently going through the contributing docs.
 
 Excited to learn from this experience...
 
-[Github](https://github.com/OluwagbeminiyiA)    | [LinkedIn](https://www.linkedin.com/in/gbeminiyi-agbedejobi/)    | [X](https://x.com/gbeminiyi_a)     | [personal website](https://www.oluwagbeminiyi.codes)
+| Links                                                         |
+|---------------------------------------------------------------|
+| [Github](https://github.com/OluwagbeminiyiA)                  |
+| [LinkedIn](https://www.linkedin.com/in/gbeminiyi-agbedejobi/) |
+| [X](https://x.com/gbeminiyi_a)                                |
+| [personal website](https://www.oluwagbeminiyi.codes)          |
 
 ## Tasks
 
@@ -56,7 +61,6 @@ Excited to learn from this experience...
 ### Django and Wagtail fundamentals
 
 
-- [ ] Go through Django’s [Getting started documentation and tutorial](https://docs.djangoproject.com/en/stable/intro/), until part 7.
 - [X] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
 
