@@ -1,28 +1,50 @@
 # Anayo Anyafulu
 
 ## Introduction
-I'm Anayo, a second-year Software Engineering student at the University of
-St. Thomas of Mozambique (Maputo). I have experience with Python and Flask,
-and I am currently applying those skills while learning Django through
-contributing to Wagtail. My first contribution to Wagtail was #14031 —
-fixing the forgotten password link not respecting WAGTAILUSERS_PASSWORD_RESET_ENABLED.
+
+I'm Chibuike Anyafulu (Anayo), a third-year Computer Science student at the
+University of Saint Thomas of Mozambique (Maputo), interning as a software
+engineer at NHH Cloud & Design. My primary stack is Python, Django, and
+Wagtail for web backend work, and Rust for systems programming.
+
+I'm applying for the Demo Website Redesign project, focusing on the backend
+infrastructure needed to make the site work at scale: pagination, new content
+models, programmatic fixture generation, and test coverage.
 
 ## Tasks
-- [x] Read the Wagtail contributing guidelines
-- [x] Set up the Wagtail development environment locally
-- [x] Made first contribution to wagtail/wagtail (#14031)
-- [ ] Join Wagtail Slack and introduce myself in #gsoc
+
+### Google Summer of Code fundamentals
+- [x] Read Advice for People Applying for GSoC
+- [x] Read all of Google's contributor guide
+- [x] Read the official timeline
+- [x] Read Wagtail's 7 tips for applying to Google Summer of Code
+- [x] Introduced myself on GSoC 2026 expression of interest #130
+
+### Open source fundamentals
+- [x] Made first pull request — participant file (wagtail/gsoc#188, merged)
+- [x] Picked up and addressed an existing issue on the demo site (wagtail/bakerydemo#665)
+
+### Project-specific tasks (Demo Website Redesign)
+- [x] Reviewed the redesign epic: wagtail/bakerydemo#566
+- [x] Fixed fallback search ordering bug and added 8 search view tests: wagtail/bakerydemo#665
+- [x] Reviewed open issues: #661 (pagination), #623 (tests), #676 (fixtures)
 
 ## Research
-### Project interest: Demo Website Redesign
-- Current bakerydemo: https://github.com/wagtail/bakerydemo
+
+- Redesign epic: https://github.com/wagtail/bakerydemo/issues/566
 - GSoC 2026 projects: https://wagtail.org/blog/our-projects-for-gsoc-2026/
-- Related epic: wagtail/bakerydemo#566
+- Wagtail page models: https://docs.wagtail.org/en/stable/topics/pages.html
+- WagtailPageTestCase: https://docs.wagtail.org/en/stable/testing.html
+- Django management commands: https://docs.djangoproject.com/en/stable/howto/custom-management-commands/
+- Faker library for fixture generation: https://faker.readthedocs.io/
+- Wagtail contributing guidelines: https://docs.wagtail.org/en/stable/contributing/index.html
 
-### Project interest: Starter Kit Upgrade
-- News template: https://github.com/wagtail/wagtail-news-template
+## Contributions
 
-## Relevant skills
-- Python, Flask, Django (learning)
-- HTML/CSS/JavaScript
-- Git, Linux (Fedora)
+| Repository | PR | Status | Description |
+|---|---|---|---|
+| wagtail/gsoc | [#188](https://github.com/wagtail/gsoc/pull/188) | Merged | Participant file |
+| wagtail/bakerydemo | [#665](https://github.com/wagtail/bakerydemo/pull/665) | Open | Fix fallback search ordering + 8 tests |
+| boa-dev/boa | [#4737](https://github.com/boa-dev/boa/pull/4737) | Merged | test262 spec compliance |
+| boa-dev/boa | [#4726](https://github.com/boa-dev/boa/pull/4726) | Merged | Regex regression test |
+| CCExtractor/ccextractor | [#2141](https://github.com/CCExtractor/ccextractor/pull/2141) | Merged | C-to-Rust port |
