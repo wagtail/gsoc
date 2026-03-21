@@ -12,6 +12,7 @@ This is my first time contributing to open source and I'm excited to learn!
 | Profile | Link |
 |---|---|
 | GitHub | https://github.com/JoelVelasqueZz |
+| LinkedIn | https://www.linkedin.com/in/joel-velasquez-827923278 |
 
 ## Tasks
 
