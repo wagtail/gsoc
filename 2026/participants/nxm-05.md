@@ -18,3 +18,8 @@ I’m looking forward to contributing, learning from the community, and getting 
 - [ ] Set up Wagtail project locally
 - [ ] Explore GSoC project ideas
 - [ ] Make first contribution (PR)
+
+## Research
+- https://docs.wagtail.org/
+- https://docs.djangoproject.com/en/stable/intro/tutorial01/
+- https://github.com/wagtail/wagtail
