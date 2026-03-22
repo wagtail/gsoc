@@ -129,7 +129,7 @@ Those are vary varied tasks, pick and choose based on the direction you will wan
 
 ### Multilingual support improvements
 
-> View the [project idea: Multilingual support improvements](https://github.com/wagtail/gsoc/blob/main/project-ideas.md#project-proposal-your-own-idea).
+> View the [project idea: Multilingual support improvements](https://github.com/wagtail/gsoc/blob/main/project-ideas.md#multilingual-support-improvements).
 
 - [ ] Set up a demo website: with multilingual content managed with [wagtail-localize](https://github.com/wagtail/wagtail-localize). Link it from your participant file in `2026/participants`. This will give you a good understanding of the current capabilities.
 - [ ] Review our [Improving support for multilingual websites #13693](https://github.com/wagtail/wagtail/discussions/13693) to identify common pain points and capability gaps, and publish a blog post based on your research.
