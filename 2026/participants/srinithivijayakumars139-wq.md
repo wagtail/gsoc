@@ -27,7 +27,7 @@ For a first year BTech CSE student like me this serves a very good opportunity t
 
 ### Learning and research
 - [x] Create a `## Research` section listing useful resources about Wagtail and your project idea.
-- [ ] Write a short blog post (<500 words) about something you learned and link it here.
+- [x] Write a short blog post (<500 words) about something you learned and link it here: (https://dev.to/srinithivijayakumars139wq/setting-up-wagtail-bakerydemo-locally-what-i-learnt-1ml8)
 
 ### Django and Wagtail fundamentals
 - [x] Complete Django tutorial up to part 7. [github repo link: https://github.com/srinithivijayakumars139-wq/Django-tutorial]
@@ -62,6 +62,6 @@ https://www.youtube.com/watch?v=rJACcfp2Yuw ---> Complex Website Redesign: Behin
 Those are vary varied tasks, pick and choose based on the direction you will want to propose:
 
 - [ ] Create new content fixtures for the existing demo, which allow testing it with another theme than bread.
-- [ ] Create a new alternative visual look for the website, with its existing content. (in progress)
-- [ ] Pick up and address an existing issue on the site.
+- [x] Create a new alternative visual look for the website, with its existing content. (in progress)
+- [x] Pick up and address an existing issue on the site.
 - [ ] Write and share an AI agent skill to help with future maintenance of the project.
