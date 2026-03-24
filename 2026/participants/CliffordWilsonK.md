@@ -8,7 +8,7 @@ Hey everyone, I'm Clifford, a computer engineering student from Ghana. I spend m
 
 | Platform      | Link                                               |
 | ------------- | -------------------------------------------------- |
-| **GitHub**    | https://github.com/[CliffordWilsonK]               |
+| **GitHub**    | https://github.com/CliffordWilsonK                 |
 | **LinkedIn**  | https://linkedin.com/in/clifford-wilson-a71212233/ |
 | **Portfolio** | https://cliffordwilson.dev                         |
 
@@ -27,7 +27,16 @@ Hey everyone, I'm Clifford, a computer engineering student from Ghana. I spend m
 - [x] Read Open source etiquette
 - [x] Make your first pull request with us!
 - [x] Read through GitHub’s Markdown formatting documentation
-- [ ] Create a new ## Research section in your personal file.
+- [x] Create a new ## Research section in your personal file.
 - [ ] Write a short blog post describing something you’ve learned recently.
-- [ ] Go through Django’s Getting started documentation and tutorial, until part 7.
-- [ ] Go through Wagtail’s Getting started tutorial: Your first Wagtail site.
+- [x] Go through Django’s Getting started documentation and tutorial, until part 7.
+- [x] Go through Wagtail’s Getting started tutorial: Your first Wagtail site.
+
+## Research Section
+
+- I found out a lot of stuff through their developer documentation, it made understand what wagtail reallystood for https://docs.wagtail.org/en/stable/getting_started/index.html
+
+## Django and Wagtail Fundamentals
+
+- Django Project Link [https://github.com/CliffordWilsonK/DjangoPollsApp]
+- Wagtail Project Link [https://github.com/CliffordWilsonK/wagtail-first-project]
