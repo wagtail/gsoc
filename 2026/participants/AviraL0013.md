@@ -44,6 +44,7 @@ I do full-stack dev (React, Node.js, Python, JavaScript) and have been building 
 ### Starter Kit Upgrade - Project Tasks
 - [x] Set up a new project with the starter kit (Windows, fresh scaffold)
 - [x] Review the contents of the starter kit and publish a blog post
+[Content Review for StarterKit](https://starterkitreview.hashnode.dev/content-review-for-starterkit)
 
 ## Contributions
 
