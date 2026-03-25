@@ -14,7 +14,7 @@ Looking for a long term community driver contribution journey, Thank you!!
 
 ## My blogs about Wagtail
 1) [Wagtail for Newcomers: What I Learned About the CMS](https://medium.com/@rajlourdu15/wagtail-for-newcomers-what-i-learned-about-the-cms-9b509b54a215)
-
+2) [Wagtail’s Multilingual Tales(v 7.3.1)](https://medium.com/@rajlourdu15/wagtails-multilingual-tales-v-7-3-1-dfbb71ecc9d9)
 
 ## Tasks
 
@@ -58,7 +58,7 @@ To stand out as an applicant,
 ### Learning and research
 
 - [x] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-- [x] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+- [x] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository. [Blog Link](https://medium.com/@rajlourdu15/wagtail-for-newcomers-what-i-learned-about-the-cms-9b509b54a215)
 
 ### Django and Wagtail fundamentals
 
@@ -69,8 +69,10 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 
 ### Multilingual support improvements
 
-- [ ] Set up a demo website: with multilingual content managed with [wagtail-localize](https://github.com/wagtail/wagtail-localize). Link it from your participant file in `2026/participants`. This will give you a good understanding of the current capabilities.
-- [ ] Review our [Improving support for multilingual websites #13693](https://github.com/wagtail/wagtail/discussions/13693) to identify common pain points and capability gaps, and publish a blog post based on your research.
+- [x] Set up a demo website: with multilingual content managed with [wagtail-localize](https://github.com/wagtail/wagtail-localize). Link it from your participant file in `2026/participants`. This will give you a good understanding of the current capabilities. 
+   - [Live Link](www.lourduradjou.com), [Github Link](https://github.com/lourduradjou/wagtail-portfolio)
+- [x] Review our [Improving support for multilingual websites #13693](https://github.com/wagtail/wagtail/discussions/13693) to identify common pain points and capability gaps, and publish a blog post based on your research.
+   - [Blog Link](https://medium.com/@rajlourdu15/wagtails-multilingual-tales-v-7-3-1-dfbb71ecc9d9)
 - [ ] Locally test, review, and provide feedback on [one of the pull requests to wagtail-localize](https://github.com/wagtail/wagtail-localize/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen)
 - [ ] Attempt to fix one [Wagtail core issue tagged 'i18n'](https://github.com/wagtail/wagtail/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Acomponent%3Ai18n)
 
@@ -100,9 +102,10 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - Utilizing the AI considering the edge cases (safeguard) 
 - Problems with automated translations splitting content into very small chunks (HTML example)
 - Xliff format and PO issues 
-- UI need in adaptive positions at all devices and also in the sidebar (many comments mentioned this, need to review)
+- UI need in adaptive positions at all devices and also in the sidebar (Verified It exist)
 - Search bar with different languages isn’t working well
 - No built in ability to bulk-create or bulk synchronize translations, No built in ability to search for, sort by or filter by translation status in the snippet listings
 - Inline structure of links getting lost or appended at wrong positions after translation
 - UX improvements like having breadcrumbs to go back and forth in both situations
-- After translation only breadcrumbs opens but not available in the source page (need to verify this)
+- After translation only breadcrumbs opens for the translated page but not available in the source page this causes a different UX paradigm (Verified)
+- Agnostic machine translation workflow with supporting UX changes.

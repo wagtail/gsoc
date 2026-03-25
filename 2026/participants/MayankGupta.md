@@ -55,8 +55,8 @@ To stand out as an applicant,
 
 ### Learning and research
 
-- [ ] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you've found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you're interested in.
-- [ ] Write a short blog post describing something you've learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+- [x] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you've found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you're interested in.
+- [x] Write a short blog post describing something you've learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
 
 ### Django and Wagtail fundamentals
 
@@ -65,10 +65,24 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - [x] Go through Django's [Getting started documentation and tutorial](https://docs.djangoproject.com/en/stable/intro/), until part 7.
 - [x] Go through Wagtail's Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
+### Starter kit upgrade
+
+> View the [project idea: Starter kit upgrade](https://github.com/wagtail/gsoc/blob/main/project-ideas.md#starter-kit-upgrade).
+
+- [x] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
+- [x] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
+- [x] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it.
+- [x] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
+
 ## Contributions
 
 - I have raised 3 pull requests recently in the Wagtail `new-template` repository.
 - They are not merged yet.
 - One PR was reviewed and then closed because the work had already been done by someone else before me but got to learn about issue and guidance of collabrator Scotchester .
 
+## blog 
+
+https://wagtaila-mayank.hashnode.dev/improving-the-wagtail-starter-kit-my-journey-building-a-modern-developer-friendly-template
 ## Research
+
+- [Wagtail Getting started tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
