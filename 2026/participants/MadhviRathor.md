@@ -164,4 +164,4 @@ after GSoC ends.
 ## Contact
 - 📧 Email: madhvirathor14@gmail.com
 - 🐙 GitHub: https://github.com/madhvirathor14
-- 💬 Slack: Madhvi Rathor
+- 💬 Slack: Madhvi Rathore
