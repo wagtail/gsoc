@@ -19,6 +19,9 @@ I’ve started exploring the contributor guide, project ideas, and setting up Wa
 - [ ] Do project-specific research
 
 ## Research
-- Wagtail GSoC repo
+- Wagtail GSoC repository
 - Contributor guide
 - Project ideas
+- Set up a local Wagtail project successfully
+- Created a superuser and explored the admin interface
+- Observed the initial project structure and setup workflow
