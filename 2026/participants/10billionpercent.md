@@ -73,11 +73,11 @@ Demo website redesign
   - Deployment https://docs.wagtail.org/en/stable/deployment/index.html
     - will soon deploy [Hange Gallery](https://github.com/10billionpercent/hange-gallery) using this
 - Visual design inspiration
-  - About https://theobroma.in/
-  - Blog https://www.portosbakery.com/
+  - Breads https://theobroma.in/
+  - Blog https://dribbble.com/shots/26006039-MatDash-Blog-Listing-Page-Design
   - Locations https://gails.com/
   - Recipes https://dribbble.com/shots/23709501-Rollin-Bakery-Website
-  - Breads https://dribbble.com/shots/26867731-Confectionery-Ecommerce-Website-Design
+  - About Us https://dribbble.com/shots/26140881-UnifiedUI-About-Us-Section-Design-for-Growing-Brands
   - Gallery https://dribbble.com/shots/25834943-BakeJoy-Cake-Shop-Landing-Page-Figma
   - Hero https://dribbble.com/shots/25210854-Eclairs-E-Commerce-Website-Design
   - Contact Us https://dribbble.com/shots/24277483-slothUI-World-s-Laziest-Design-System-Contact-Form-Page-UIUX
