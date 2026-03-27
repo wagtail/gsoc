@@ -45,12 +45,12 @@ This checklist helps you demonstrate your understanding of how people use GitHub
   - [ ] Your Bluesky profile if any
   - [ ] Your X profile if any
   - [x] Your LinkedIn profile if any
-  - [ ] Your personal website
+  - [x] Your personal website
 - [x] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide's checklists into it, marking each item as completed while you progress.
 
 To stand out as an applicant,
 
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description).
 
 ### Learning and research
@@ -76,9 +76,10 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 
 ## Contributions
 
-- I have raised 3 pull requests recently in the Wagtail `new-template` repository.
-- They are not merged yet.
+- I have raised 4 pull requests recently in the Wagtail `new-template` repository.
+- One Merged 
 - One PR was reviewed and then closed because the work had already been done by someone else before me but got to learn about issue and guidance of collabrator Scotchester .
+- They are 2 not merged yet.
 
 ## blog 
 
