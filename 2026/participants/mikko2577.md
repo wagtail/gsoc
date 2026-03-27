@@ -14,7 +14,7 @@ I’ve started exploring the contributor guide, project ideas, and setting up Wa
 - [x] Read contributor guide
 - [x] Read project ideas
 - [x] Posted introduction in discussion
-- [ ] Set up Wagtail locally
+- [x] Set up Wagtail locally
 - [ ] Create proposal draft
 - [ ] Do project-specific research
 
