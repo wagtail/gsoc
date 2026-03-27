@@ -1,5 +1,8 @@
 # Jiachan Li (@mikko2577)
 
+## Links
+- GitHub: https://github.com/mikko2577
+
 ## Introduction
 Hi! I’m Jiachan Li, currently studying IT and Computer Science.
 
