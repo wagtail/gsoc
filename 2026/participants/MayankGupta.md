@@ -82,7 +82,7 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 
 ## blog 
 
-https://wagtaila-mayank.hashnode.dev/improving-the-wagtail-starter-kit-my-journey-building-a-modern-developer-friendly-template
+[https://wagtaila-mayank.hashnode.dev/improving-the-wagtail-starter-kit-my-journey-building-a-modern-developer-friendly-template](https://mayankgupta27.hashnode.dev/improving-the-wagtail-starter-kit-my-journey-building-a-modern-developer-friendly-template)
 ## Research
 
 - [Wagtail Getting started tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
