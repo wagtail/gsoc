@@ -8,7 +8,7 @@ Over the past 8 months I led the complete replacement of a 7-year-old Joomla CMS
 
 My project preference is the **Multilingual support improvements** project. My production i18n experience at Pou Chen Group and my hands-on work with wagtail-localize give me a strong foundation for improving Wagtail's multilingual capabilities.
 
-I am fully available for the entire GSoC 2026 period (May–August). My internship at Pou Chen Group ends in June (16–20 hours/week), and my PhD coursework is completed — no academic conflicts.
+I am fully available for the entire GSoC 2026 period (May–August). My internship at Pou Chen Group ends in June (16–20 hours/week), and my PhD coursework is completed with no academic conflicts.
 
 ## Links
 
