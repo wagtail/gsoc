@@ -1,11 +1,9 @@
 # Mayank Gupta 
 
 ## Introduction
+Hi everyone, I’m a Django backend developer with experience in building scalable web applications using Django, REST APIs, and modern frontend tools.
 
-Hi everyone, I’m a Django backend developer and I’m excited to contribute to Wagtail through GSoC 2026.
-
-I’m currently interested in contributing to medium-level and large level projects where I can make steady, meaningful contributions, learn from the community, and grow as an open source contributor.
-
+I’m particularly interested in improving developer experience in Wagtail, especially around starter kits and onboarding, where I can make meaningful contributions while learning from the community.
 ## Links
 
 | Platform | Link |
@@ -50,7 +48,7 @@ This checklist helps you demonstrate your understanding of how people use GitHub
 
 To stand out as an applicant,
 
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Help others with their pull requests 
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description).
 
 ### Learning and research
@@ -76,13 +74,25 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 
 ## Contributions
 
-- I have raised 3 pull requests recently in the Wagtail `new-template` repository.
-- They are not merged yet.
-- One PR was reviewed and then closed because the work had already been done by someone else before me but got to learn about issue and guidance of collabrator Scotchester .
+To better understand the Wagtail News Template and its real-world challenges, I have actively contributed through multiple pull requests:
 
-## blog 
+- **PR #72 (Merged):** Improved template flexibility by removing a hardcoded project name, making the starter kit more reusable.
+- **PR #73 (Open):** Fixed a frontend layout issue causing horizontal scrolling in the homepage hero section.
+- **PR #108 (Open):** Added missing frontend templates for `InternalLinkBlock` and `ExternalLinkBlock`, improving consistency and usability of StreamField components.
+- **PR #68 (Closed):** Identified a pagination issue caused by missing imports. Although closed as a duplicate, it helped me understand issue tracking and collaboration workflow.
 
-https://wagtaila-mayank.hashnode.dev/improving-the-wagtail-starter-kit-my-journey-building-a-modern-developer-friendly-template
+Through these contributions, I have gained familiarity with Wagtail's codebase, template structure, and contribution process, and I am continuing to actively contribute and improve my understanding.
+
+## Blog
+
+Improving the Wagtail Starter Kit: My Journey Building a Modern Developer-Friendly Template  
+🔗 https://wagtaila-mayank.hashnode.dev/improving-the-wagtail-starter-kit-my-journey-building-a-modern-developer-friendly-template
 ## Research
 
-- [Wagtail Getting started tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+- Explored the Wagtail Starter Kit architecture and identified onboarding friction due to multi-step setup and lack of automation.
+- Analyzed dependency management issues causing unintended downgrades of Wagtail and Django versions.
+- Investigated frontend tooling and found security vulnerabilities (via npm audit) due to outdated dependencies.
+- Identified missing or inconsistent frontend templates for StreamField blocks, impacting usability.
+- Studied migration from legacy `ModelAdmin` to modern `SnippetViewSet` and `PageListingViewSet` in Wagtail 7.0.
+- Evaluated the role of meaningful demo content (`demo.json`) in improving developer onboarding experience.
+- Explored CI/CD integration using GitHub Actions to ensure reproducible environments and maintainability.
