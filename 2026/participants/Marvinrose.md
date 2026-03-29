@@ -68,8 +68,9 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - [x] Review our [Improving support for multilingual websites #13693](https://github.com/wagtail/wagtail/discussions/13693) to identify common pain points and capability gaps, and publish a blog post based on your research.
       - Blog Post [ https://marvinrose.hashnode.dev/wagtail-s-multilingual-support-what-s-broken-what-s-being-fixed-and-why-it-matters ]
 - [x] Locally test, review, and provide feedback on [one of the pull requests to wagtail-localize](https://github.com/wagtail/wagtail-localize/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen)
+      - Reviewed the `get_soup()` refactor and `PreserveWhitespaceTags` implementation, raised a question about whether whitespace preservation should apply to all tags or only inline tags per the existing `INLINE_TAGS` list. Also flagged the CI ruff failure and missing PR description. [ https://github.com/wagtail/wagtail-localize/pull/901 ]
 - [x] Attempt to fix one [Wagtail core issue tagged 'i18n'](https://github.com/wagtail/wagtail/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Acomponent%3Ai18n)
-
+      - [ https://github.com/wagtail/wagtail/pull/13998 ] (WCAG 3.1.2 Add lang attribute to page titles in admin templates)
 
 
 ## Research
