@@ -1,0 +1,61 @@
+# Satish Garg
+
+## Profiles
+
+| Platform | Link |
+|---|---|
+| GitHub | [fy3301](https://github.com/fy3301) |
+| LinkedIn | [satish-garg](https://linkedin.com/in/satish-garg) |
+| Email | zyir.wendervall@gmail.com |
+
+## Introduction
+
+Hi everyone! I'm Satish, a developer working primarily with Django, APIs, and workflow-oriented systems.
+
+I'm particularly interested in the Multilingual Support Improvements project. I've been exploring wagtail-localize and the ongoing discussion around multilingual workflows, especially around translation reuse and synchronization challenges.
+
+My proposal focuses on improving translation memory and reducing redundant work in content-heavy workflows, and I’m currently diving deeper into the codebase and related issues.
+
+Looking forward to contributing and learning from the community!
+
+## Tasks
+
+### Getting to know Wagtail
+- [x] Read recent blog posts
+- [x] Sign up for newsletter / socials
+- [x] Join Slack
+
+### GSoC Fundamentals
+- [x] Read Advice for People Applying for GSoC
+- [x] Read Google's contributor guide
+- [x] Read official timeline
+- [x] Read Wagtail's 7 tips
+- [x] Post intro on discussion thread #130
+
+### Open Source Fundamentals
+- [x] Make first pull request (this file!)
+- [x] Add Markdown table with profile links
+- [x] Add Tasks section (this!)
+
+### Learning & Research
+- [x] Add Research section
+- [ ] Write and publish a blog post
+
+### Django & Wagtail
+- [ ] Complete Django tutorial (parts 1–7)
+- [ ] Complete Wagtail "Your first Wagtail site" tutorial
+
+## Multilingual Support Improvements
+- [x] View the [project idea: Multilingual support improvements](https://github.com/wagtail/gsoc/blob/main/project-ideas.md#multilingual-support-improvements).
+- [ ] Set up a demo website: with multilingual content managed with [wagtail-localize](https://github.com/wagtail/wagtail-localize). 
+- [x] Review [Improving support for multilingual websites #13693](https://github.com/wagtail/wagtail/discussions/13693) to identify common pain points and capability gaps, and publish a blog post based on your research.
+- [ ] Locally test, review, and provide feedback on [one of the pull requests to wagtail-localize](https://github.com/wagtail/wagtail-localize/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen)
+- [ ] Attempt to fix one [Wagtail core issue tagged 'i18n'](https://github.com/wagtail/wagtail/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Acomponent%3Ai18n)
+
+## Research
+
+Key resources:
+- [Wagtail News Template](https://github.com/wagtail/news-template) - studied structure and limitations
+- [GSoC 2026 Project Ideas](https://github.com/wagtail/gsoc/blob/main/project-ideas.md)  - scope of Starter Kit Upgrade
+- [Wagtail Getting Started Tutorial](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
+- [Q&A Discussion #135](https://github.com/wagtail/gsoc/discussions/135) - discussion on multilingual support improvement
