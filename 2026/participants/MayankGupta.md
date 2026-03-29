@@ -83,6 +83,8 @@ To better understand the Wagtail News Template and its real-world challenges, I 
 
 Through these contributions, I have gained familiarity with Wagtail's codebase, template structure, and contribution process, and I am continuing to actively contribute and improve my understanding.
 
+
+I am also actively exploring open issues and looking for opportunities to contribute further to the project.
 ## Blog
 
 Improving the Wagtail Starter Kit: My Journey Building a Modern Developer-Friendly Template  
