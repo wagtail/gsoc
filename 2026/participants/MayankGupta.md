@@ -71,6 +71,8 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - [x] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
 - [x] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it.
 - [x] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
+- Built a custom starter kit prototype exploring improvements in onboarding and developer experience:
+  https://github.com/Manny2706/starterkit-newtemplate-wagtail
 
 ## Contributions
 
