@@ -50,10 +50,9 @@ I'm excited to contribute to Wagtail through GSoC 2026 and learn more about larg
 
 ### Project-specific tasks: Starter kit upgrade
 
-- [ ] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
-- [ ] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
-- [ ] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it.
-- [ ] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
-
+- [x] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
+- [x] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
+- [x] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it. (link: https://medium.com/@daisyzhang715/wagtail-news-starter-kit-what-it-gets-right-and-what-new-developers-still-need-dee0d2173806 )
+- [x] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project. (link: https://github.com/DaisyZhang77/agent-skill-news-template)
 ## Research
 <!-- Use this section to keep tabs of your research relevant to the project ideas you are interested in. -->
