@@ -72,10 +72,11 @@ To stand out:
   - Repo link: [Create a GitHub repo for your Wagtail tutorial site and link here once done]
 
 ## Project-specific progress (Demo website redesign)
-- [ ] Forked & set up https://github.com/wagtail/bakerydemo locally (pip install, migrate, load fixtures, runserver)
-- [ ] Read the full redesign planning issue
-- [ ] Planning small tasks: e.g., new content fixtures for non-bakery theme, CSS experiments for modern look, or fixing a frontend issue
-- Posted intro in Q&A: Demo website redesign #133 thread
+- [x] Forked & set up https://github.com/wagtail/bakerydemo locally (pip install, migrate, load fixtures, runserver)
+- [x] Read the full redesign planning issue
+- [x] Planning small tasks: e.g., new content fixtures for non-bakery theme, CSS experiments for modern look, or fixing a frontend issue
+- [x] Posted intro in Q&A: Demo website redesign #133 thread
+- [x] Added smooth slide-in animation to the mobile menu using only vanilla CSS. https://github.com/wagtail/bakerydemo/pull/690
 
 Looking forward to mentor feedback, more contributions, and hopefully a strong proposal for the redesign project! 
 
