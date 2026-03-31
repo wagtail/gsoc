@@ -61,7 +61,7 @@ I am applying for **GSOC 2026** with Wagtail, specifically **Starter Kit Upgrade
 ### Starter kit upgrade
 
 - [x] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
-- [ ] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
+- [x] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
 - [ ] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it.
 - [ ] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
 
@@ -82,6 +82,12 @@ I have cloned and exploring the codebase, I am excited to work on it and make it
 
 I've also made some prior contributions to Wagtail codebase, and looking forward to discussing ideas in Q&A thread.
 
+
+### Starter Kit Demo Site
+I've made a demo site with different theme, with Render for web service and database, Supabase for media storage via AWS_S3 config. Though, I barely did any extra work on frontend, my main focus was to understand the template and be able to make use of pre built templates, modify as needed. I am planning to work on this repo during GSoC period in my free time and demonstrate the real strength of the starter kit.
+
+- Repo - https://github.com/Coder-Ankit001/Starter_Kit_Demo_1
+- Demo - https://starter-kit-demo-1.onrender.com/
 
 ### Links
 

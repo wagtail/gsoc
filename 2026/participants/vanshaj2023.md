@@ -48,13 +48,13 @@ Looking forward to connecting with the community and contributing to Wagtail!
   - [x] Your LinkedIn profile if any
   - [x] Your personal website
 - [x] Update your pull request to add a new `## Tasks` section to your participant file, and copy-paste our contributor guide's checklists into it, marking each item as completed while you progress.
-- [ ] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests.
+- [x] Help others with their pull requests – spotting steps they might have missed, or suggesting improvements to their pull requests. Commented on [PR #75](https://github.com/wagtail/news-template/pull/75), [issue #50](https://github.com/wagtail/news-template/issues/50), and [issue #94](https://github.com/wagtail/news-template/issues/94).
 - [x] Demonstrate good awareness of open source etiquette when creating your pull requests (for example, adding an appropriate title and description).
 
 ### Learning and research
 
 - [x] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you've found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you're interested in.
-- [ ] Write a short blog post describing something you've learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+- [x] Write a short blog post describing something you've learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository. [I Fixed a Silent Bug in an Open-Source Project – Here's What I Learned](https://dev.to/vanshaj2023/i-fixed-a-silent-bug-in-an-open-source-project-heres-what-i-learned-9c0)
 
 ### Django and Wagtail fundamentals
 
@@ -64,9 +64,9 @@ Looking forward to connecting with the community and contributing to Wagtail!
 ### Starter kit upgrade
 
 - [x] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
-- [ ] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website.
-- [ ] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it.
-- [ ] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
+- [x] Set up a new project template / starter kit, with technology choices and demo content of your own choosing. Examples: htmx; Astro; fully static deployment; hosting in PythonAnywhere; portfolio template; photography website. [wagtail-portfolio-template](https://github.com/vanshaj2023/wagtail-portfolio-template) — deployed at [vanshaj2023.pythonanywhere.com](https://vanshaj2023.pythonanywhere.com/)
+- [x] Review the contents of the starter kit, and publish a blog post explaining your understanding of its value, as well as might be missing from it. [Inside Wagtail's News Template: What Works, What's Broken, and What's Missing](https://dev.to/vanshaj2023/inside-wagtails-news-template-what-works-whats-broken-and-whats-missing-a1g)
+- [x] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project. [wagtail-review-skill](https://github.com/vanshaj2023/wagtail-review-skill)
 
 ## Contributions
 
