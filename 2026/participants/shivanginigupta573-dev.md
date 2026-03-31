@@ -78,5 +78,7 @@ writing the proposal: https://shivangini.pythonanywhere.com
 - [bakerydemo source code](https://github.com/wagtail/bakerydemo)
 
 ## Blog Post
-## Blog Post
 [My Open Source Journey: From 20k Lines of Mess to a Merged PR](https://dev.to/shivangini108/my-open-source-journey-from-20k-lines-of-mess-to-a-merged-pr-53l9)
+
+## AI Agent Skill
+[Bakerydemo Maintenance Skill for AI Agents](https://gist.github.com/shivanginigupta573-dev/a9b18a8c64f76edc2123bc4301fa895e)
