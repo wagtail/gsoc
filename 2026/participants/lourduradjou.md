@@ -73,8 +73,13 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
    - [Live Link](www.lourduradjou.com), [Github Link](https://github.com/lourduradjou/wagtail-portfolio)
 - [x] Review our [Improving support for multilingual websites #13693](https://github.com/wagtail/wagtail/discussions/13693) to identify common pain points and capability gaps, and publish a blog post based on your research.
    - [Blog Link](https://medium.com/@rajlourdu15/wagtails-multilingual-tales-v-7-3-1-dfbb71ecc9d9)
-- [ ] Locally test, review, and provide feedback on [one of the pull requests to wagtail-localize](https://github.com/wagtail/wagtail-localize/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen)
-- [ ] Attempt to fix one [Wagtail core issue tagged 'i18n'](https://github.com/wagtail/wagtail/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Acomponent%3Ai18n)
+- [x] Locally test, review, and provide feedback on [one of the pull requests to wagtail-localize](https://github.com/wagtail/wagtail-localize/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen)
+  - I reviewed the issue #884 of wagtail localize, I could able to reproduce the issue locally, test the changes from the PR and provided my feedback.
+  - Issue triaging [Link](https://github.com/wagtail/wagtail-localize/issues/823#issuecomment-4106888914)
+  - PR Review [Link](https://github.com/wagtail/wagtail-localize/pull/884#issuecomment-4106985226)
+- [x] Attempt to fix one [Wagtail core issue tagged 'i18n'](https://github.com/wagtail/wagtail/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Acomponent%3Ai18n)
+  - I am looking to fix issue #1177 multiple languages support in search.
+  - I could able to reproduce the issue and this requires more guidance from maintainers on desing decisions to approach this properly before making a PR, so linking my review instead of PR here (Just to show I am trying to fix it and understand the solution) [Link](https://github.com/wagtail/wagtail/issues/1177#issuecomment-4160520670)
 
 ## Research
 
@@ -87,7 +92,7 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 5) https://github.com/wagtail/wagtail/issues?q=state%3Aopen%20label%3Acomponent%3Ai18n (Link to get all issues related to i18n)
 6) https://wagtail-localize.org/stable/ref/translatable-fields/ (wagtail-localize reference)
 7) https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/ (AI in CMS)
-8) https://docs.wagtail.org/en/v2.13.4/advanced_topics/i18n.html (i18n docs of wagtail)
+8) https://docs.wagtail.org/en/latest/advanced_topics/i18n.html (i18n docs of wagtail)
 9) https://docs.google.com/forms/d/e/1FAIpQLSfpr0U5cO7af5kF6GBiyiHibP3t97xEKO6FGfxPQLID0ZYmnQ/viewform (Google form to review draft proposal)
 
 ### Checklist to strength the understanding of the problem and gsoc proposal:
@@ -103,7 +108,7 @@ Here, we recommend you to go through two tutorials to demonstrate your understan
 - Problems with automated translations splitting content into very small chunks (HTML example)
 - Xliff format and PO issues 
 - UI need in adaptive positions at all devices and also in the sidebar (Verified It exist)
-- Search bar with different languages isn’t working well
+- Search bar with different languages isn’t working well (Verified the issue)
 - No built in ability to bulk-create or bulk synchronize translations, No built in ability to search for, sort by or filter by translation status in the snippet listings
 - Inline structure of links getting lost or appended at wrong positions after translation
 - UX improvements like having breadcrumbs to go back and forth in both situations
