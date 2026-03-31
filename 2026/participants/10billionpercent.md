@@ -43,22 +43,25 @@ So far, Wagtail has been really fun to use, and I am excited to explore more of 
     - [x] Your LinkedIn profile if any
    - https://github.com/wagtail/gsoc/pull/176
 - [x] Update your pull request to add a new ## Tasks section to your participant file, and copy-paste our contributor guide’s checklists into it, marking each item as completed while you progress.
-- [x] Contributed to bakerydemo by improving location page content.
+- [x] Contributed to bakerydemo by trying to improve location page content.
     - https://github.com/wagtail/bakerydemo/pull/681
 
 ### Learning and research
-- [ ] Create a new ## Research section in your personal file inside 2026/participants/, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
-- [ ] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on https://hemingwayapp.com/. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+- [x] Create a new ## Research section in your personal file inside 2026/participants/, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
+- [x] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on https://hemingwayapp.com/. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
+   - https://dev.to/10billionpercent/react-without-react-how-wagtail-changed-my-view-of-ui-1jfn
+   
 
 ### Django and Wagtail fundamentals
 - [ ] Go through Django’s Getting started documentation and tutorial, until part 7.
-- [ ] Go through Wagtail’s Getting started tutorial: Your first Wagtail site.
+- [x] Go through Wagtail’s Getting started tutorial: Your first Wagtail site.
    - https://github.com/10billionpercent/hange-gallery
 
 ### Project-specific tasks
 Demo website redesign
 - [ ] Create a new alternative visual look for the website, with its existing content.
    - in progress
+   - View it at https://10billionpercent.github.io/bakeryhome-alt/
 
 ## Research
 - Wagtail docs
