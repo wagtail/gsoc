@@ -12,7 +12,8 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 Recap of the initial phase:
 
 - We received 340 expressions of interest.
-- And then 190 proposals for concrete projects.
+- And 50 requests for feedback on draft proposals.
+- And then 190 final proposals for concrete projects (75 for the demo website redesign, 44 for starter kit upgrades, 24 for multilingual support, 47 other ideas)
 
 ## 2025
 
