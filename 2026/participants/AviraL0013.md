@@ -45,6 +45,9 @@ I do full-stack dev (React, Node.js, Python, JavaScript) and have been building 
 - [x] Set up a new project with the starter kit (Windows, fresh scaffold)
 - [x] Review the contents of the starter kit and publish a blog post
 [Content Review for StarterKit](https://starterkitreview.hashnode.dev/content-review-for-starterkit)
+- [x] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
+[video]( https://youtu.be/nB62sT2Yoyk)
+[repo link](https://github.com/AviraL0013/wagtail-audit)
 
 ## Contributions
 
@@ -53,6 +56,7 @@ PRs related to this work:
 - https://github.com/wagtail/news-template/pull/90 - Fix 30 npm vulnerabilities on fresh install
 - https://github.com/wagtail/news-template/pull/91 - Fix Tailwind CSS deprecation warnings on every build
 - https://github.com/wagtail/news-template/pull/92 - Fix contact form error messages not rendering
+- [Proof of Concept- CI Implementation](github.com/AviraL0013/wagtail-starter-demo)
 
 ## Research
 
