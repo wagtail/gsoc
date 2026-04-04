@@ -58,9 +58,11 @@ Excited to learn from this experience...
 - [x] Create a new `## Research` section in your personal file inside `2026/participants/`, with a list of links to the resources you’ve found most useful so far in trying to understand Wagtail as a project and the specific GSoC project idea you’re interested in.
 - [x] Write a short blog post describing something you’ve learned recently, and share it with us. The post must be in English, include at least one image, be less than 500 words, and score a Grade 6 or lower on <https://hemingwayapp.com/>. The post has to be posted on a publicly-available platform (Dev.to, Hashnode, Medium, your own website). Link to it from your participant file in this repository.
 
-### BLOG POST
+### BLOG POSTS
 
-[How I Started Contributing to Wagtail for GSoC 2026](https://dev.to/gbeminiyi/how-i-started-contributing-to-wagtail-for-gsoc-2026-2hof)
+- [How I Started Contributing to Wagtail for GSoC 2026](https://dev.to/gbeminiyi/how-i-started-contributing-to-wagtail-for-gsoc-2026-2hof)
+
+- [Exploring Agent Skills for Wagtail](https://dev.to/gbeminiyi/exploring-agent-skills-for-wagtail-kem)
 
 
 ### Django and Wagtail fundamentals
@@ -68,10 +70,18 @@ Excited to learn from this experience...
 
 - [X] Go through Wagtail’s Getting started tutorial: [Your first Wagtail site](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
+### Starter kit upgrade
+
+
+- [x] Set up a new project with [the starter kit](https://github.com/wagtail/news-template).
+- [x] Write and share an AI [agent skill](https://agentskills.io/) to help with future maintenance of the project.
+
+The link to the blog post is in the [Learning and research](#learning-and-research) section above.
 
 ## Research
 
-[Contributing Guides](https://docs.wagtail.org/en/latest/contributing/index.html) - Wagtail's official contributing guide, which provides detailed information on how to contribute to the project, including coding standards, testing, and submitting pull requests.
-[Wagtail's Project Ideas](https://github.com/wagtail/gsoc/blob/main/project-ideas.md) - A list of project ideas for GSoC 2026.
-[Open Source Tutorial by Sir Chiemezuo](https://youtu.be/jedoK3AsumY?si=ZSHHQ2DiiGSMr2gv) - A comprehensive tutorial on how to contribute to open source projects, covering everything from finding a project to making your first contribution.
+- [Contributing Guides](https://docs.wagtail.org/en/latest/contributing/index.html) - Wagtail's official contributing guide, which provides detailed information on how to contribute to the project, including coding standards, testing, and submitting pull requests.
+- [Wagtail's Project Ideas](https://github.com/wagtail/gsoc/blob/main/project-ideas.md) - A list of project ideas for GSoC 2026.
+- [Open Source Tutorial by Sir Chiemezuo](https://youtu.be/jedoK3AsumY?si=ZSHHQ2DiiGSMr2gv) - A comprehensive tutorial on how to contribute to open source projects, covering everything from finding a project to making your first contribution.
+- [Intro to Agent skills](https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n)
 <!-- Use this section to keep tabs of your research relevant to the project ideas you are interested in. -->
