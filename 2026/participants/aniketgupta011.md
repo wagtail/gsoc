@@ -3,8 +3,8 @@
 ## Introduction
 Hi! 👋
 
-I'm Aniket Gupta, a 1st year Computer Science student from West Bengal, India. I have a robust experience in backend devlopment using Django, and I alos like to work on the frontend side too. I am very interested in the **Demo Website Redesign** project and would like to have the opportunity to contribute to it.
- 
+I'm Aniket Gupta, a 1st year Computer Science student from West Bengal, India. I have a robust experience in backend development using Django, and I also like to work on the frontend side too. I am very interested in the **Demo Website Redesign** project and would like to have the opportunity to contribute to it.
+
 I am incredibly excited to bring my backend proficiency and problem-solving mindset to the Wagtail community for Google Summer of Code 2026, and I look forward to collaborating with the team to build impactful features!
 
 
@@ -14,9 +14,6 @@ I am incredibly excited to bring my backend proficiency and problem-solving mind
 |----------------|---------------------------------------------------|
 | GitHub         | https://github.com/aniketgupta011                 |
 | LinkedIn       | https://www.linkedin.com/in/aniket-gupta-dev      |
-
-www.linkedin.com/in/aniket-gupta-dev
-Vanity URL name
 
 ## Tasks (Contributor Guide Checklists)
 
