@@ -59,9 +59,8 @@ So far, Wagtail has been really fun to use, and I am excited to explore more of 
 
 ### Project-specific tasks
 Demo website redesign
-- [ ] Create a new alternative visual look for the website, with its existing content.
-   - in progress
-   - View it at https://10billionpercent.github.io/bakeryhome-alt/
+- [x] Create a new alternative visual look for the website, with its existing content.
+   - View it live at https://10billionpercent.github.io/bakeryhome-alt/
 
 ## Research
 - Wagtail docs
