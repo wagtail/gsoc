@@ -9,6 +9,12 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 
 🎉 Wagtail has been selected to participate 🎉. Check out our [project ideas](./project-ideas.md), and our [contributor guide](https://wagtail.org/gsoc-guide/) with our recommendations for participants.
 
+Recap of the initial phase:
+
+- We received 340 expressions of interest.
+- And 50 requests for feedback on draft proposals.
+- And then 190 final proposals for concrete projects (75 for the demo website redesign, 44 for starter kit upgrades, 24 for multilingual support, 47 other ideas)
+
 ## 2025
 
 In 2025, we took part with [four projects](https://wagtail.org/blog/four-contributors-for-gsoc-2025/). Our org admins were Thibaud Colas and Sage Abdullah.
