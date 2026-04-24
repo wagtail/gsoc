@@ -14,6 +14,9 @@ Recap of the initial phase:
 - We received 340 expressions of interest.
 - And 50 requests for feedback on draft proposals.
 - And then 190 final proposals for concrete projects (75 for the demo website redesign, 44 for starter kit upgrades, 24 for multilingual support, 47 other ideas)
+- We shortlisted 18 proposals for our mentors to rank.
+- We expected to select 2-6 proposals based on our mentoring capacity.
+- We selected 4 "large" projects and 1 "medium" project.
 
 ## 2025
 
@@ -38,7 +41,7 @@ Recap of the initial phase:
 - And then 69 proposals for concrete projects (15 for grid-aware websites, 16 for CSP).
 - We shortlisted 10 proposals for our mentors to rank.
 - We expected to select 2-4 proposals based on our mentoring capacity.
-- We selected two "large" projects and two "medium" projects.
+- We selected 2 "large" projects and 2 "medium" projects.
 
 ## 2024
 
