@@ -5,6 +5,10 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 <!-- Future years: -->
 <!-- 👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC YEAR: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/130) for more details or to ask questions. -->
 
+## 2027
+
+👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC 2027: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/130) for more details or to ask questions.
+
 ## 2026
 
 🎉 Wagtail has been selected to participate 🎉. Check out our [project ideas](./project-ideas.md), and our [contributor guide](https://wagtail.org/gsoc-guide/) with our recommendations for participants.
