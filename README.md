@@ -11,7 +11,20 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 
 ## 2026
 
-🎉 Wagtail has been selected to participate 🎉. Check out our [project ideas](./project-ideas.md), and our [contributor guide](https://wagtail.org/gsoc-guide/) with our recommendations for participants.
+In 2026, we took part with [four projects](https://wagtail.org/blog/contributors-for-google-summer-of-code-2026/). Our org admins were Thibaud Colas and Meagen Voss.
+
+- [Guide website revamp](https://wagtail.org/blog/contributors-for-google-summer-of-code-2026/)
+  - Contributor: Raghad Dahi [@Raghaddahi](https://github.com/Raghaddahi)
+  - Mentors: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+- [Demo website redesign](https://wagtail.org/blog/contributors-for-google-summer-of-code-2026/)
+  - Contributor: Srishti Jaiswal [@Srishti-j18](https://github.com/Srishti-j18)
+  - Mentors: Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas)
+- [Starter kit upgrade](https://wagtail.org/blog/contributors-for-google-summer-of-code-2026/)
+  - Contributor: Aryan Khandhadiya [@aryanyk](https://github.com/aryanyk)
+  - Mentors: Meagen Voss [@vossisboss](https://github.com/vossisboss), Scott Cranfill [@Scotchester](https://github.com/Scotchester)
+- [Multilingual support improvements](https://wagtail.org/blog/contributors-for-google-summer-of-code-2026/)
+  - Contributor: Rodrigo Yáñez [@rypptc](https://github.com/rypptc)
+  - Mentors: Coen van der Kamp [@allcaps](https://github.com/allcaps), Thibaud Colas [@thibaudcolas](https://github.com/thibaudcolas), Sævar Öfjörð Magnússon [@saevarom](https://github.com/saevarom)
 
 Recap of the initial phase:
 
@@ -21,6 +34,7 @@ Recap of the initial phase:
 - We shortlisted 18 proposals for our mentors to rank.
 - We expected to select 2-6 proposals based on our mentoring capacity.
 - We selected 4 "large" projects and 1 "medium" project.
+- We got approved for 4 "large" projects.
 
 ## 2025
 
