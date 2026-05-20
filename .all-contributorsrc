@@ -112,10 +112,10 @@
       ]
     },
     {
-      "login": "jacobtoppm",
-      "name": "Jacob Topp-Mugglestone",
+      "login": "emilytoppm",
+      "name": "Emily Topp-Mugglestone",
       "avatar_url": "https://avatars.githubusercontent.com/u/55137073?v=4",
-      "profile": "https://github.com/jacobtoppm",
+      "profile": "https://github.com/emilytoppm",
       "contributions": [
         "mentoring",
         "eventOrganizing"
@@ -213,7 +213,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/86092410?v=4",
       "profile": "https://github.com/PaarthAgarwal",
       "contributions": [
-        "code"
+        "code",
+        "mentoring"
       ]
     },
     {
@@ -248,6 +249,123 @@
       "name": "Aman Pandey",
       "avatar_url": "https://avatars.githubusercontent.com/u/74553951?v=4",
       "profile": "https://github.com/salty-ivy",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "activus-d",
+      "name": "Damilola Oladele",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98895460?v=4",
+      "profile": "https://damilola-oladele.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shyusu4",
+      "name": "Sherry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106587342?v=4",
+      "profile": "https://github.com/shyusu4",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "dhruvipatel14",
+      "name": "Dhruvi Patel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57789853?v=4",
+      "profile": "https://github.com/dhruvipatel14",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Raghaddahi",
+      "name": "Raghad Dahi ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186389490?v=4",
+      "profile": "https://raghaddahi.pythonanywhere.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aryanyk",
+      "name": "Aryan Khandhadiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71654152?v=4",
+      "profile": "https://github.com/aryanyk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Srishti-j18",
+      "name": "Srishti Jaiswal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96656007?v=4",
+      "profile": "https://github.com/Srishti-j18",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nandini584",
+      "name": "Nandini Arora",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117419442?v=4",
+      "profile": "https://github.com/nandini584",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "joelwilliam2005",
+      "name": "Joel William",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169896739?v=4",
+      "profile": "https://joelwilliam.online/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rypptc",
+      "name": "herr_pilgrim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64696674?v=4",
+      "profile": "https://github.com/rypptc",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Chiemezuo",
+      "name": "Chiemezuo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29470516?v=4",
+      "profile": "https://github.com/Chiemezuo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SaptakS",
+      "name": "Saptak Sengupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9530293?v=4",
+      "profile": "https://saptaks.website/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "saevarom",
+      "name": "Sævar Öfjörð Magnússon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143557?v=4",
+      "profile": "https://github.com/saevarom",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "rohitsrma",
+      "name": "Rohit Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111359305?v=4",
+      "profile": "https://github.com/rohitsrma",
       "contributions": [
         "code"
       ]

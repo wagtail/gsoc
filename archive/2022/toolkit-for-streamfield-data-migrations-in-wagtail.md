@@ -49,7 +49,7 @@ At the same time we also started work on autodetecting changes made to streamfie
 
 #### Learning
 
-The project was a great learning opportunity for me. I learnt a lot in the way of writing better and more reusable code, coding conventions in python as well as writing good comments/descriptions/docstrings, the last of which was something I barely used to do before. In addition I learnt a lot about wagtail, as well as how django's migration process works. A special thanks goes to the mentors Jacob (@jacobtoppm), Josh (@jams2) and Karl (@kaedroho) for their wonderful guidance and extensive code reviews.
+The project was a great learning opportunity for me. I learnt a lot in the way of writing better and more reusable code, coding conventions in python as well as writing good comments/descriptions/docstrings, the last of which was something I barely used to do before. In addition I learnt a lot about wagtail, as well as how django's migration process works. A special thanks goes to the mentors Emily (@emilytoppm), Josh (@jams2) and Karl (@kaedroho) for their wonderful guidance and extensive code reviews.
 
 #### PRs
 

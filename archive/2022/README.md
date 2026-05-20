@@ -136,7 +136,7 @@ Django, Python.
 
 ### Mentors
 
-- Lead: Jacob Topp-Mugglestone https://github.com/jacobtoppm
+- Lead: Emily Topp-Mugglestone https://github.com/emilytoppm
 - Support: Karl Hobley https://github.com/kaedroho
 - Support 2: Josh Munn https://github.com/jams2
 
