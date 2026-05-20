@@ -7,7 +7,7 @@ Welcome! This repository contains all resources for Wagtail’s participation to
 
 ## 2027
 
-👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC 2027: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/130) for more details or to ask questions.
+👋 we don’t know whether we’ll take part. If you want to participate with us, please register your interest with [our form: wagtail.org/gsoc-apply](https://wagtail.org/gsoc-apply/). View our [GSoC 2027: expression of interest discussion](https://github.com/wagtail/gsoc/discussions/271) for more details or to ask questions.
 
 ## 2026
 
