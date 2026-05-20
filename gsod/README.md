@@ -2,14 +2,6 @@
 
 Welcome! This repository contains all resources for Wagtail’s participation to [Google Season of Docs](https://developers.google.com/season-of-docs/).
 
-## 2025
-
-👋 we’ve not decided whether we’d take part in Season of Docs in 2025.
-
-## 2024
-
-We’ve decided to not participate in 2024.
-
 ## 2023
 
 We worked with software engineer and technical writer [Damilola Oladele](https://twitter.com/activus_d) ([@activus-d](https://github.com/activus-d)) to produce a new tutorial series for Wagtail developers.
