@@ -73,6 +73,14 @@ In 2023, we took part with [two projects](https://summerofcode.withgoogle.com/ar
 
 We received 102 expressions of interest and 35 proposals in 2023.
 
+In 2023, we also took part in [Google Season of Docs](https://developers.google.com/season-of-docs/) with technical writer [Damilola Oladele](https://twitter.com/activus_d) ([@activus-d](https://github.com/activus-d)). We produced a new tutorial series for Wagtail developers. View [our Google Season of Docs 2023 archives](./archive/2023-gsod/).
+
+Read about the project:
+
+- 15 Jan 2024 - [The lessons I learned during my Google Season of Docs program](https://wagtail.org/blog/the-lessons-i-learned-during-my-google-season-of-docs-program/)
+- 3 Jan 2024 – [A new tutorial series for the new year](https://wagtail.org/blog/a-new-tutorial-series-for-the-new-year/)
+- 10 May 2023 – [Meet Damilola Oladele, Our First Technical Writer for Google Season of Docs](https://wagtail.org/blog/our-first-google-season-of-docs-2023/)
+
 ### 2022
 
 In 2022, we took part with [three projects](https://summerofcode.withgoogle.com/archive/2022/organizations/wagtail) and an additional unofficial project. Our org admins were Dawn Wages and Thibaud Colas.
