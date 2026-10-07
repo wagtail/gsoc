@@ -6,6 +6,7 @@ Per our [generative AI policy](https://docs.wagtail.org/en/latest/contributing/g
 
 - Review and test all AI-generated code. You are expected to understand the code, and take final accountability for it.
 - Include a disclosure if you use generative AI for your code contribution.
+- Always write pull request descriptions manually
 
 In addition, we recommend to:
 
